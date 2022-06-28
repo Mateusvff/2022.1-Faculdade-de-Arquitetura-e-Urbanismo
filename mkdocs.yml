@@ -12,14 +12,11 @@ theme:
   language: "pt"
   logo: "assets/logo_faunb.png"
   palette:
-    primary: "blue"
-    accent: "light blue"
+    primary: "grey"
+    accent: "light grey"
   font:
     text: "Montserrat"
     code: "sans-serif"
-
-extra_css:
-  - extra.css
 
 plugins:
   - mkdocs-video
