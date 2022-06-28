@@ -1,11 +1,11 @@
 # Project information
-site_name: faunb
+site_name: Faculdade de Arquitetura e Urbanismo
 site_author: Grupo 03
-site_url: https://Requisitos-de-Software.github.io/2021.2-faunb
+site_url: https://Requisitos-de-Software.github.io/2022.1-Faculdade-de-Arquitetura-e-Urbanismo
 
 # Repository
-repo_name: 2021.2-faunb
-repo_url: https://github.com/Requisitos-de-Software/2021.2-faunb
+repo_name: 2022.1-Faculdade-de-Arquitetura-e-Urbanismo
+repo_url: https://github.com/Requisitos-de-Software/2022.1-Faculdade-de-Arquitetura-e-Urbanismo
 
 theme:
   name: "material"
