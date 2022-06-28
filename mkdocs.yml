@@ -1,0 +1,29 @@
+# Project information
+site_name: faunb
+site_author: Grupo 03
+site_url: https://Requisitos-de-Software.github.io/2021.2-faunb
+
+# Repository
+repo_name: 2021.2-faunb
+repo_url: https://github.com/Requisitos-de-Software/2021.2-faunb
+
+theme:
+  name: "material"
+  language: "pt"
+  logo: "assets/logo_faunb.png"
+  palette:
+    primary: "blue"
+    accent: "light blue"
+  font:
+    text: "Montserrat"
+    code: "sans-serif"
+
+extra_css:
+  - extra.css
+
+plugins:
+  - mkdocs-video
+
+# Content Menu
+nav:
+  - Início: index.md
