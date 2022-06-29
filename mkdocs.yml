@@ -24,3 +24,4 @@ plugins:
 # Content Menu
 nav:
   - Início: index.md
+  - Planejamento: escolha-do-site.md
