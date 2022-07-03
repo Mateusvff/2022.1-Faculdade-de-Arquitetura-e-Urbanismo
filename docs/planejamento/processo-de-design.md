@@ -6,7 +6,7 @@
 **Data** | **Versão** | **Descrição** | **Autor(es/as)** | **Revisor(es/as)**
 :---: | :---: | :---: | :---:  | :---:
 28/06/2022 | 0.1 | Versão Inicial | Mateus Franco | Thalisson
-03/07/2022 | 0.2 | Adição das informações referente ao artefato | Thalisson | -
+03/07/2022 | 0.2 | Adição das informações referentes ao artefato | Thalisson | -
 
 ## 1. Introdução
 O processo de design de IHC envolve as seguintes atividades: análise da situação atual (para identificar o problema), a síntese de uma intervenção e a avaliação dessa intervenção projetada ou já aplicada à situação atual. Cada processo de design detalha essas atividades de um jeito diferente, definindo como executar as atividades, quais artefatos cada uma consumirá e produzirá, a ordem de execução, quais atividades podem se repetir e por quais motivos.
