@@ -3,10 +3,11 @@
 
 ### Histórico de Versões
 
-**Data** | **Versão** | **Descrição** | **Autor(es/as)**
---- | --- | --- | --- 
-28/06/2022 | 0.1 | Versão Inicial | Mateus Franco
-06/07/2022 | 0.2 | Versão Inicial | Laura Pinos
+**Data** | **Versão** | **Descrição** | **Autor(es/as)** | **Revisor** |
+--- | --- | --- | --- | --- |
+28/06/2022 | 0.1 | Criação do Documento | Mateus Franco | Laura Pinos
+06/07/2022 | 0.2 | Adição dos Horários da Equipe | Laura Pinos | Caio César
+07/07/2022 | 0.3 | Divisão das Atividades | Caio César | Matheus Costa
 
 ## 1. Cronograma de atividades
 Cronograma de atividades
@@ -30,4 +31,5 @@ Caio César| Cronograma de Atividades
 Laura e Mateus Vinícius| Planejamentos do projeto
 Letícia| Ferramentas
 Thalisson|Processo de Design 
+Matheus Costa|Sites Avaliados
 
