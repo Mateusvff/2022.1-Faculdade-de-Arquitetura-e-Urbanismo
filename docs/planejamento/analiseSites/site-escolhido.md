@@ -16,7 +16,7 @@
 ## Avaliação
 A avaliação do site foi feita com base no _framework_ DECIDE, proposto por Sharp, Rogers e Preece (2007) para auxiliar no processo de uma avaliação de IHC (BARBOSA; SILVA; 2010, p. 312).
 
-Ele basicamente estabelece que é preciso esabelecer os **objetivos** da avaliação, em seguida escolher **métodos de avaliação** adequados, **identificar** as questões práticas envolvidas como perfis dos usuários, e um escopo de avaliação definido, e por fim **avaliar** os dados.
+Ele basicamente estabelece que é preciso determinar os **objetivos** da avaliação, em seguida escolher **métodos de avaliação** adequados, **identificar** as questões práticas envolvidas como perfis dos usuários, e um escopo de avaliação definido, e por fim **avaliar** os dados.
 
 <center>
 
