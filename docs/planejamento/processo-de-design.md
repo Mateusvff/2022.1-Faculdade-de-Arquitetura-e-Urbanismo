@@ -30,5 +30,5 @@ A fase de **design, avaliação e desenvolvimento** tem por objetivo conceber um
 
 Na fase de **instalação**, o designer deve coletar opiniões dos usuários depois de algum tempo de uso, elas são úteis para melhorar o sistema nas próximas versões ou desenvolver novos sistemas não previstos.
 
-## 4. Referências
+## Referências
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação
