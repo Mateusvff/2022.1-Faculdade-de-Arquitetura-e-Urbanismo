@@ -24,8 +24,8 @@ plugins:
 # Content Menu
 nav:
   - Início: index.md
-  - Planejamento: 
-    - Cronograma: planejamento/cronograma-de-atividades.md
-    - Sites Avaliados: planejamento/escolha-do-site.md
-    - Metodologias: planejamento/metodologia-e-processos.md
-    - Processo de Design: planejamento/processo-de-design.md
+  - Planejamento:
+    - Cronograma de atividades: planejamento/cronograma-de-atividades.md
+    - Escolha do site: planejamento/escolha-do-site.md
+    - Metodologia e processos: planejamento/metodologia-e-processos.md
+    - Processo de design: planejamento/processo-de-design.md
