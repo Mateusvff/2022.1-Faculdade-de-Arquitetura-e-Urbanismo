@@ -40,9 +40,9 @@ A tabela a seguir mostra os horários diários dos integrantes da equipe, visand
 
 ### 4.1 Sprint 1 - Entrega da apresentação do projeto etapa 1 
 
-**Integrante** | **Atividade** | **Revisor** | **Entrega Limite** |
+**Autor** | **Atividade** | **Revisor** | **Entrega Limite** |
 --- | --- | --- | --- |
-Caio César | Cronograma de Atividades | Mateus Vinícius | 11/07 |
+Caio César | Cronograma de Atividades | Matheus Costa | 11/07 |
 Laura e Mateus Vinícius | Planejamento do Projeto | Laura | 11/07 | 
 Letícia Aires | Metodologias | Caio César | 11/07 |
 Matheus Costa | Sites Avaliados | Thalisson Alves | 11/07 | 
