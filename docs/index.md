@@ -8,7 +8,9 @@ Faculdade de Arquitetura-FAU, UnB.
 
 ##  Sobre o projeto
 
-Repositório do grupo 3 da matéria Interação Humano-Computador da Universidade de Brasília. Com o objetivo de analisar o site da [Faculdade de Arquitetura da Universidade de Brasília](http://www.fau.unb.br/), e aplicando conceitos aprendidos na disciplina e propondo melhorias de usabilidade para o site. Este trabalhado está sendo realizado no período 2022.1.
+Este repositório foi destinado ao Grupo 3 da disciplina de Interação Humano-Computador, ministrada pelo professor André Barros de Sales na Universidade de Brasília.
+
+O projeto tem como objetivo de realizar uma avaliação do site da [Faculdade de Arquitetura da Universidade de Brasília](http://www.fau.unb.br/), aplicando conceitos aprendidos na disciplina e propondo melhorias de usabilidade para o site. Este trabalho está sendo realizado no período 2022.1.
 
 ## Colaboradores
 
