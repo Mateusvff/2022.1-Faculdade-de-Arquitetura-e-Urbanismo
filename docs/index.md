@@ -1,37 +1,71 @@
-## Welcome to GitHub Pages
+# GRUPO 3
 
-You can use the [editor on GitHub](https://github.com/Interacao-Humano-Computador/2022.1-Grupo-03/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Faculdade de Arquitetura-FAU, UnB.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<div align="center">
+  <img width="200" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.1-Faculdade-de-Arquitetura-e-Urbanismo/escolha-do-site/docs/assets/logo_fau_homepage.png"/>
+</div>
 
-### Markdown
+##  Sobre o projeto
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Repositório do grupo 3 da matéria Interação Humano-Computador da Universidade de Brasília. Com o objetivo de analisar o site da [Faculdade de Arquitetura da Universidade de Brasília](http://www.fau.unb.br/), e aplicando conceitos aprendidos na disciplina e propondo melhorias de usabilidade para o site. Este trabalhado está sendo realizado no período 2022.1.
 
-```markdown
-Syntax highlighted code block
+## Colaboradores
 
-# Header 1
-## Header 2
-### Header 3
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/54439337?v=4" width="100px;" alt="Foto Caio César"/><br>
+        <sub>
+          <b>Caio César</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/62102447?v=4" width="100px;" alt="Foto Laura Pinos"/><br>
+        <sub>
+          <b>Laura Pinos</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/72623771?v=4" width="100px;" alt="Foto Letícia Aires"/><br>
+        <sub>
+          <b>Letícia Aires</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/71900095?v=4" width="100px;" alt="Foto Mateus Franco"/><br>
+        <sub>
+          <b>Mateus Franco</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/72279998?v=4" width="100px;" alt="Foto Matehus Costa
+"/><br>
+        <sub>
+          <b>Matheus Costa
+</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/62034738?v=4" width="100px;" alt="Foto Thalisson Alves
+"/><br>
+        <sub>
+          <b>Thalisson Alves
+</b>
+        </sub>
+      </a>
+    </td>    
+</table>
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Interacao-Humano-Computador/2022.1-Grupo-03/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<br/>
