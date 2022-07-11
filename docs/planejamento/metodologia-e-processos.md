@@ -2,10 +2,10 @@
 
 ### Histórico de Versões
 
-**Data** | **Versão** | **Descrição** | **Autor(es/as)**
---- | --- | --- | --- 
-28/06/2022 | 0.1 | Versão Inicial | Mateus Franco
-09/07/2022 | 0.2 | Adição do conteúdo dos tópicos 1, 2, 3, 4 e 5 | Letícia Aires
+**Data** | **Versão** | **Descrição** | **Autor(es/as)** | **Revisor**
+--- | --- | --- | --- | ---
+28/06/2022 | 0.1 | Versão Inicial | Mateus Franco | Letícia Aires
+09/07/2022 | 0.2 | Adição do conteúdo dos tópicos 1, 2, 3, 4 e 5 | Letícia Aires | Matheus Costa
 
 ## 1. Introdução
 
