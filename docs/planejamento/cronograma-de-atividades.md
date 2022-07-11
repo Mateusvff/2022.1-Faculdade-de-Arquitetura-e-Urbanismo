@@ -8,10 +8,10 @@
 28/06/2022 | 0.1 | Criação do Documento | Mateus Franco | Laura Pinos
 06/07/2022 | 0.2 | Adição dos Horários da Equipe | Laura Pinos | Caio César
 07/07/2022 | 0.3 | Divisão das Atividades | Caio César | Matheus Costa
-09/07/2022 | 0.4 | Cronograma de Atividades, Cronograma de Entregas adicionado e alteração na Divisão de atividades  | Caio César | Thalisson Alves
+09/07/2022 | 0.4 | Cronograma de Atividades e de Entregas adicionados e alteração na Divisão de atividades  | Caio César | Thalisson Alves
 
 ## 1. Cronograma de atividades
-O objetivo do documento de cronograma de atividades é demonstrar uma visualização rápida da divisão cronológica do semestre conforme especificado no plano de ensino. As tabelas de atividades listam as principais tarefas que foram realizadas durante uma sprint. Cada Sprint está relacionada com uma entrega da disciplina e também a gravação de uma apresentação. Além disso mostra o que cada integrante do time realizou ao longo do período de atividades.
+O objetivo deste documento é apresentar uma visualização rápida da divisão cronológica do semestre, conforme especificado no plano de ensino da disciplina. As tabelas de atividades listam as principais tarefas que foram realizadas durante uma Sprint. Cada Sprint está relacionada com uma entrega da disciplina e também à gravação de uma apresentação. Além disso, as tabelas mostram o que cada integrante do time realizou ao longo do período de atividades.
 
 ## 2. Disponibilidade de horário dos avaliadores
 
