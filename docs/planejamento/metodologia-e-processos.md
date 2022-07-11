@@ -15,7 +15,7 @@ Nesse sentido, o presente documento visa informar metodologias, processos e prá
 
 ## 2. Metodologias
 
-### 2.1 Gerenciamento de Projetos (SCRUM)
+### 2.1. Gerenciamento de Projetos (SCRUM)
 
 Com o fito de tornar mais eficiente o gerenciamento da equipe, optou-se pela utilização de metodologias ágeis, em especial o SCRUM, o qual se fundamenta nos seguintes princípios:
 
@@ -30,7 +30,7 @@ Desse modo, em se estabelecendo períodos iterativos com prazos e objetivos dete
 
 ## 3. Políticas e regras
 
-### 3.1 Política de Commit
+### 3.1. Política de Commit
 
 Os commits realizados devem ser pequenos e significativos, de forma que cada um possua uma única funcionalidade (commits atômicos). Ademais, estes devem seguir estrutura padronizada pré-acordada. Isto é, deve-se realizar o commit da seguinte forma:
 
@@ -41,26 +41,29 @@ Co-authored-by: user <email>
 
 #### Tipos:
 
-* 🚀 quando adicionar código do front-end :rocket:
-* 💾 quando adicionar código do back-end :floppy_disk:
-* 🔁 quando alguma alteração for feita :repeat:
-* 🆒 quando melhorias de formato/estrutura do código :cool:
-* 🐎 quando melhorar o desempenho :racehorse:
-* ❌ quando resolver memory leaks :x:
-* 📝 quando escrever documentação :pencil:
-* 🐛 quando consertar um problema :bug:
-* 🔥 quando remover código ou arquivos :fire:
-* 💚 quando consertar problemas de Integração Contínua :green_heart:
-* ✅ quando adicionar testes :white_check_mark:
-* 🔒 quando lidar com segurança :lock:
-* ⬆️ quando realizar o upgrade de dependências :arrow_up:
-* ⬇️ quando realizar downgrade de dependências :arrow_down:
+* 🚀 quando adicionar código do front-end `:rocket:`
+* 💾 quando adicionar código do back-end `:floppy_disk:`
+* 🔁 quando alguma alteração for feita `:repeat:`
+* 🆒 quando melhorias de formato/estrutura do código `:cool:`
+* 🐎 quando melhorar o desempenho `:racehorse:`
+* ❌ quando resolver memory leaks `:x:`
+* 📝 quando escrever documentação `:pencil:`
+* 🐛 quando consertar um problema `:bug:`
+* 🔥 quando remover código ou arquivos `:fire:`
+* 💚 quando consertar problemas de Integração Contínua `:green_heart:`
+* ✅ quando adicionar testes `:white_check_mark:`
+* 🔒 quando lidar com segurança `:lock:`
+* ⬆️ quando realizar o upgrade de dependências `:arrow_up:`
+* ⬇️ quando realizar downgrade de dependências `:arrow_down:`
 
-### 3.2 Política de Branch
+#### Exemplo de commit
+`🔁(#10): inserção de novo tópico`
+
+### 3.2. Política de Branch
 
 #### Main
 
-A branch main deve abarcar somente o código já testado, versionado e revisado, ou seja, pronto para ser entregue ao usuário final. Alem disso, a branch deve originar da branch develop por meio de pull request.
+A branch main deve abarcar somente o código já testado, versionado e revisado, ou seja, pronto para ser entregue ao usuário final. Alem disso, a branch deve originar da branch develop por meio de Pull Requests.
 
 #### Development
 
@@ -70,7 +73,7 @@ Nesta branch consta a versão mais atualizada do código e deve sempre se manter
 
 As branches feature são mecanismos temporários de desenvolvimento de código com função específica de cumprir determinado objetivo de uma issue, assim, a branch development deve ser sua origem e fim.
 
-Nomeclatura utilizada: feature/(#n° da issue)_nome_da_issue
+Nomenclatura utilizada: feature/(#n° da issue)_nome_da_issue
 
 ## 4. Ferramentas 
 
@@ -83,7 +86,7 @@ Nomeclatura utilizada: feature/(#n° da issue)_nome_da_issue
 
 ## 5. Referências
 
-Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J.Interação Humano-Computador e Experiência do usuário. 2021. Autopublicação. ISBN: 978-65-00-19677-1
+> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J.Interação Humano-Computador e Experiência do usuário. 2021. Autopublicação. ISBN: 978-65-00-19677-1
 
-COHN, Mike. Desenvolvimento de Software com Scrum: Aplicando Métodos Ágeis com Sucesso. 2021. Endereço de acesso: https://books.google.com.br/books?hl=pt-BR&lr=&id=gbgpDwAAQBAJ&oi=fnd&pg=PP1&dq=scrum&ots=LKeHqsPUgZ&sig=K6qMsH0Oq EpWFC6pGD1nHzBNJUI#v=onepage&q=scrum&f=false
+> COHN, Mike. **Desenvolvimento de Software com Scrum**: Aplicando Métodos Ágeis com Sucesso. 2021. Disponível em: [https://books.google.com.br/books](https://books.google.com.br/books?hl=pt-BR&lr=&id=gbgpDwAAQBAJ&oi=fnd&pg=PP1&dq=scrum&ots=LKeHqsPUgZ&sig=K6qMsH0Oq#v=onepage&q=scrum&f=false). Acesso em: 10 de jul. de 2022.
 
