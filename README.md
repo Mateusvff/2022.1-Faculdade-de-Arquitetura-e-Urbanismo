@@ -71,11 +71,3 @@ O projeto tem como objetivo de realizar uma avaliação do site da [Faculdade de
 </table>
 
 <br/>
-
-***
-## Histórico de Versões
-
-**Data** | **Versão** | **Descrição** | **Autor(es/as)** | **Revisor** |
---- | --- | --- | --- | --- |
-11/07/2022 | 0.1 | Criação do Documento | Laura Pinos | Matheus Costa
-11/07/2022 | 0.2 | Adição do Histórico de versões | Matheus Costa | Mateus Franco
