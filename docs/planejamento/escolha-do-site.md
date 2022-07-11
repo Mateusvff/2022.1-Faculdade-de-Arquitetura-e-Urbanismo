@@ -8,6 +8,7 @@
 28/06/2022 | 0.1 | Criação do Documento | Mateus Franco | Matheus Costa |
 06/07/2022 | 0.2 | Adição da _Introdução_ e tabela dos _Sites avaliados_ | Matheus Costa | Laura Pinos |
 08/07/2022 | 0.3 | Adição da motivação da escolha do site | Matheus Costa | Thalisson
+11/07/2022 | 0.4 | Adição do tópico de Referências | Matheus Costa | Caio César
 
 ## 1. Introdução
 Inicialmente foi realizada uma avaliação mais superficial de 5 sites,
@@ -31,3 +32,5 @@ Dentre os _sites_ apresentados anteriormente, foi observado pela equipe que algu
 
 No momento da decisão, um fator foi de extrema importância para chegar a um veredito: o site do IPHAN estava passando por uma alteração em sua estrutura e estava se adequando ao padrão do domínio dos sites do governo, o que poderia resultar em muitas mudanças que poderiam comprometer o desenvolvimento do projeto. Diante desse fato, optamos pela avaliação do site da [Faculdade de Arquitetura e Urbanismo](http://fau.unb.br/) da Universidade de Brasília, devido à sua estrutura mais consolidada.
 
+## Referências
+> BARBOSA, Simone; SILVA, Bruno. Planejamento da Avaliação de IHC. **Interação Humano-Computador**. 1ª Edição. Elsevier, 2010.
