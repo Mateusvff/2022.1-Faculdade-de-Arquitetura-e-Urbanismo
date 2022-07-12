@@ -77,12 +77,12 @@ Nomenclatura utilizada: feature/(#n° da issue)_nome_da_issue
 
 ## 4. Ferramentas 
 
-**Ícones** | **Ferramentas** | **Função** 
---- | --- | --- 
- |<img src="/docs/assets/discord-logo-png-7617.png" width=60> | Discord| Aplicativo para condução de reuniões remotas 
- |<img src="/docs/assets/512x512-logo-27148.png" width=60> | Github| Site responsável  por abarcar o repositório
- |<img src="/docs/assets/whatsapp-icon.png" width=60> | Whatsapp| Aplicativo de mensagem de texto para comunicação trivial
- |<img src="/docs/assets/mkdocs-icon.png" width=60> | Mkdocs| Site para a documentação do projeto
+| **Ícones** | **Ferramentas** | **Função** |
+| --- | --- | --- |
+|<img src="../docs/assets/discord-logo-png-7617.png" width=60> | Discord| Aplicativo para condução de reuniões remotas |
+|<img src="../docs/assets/512x512-logo-27148.png" width=60> | Github| Site responsável  por abarcar o repositório |
+|<img src="../docs/assets/whatsapp-icon.png" width=60> | Whatsapp| Aplicativo de mensagem de texto para comunicação trivial |
+|<img src="../docs/assets/mkdocs-icon.png" width=60> | Mkdocs| Site para a documentação do projeto |
 
 ## 5. Referências
 
