@@ -6,6 +6,7 @@
 --- | --- | --- | --- | ---
 28/06/2022 | 0.1 | Versão Inicial | Mateus Franco | Letícia Aires
 09/07/2022 | 0.2 | Adição do conteúdo dos tópicos 1, 2, 3, 4 e 5 | Letícia Aires | Matheus Costa
+16/07/2022 | 0.3 | Adição de legenda da tabela de ferramentas | Matheus Costa | Caio César 
 
 ## 1. Introdução
 
@@ -75,7 +76,9 @@ As branches feature são mecanismos temporários de desenvolvimento de código c
 
 Nomenclatura utilizada: feature/(#n° da issue)_nome_da_issue
 
-## 4. Ferramentas 
+## 4. Ferramentas
+
+A tabela abaixo mostra quais foram as ferramentas utilizadas pela equipe no desenvolvimento do projeto.
 
 | **Ícones** | **Ferramentas** | **Função** |
 | --- | --- | --- |
@@ -83,8 +86,9 @@ Nomenclatura utilizada: feature/(#n° da issue)_nome_da_issue
 |<img src="https://user-images.githubusercontent.com/54439337/178488593-7d264a24-1a36-41c5-81cd-88a07b0f6c04.png" height= 60 width=60> | Github| Site responsável  por abarcar o repositório |
 |<img src="https://user-images.githubusercontent.com/54439337/178488687-c0b4806d-6d4f-49e0-ac83-70490371a6cc.png" height= 60 width=60> | Whatsapp| Aplicativo de mensagem de texto para comunicação trivial |
 |<img src="https://user-images.githubusercontent.com/54439337/178488789-69ddaafc-2d25-4d76-b780-3a90bda82ee6.png" height= 60 width=60> | Mkdocs| Site para a documentação do projeto |
+<h6 align = "center">Tabela 1: ferramentas utilizadas</h6>
 
-## 5. Referências
+## Referências
 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J.Interação Humano-Computador e Experiência do usuário. 2021. Autopublicação. ISBN: 978-65-00-19677-1
 
