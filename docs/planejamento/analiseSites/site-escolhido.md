@@ -15,14 +15,14 @@
 09/07/2022 | 0.2 | Adição dos tópicos _Objetivos_ e _Método de avaliação_ | Matheus Costa | Letícia Aires
 
 ## Introdução
-A avaliação do site foi feita com base no _framework_ DECIDE, proposto por Sharp, Rogers e Preece (2007) para auxiliar no processo de uma avaliação de IHC (BARBOSA; SILVA; 2010, p. 312).
+A avaliação do site foi feita com base no _framework_ DECIDE (imagem 1), proposto por Sharp, Rogers e Preece (2007) para auxiliar no processo de uma avaliação de IHC (BARBOSA; SILVA; 2010, p. 312).
 
 Ele basicamente estabelece que é preciso determinar os **objetivos** da avaliação, em seguida escolher **métodos de avaliação** adequados, **identificar** as questões práticas envolvidas, como perfis dos usuários e um escopo de avaliação definido, e por fim **avaliar** os dados.
 
 <center>
 
    ![Logo da FAU](../../assets/img_decide.png)
-   <figcaption> Framework DECIDE </figcaption>
+   <figcaption> Imagem 1: Framework DECIDE </figcaption>
 </center>
 
 ## 1. Objetivos
