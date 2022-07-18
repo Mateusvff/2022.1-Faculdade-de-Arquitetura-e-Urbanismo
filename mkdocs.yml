@@ -29,5 +29,7 @@ nav:
     - Escolha do site: planejamento/escolha-do-site.md
     - Metodologia e processos: planejamento/metodologia-e-processos.md
     - Processo de design: planejamento/processo-de-design.md
+  - Análise de Requisitos:
+    - Personas: analise-de-requisitos/personas.md
   - Apresentações:
     - Apresentação 1 - Planejamento e Design de projeto: apresentacoes/apresentacao1.md
