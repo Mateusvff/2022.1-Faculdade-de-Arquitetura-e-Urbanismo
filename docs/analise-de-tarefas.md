@@ -14,7 +14,7 @@ Uma tarefa é qualquer parte do trabalho que precisa ser realizada e pode ser de
 
 Como o objetivo principal é a avaliação de um sistema computacional já existente, a análise de tarefas será realizada através do método de _Análise Hierárquica de Tarefas_. Tal método foi escolhido para a análise, pois ela facilita a ilustração de tarefas do sistema, separando-as em objetivos, subobjetivos e operações e os relacionando de diferentes maneiras em relação a como as tarefas devem ser executadas pelo usuário.
 
-## 2. Passos para a realização da análise de tarefas
+## 2. Passos para a realização da Análise de Tarefas
 
 1. Realiza-se a coleta de um conjunto de objetivos, definidos em termos psicológicos, ou seja, os objetivos das pessoas.
 
@@ -32,10 +32,15 @@ A tarefa "Consultar fluxograma de graduação" é uma das principais tarefas rea
 Abaixo, representado pela **Figura 1** está analisando graficamente quais são os objetivos e os passos necessários para que tal objetivos seja concluído com êxito por parte do usuário.
 
 ![Figura 1](../docs/assets/hta-consulta-de-fluxograma.png)
+**Figura 1:** Diagrama para Análise Hierárquica de Tarefas para consulta de fluxograma de graduação.
 
 ### 3.2. Representação em tabela para consulta de fluxograma de graduação
 
+Abaixo, na Figura 2, temos a representação em tabela equivalente ao diagrama apresentado na Figura 1 acima.
+Uma ação pode ser entendida como uma instrução para fazer algo sob certas circunstâncias, o input como estados e o feedback como testes ou avaliação do estado final.
 
+![Figura 2](../docs/assets/tabela-figura2.png)
+**Figura 2:** Tabela equivalente ao diagrama para Análise Hierárquica de Tarefas para consulta de fluxograma de graduação.
 
 ## 4. Referências
 
