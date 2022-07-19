@@ -36,14 +36,14 @@ Abaixo, representado pela **Figura 1** está analisando graficamente quais são 
 
 ### 3.2. Representação em tabela para consulta de fluxograma de graduação
 
-Abaixo, na Figura 2, temos a representação em tabela equivalente ao diagrama apresentado na Figura 1 acima.
+Abaixo, na **Figura 2**, temos a representação em tabela equivalente ao diagrama apresentado na Figura 1 acima.
 Uma ação pode ser entendida como uma instrução para fazer algo sob certas circunstâncias, o input como estados e o feedback como testes ou avaliação do estado final.
 
-![Figura 2](../docs/assets/tabela-figura2.png)
+![Figura 2](../docs/assets/tabela-hta.png)
+
 **Figura 2:** Tabela equivalente ao diagrama para Análise Hierárquica de Tarefas para consulta de fluxograma de graduação.
 
 ## 4. Referências
-
 BARBOSA, Simone; SILVA, Bruno. Planejamento da Avaliação de IHC. **Interação Humano-Computador**. 1ª Edição. Elsevier, 2010.
 
 Annett, J. (2003) **“Hierarchical Tasks Analysis”.** In: Hollnagel (ed.) Handbook of Cognitive Task Design.
