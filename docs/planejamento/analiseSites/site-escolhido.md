@@ -14,6 +14,7 @@
 08/07/2022 | 0.1 | Criação do documento e descrição de tópico introdutório _Avaliação_ | Matheus Costa | Caio César |
 09/07/2022 | 0.2 | Adição dos tópicos _Objetivos_ e _Método de avaliação_ | Matheus Costa | Letícia Aires
 18/07/2022 | 0.3 | Adição do tópico da _Avaliação Heurísitca_ | Matheus Costa | Caio César
+19/07/2022 | 0.3.1 | Adição dos subtópicos _Modelo de avaliação_ e _Avaliação do site_ | Matheus Costa | Caio César
 
 ## Introdução
 A avaliação do site foi feita com base no _framework_ DECIDE (imagem 1), proposto por Sharp, Rogers e Preece (2007) para auxiliar no processo de uma avaliação de IHC (BARBOSA; SILVA; 2010, p. 312).
@@ -72,6 +73,92 @@ Como citado anteriormente, segundo Preece, Rogers e Sharp (2005, p. 48-49), Niel
 - **Estética e design minimalista**: evitar informações irrelevantes, que muitas vezes podem comprometer a visibilidade de informações relevantes;  
 
 - **Ajuda e documentação**: informações devem ser fáceis de encontrar e ajuda mediante uma série de passos concretos que podem ser facilmente seguidos.
+
+
+### 3.1. Modelo de avaliação
+
+A avaliação aproveitou um modelo de formulário proposto por Maciel _et al_. (2004, p. 13) que avalia um problema de usabilidade por meio de uma série de tópicos, os quais recebem uma classificação que ajudam a descrever o problema. O modelo pode ser visualizado na Figura 1 abaixo.
+
+<center>
+
+   ![Formulário de avaliação](../../assets/tabela_heuristica.png)
+   <figcaption> Figura 1: modelo de formulário</figcaption>
+</center>
+
+### 3.2. Avaliação do site
+
+Para a avaliação do site da FAU, foram considerados os problemas de: compatibilidade do sistema, controle do usuário, consistência e padrões e estética e design minimalista. É possível observar que nas tabelas de 1 a 5 a seguir estão registradas as avaliações.
+
+
+#### - Compatibilidade
+<h6 align = "center">Tabela 1: avaliação sobre compatibilidade do sistema</h6>
+Compatibilidade|  |
+---|---|
+Verificação:         | O site apresenta uma linguagem de fácil entendimento? <br> O usuário consegue atingir seu objetivo com facilidade? |
+Grau de severidade:  | Simples. |
+Perspectiva da tarefa: | Secundária. |
+Contexto:            | O usuário deseja saber os nomes dos integrantes do corpo diretor da faculdade. |
+Causa:               | A aba onde é possível identificar essas pessoas é denomindada "Quem é quem" e não possui um nome muito siginificativo. |
+Efeito sobre usuário: | Acaba gerando uma certa desorientação, podendo fazer com que o usuário leve mais tempo do que o necessário para achar esses dados. |
+Efeito sobre tarefa: | Pode gerar perda de tempo. |
+Correção possível:   | Alterar o nome da aba para "Coordenação" ou "Corpo docente" pode trazer mais significância. |
+
+
+#### - Controle do usuário
+<h6 align = "center">Tabela 2: avaliação sobre controle do usuário</h6>
+Controle do usuário | |
+---|---|
+Verificação:         | O usuário possui controle sobre o sistema? |
+Grau de severidade:  | Simples. |
+Perspectiva da tarefa: | Principal. |
+Contexto:            | Usuário clica em algum hiperlink. |
+Causa:               | Após o _click_ é aberta uma outra página fora do domínio do site da FAU mas na mesma guia do navegador. |
+Efeito sobre usuário: | Caso seja aberta uma página muito diferente da página principal, acaba se tornando exaustivo para o usuário ter que retornar sempre à página anterior. |
+Efeito sobre tarefa: | Trabalho adicional. |
+Correção possível:   | Mostrar as informações na mesma página ou estar apresentado de forma mais clara que o usuário será redirecionado na mesma aba da questão. |
+
+
+#### - Consistência e padrões
+
+<h6 align = "center">Tabela 3: avaliação sobre consistência e padrões</h6>
+Consistência e padrões |  |
+---|---|
+Verificação:         | Os links da página redirecionam para um local esperado? |
+Grau de severidade:  | Grave. |
+Perspectiva da tarefa: | Principal. |
+Contexto:            | O usuário está navegando pelo menu lateral de "Estrutura". |
+Causa:               | Alguns subtópicos clicáveis das seções "Instâncias" e "Secretarias" (que aparecem em sequência) mostram informações dentro da página da FAU, porém outros acabam abrindo uma outra página, fugindo de um padrão. |
+Efeito sobre usuário: | Gera uma quebra de expectativa no usuário. |
+Efeito sobre tarefa: | Trabalho adicional. |
+Correção possível:   | Manter os dados no mesmo local da página. |
+
+
+<h6 align = "center">Tabela 4: avaliação 2 sobre consistência e padrões</h6>
+Consistência e padrões |  |
+----|----|
+Verificação:         | A interface é intuitiva? |
+Grau de severidade:  | Grave. |
+Perspectiva da tarefa: | Principal. |
+Contexto:            | O usuário passa o mouse por cima de um componente na página. |
+Causa:               | Alguns desses componentes dão a entender que são clicáveis e que ao serem clicados apresentarão informações condizentes com o que o componente indica, mas no fim acabam não realizando nenhuma ação. |
+Efeito sobre usuário: | Desorientação. |
+Efeito sobre tarefa: | Perda de tempo. |
+Correção possível:   | Desabilitar a indicação de componente clicável. |
+
+
+#### - Estética e design minimalista
+
+<h6 align = "center">Tabela 5: avaliação sobre estética e design minimalista</h6>
+Estética e design minimalista |  | 
+---|---|
+Verificação:      |    Existe alguma informação irrelevante? <br> Exite alguma alternativa de design? |
+Grau de severidade:  | Cosmético. |
+Perspectiva da tarefa: | Principal. |
+Contexto:            | O usuário deseja saber das notícias mais recentes. |
+Causa:               | No menu principal existe uma opção denominada "Notícias", mas quando ela é clicada, é aberta uma outra página com um design completamente diferente do da página principal da FAU, referente ao "LaSUS - Laboratório de Sustentabilidade Aplicada à Arquitetura e ao Urbanismo". <br> Em contrapartida, o componente que redireciona à seção de notícias (de fato), pois possui uma estética semelhante à de anúncios em uma página, algo que  usuário tende a ignorar. |
+Efeito sobre usuário: | Hesitação. |
+Efeito sobre tarefa: | Trabalho adicional. |
+Correção possível:   | Agrupar as notícias na aba com melhor visualização. |
 
 
 ## Referências
