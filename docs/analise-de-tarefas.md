@@ -5,8 +5,8 @@
 
 **Data** | **Versão** | **Descrição** | **Autor(es/as)** | **Revisor**|
 --- | --- | --- | --- | --- |
-14/07/2022 | 0.1 | Criação do Documento | Mateus Franco | |
-19/07/2022 | 0.2 | Inserção dos diagrama e tabela | Mateus Franco
+14/07/2022 | 0.1 | Criação do Documento | Mateus Franco | Caio César |
+19/07/2022 | 0.2 | Inserção dos diagrama e tabela | Mateus Franco | Caio César |
 
 ## 1. Introdução
 
