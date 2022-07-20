@@ -5,9 +5,9 @@
 
 **Data** | **Versão** | **Descrição** | **Autor(es/as)** | **Revisor**
 :---: | :---: | :---: | :---:  | :---:
-17/07/2022 | 0.1 | Criação do Documento | Thalisson | 
-17/07/2022 | 0.2 | Adição da *introdução* | Thalisson | 
-18/07/2022 | 0.3 | Adição da *termo de consentimento* | Thalisson | 
+17/07/2022 | 0.1 | Criação do Documento | Thalisson | Caio César
+17/07/2022 | 0.2 | Adição da *introdução* | Thalisson | Caio César
+18/07/2022 | 0.3 | Adição da *termo de consentimento* | Thalisson | Caio César
 
 ## 1. Introdução
 É responsabilidade da equipe de design proteger o bem-estar físico e psicológico dos participantes de qualquer estudo. A Resolução No 466/2012 do Conselho Nacional de Saúde, que regulamenta as pesquisas científicas envolvendo pessoas, pode ser usada para orientar os avaliadores no cuidado ético durante seu trabalho. Esses cuidados envolvem os seguintes princípios:
