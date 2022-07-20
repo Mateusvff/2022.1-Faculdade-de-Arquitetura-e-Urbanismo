@@ -26,7 +26,9 @@ nav:
   - Início: index.md
   - Planejamento:
     - Cronograma de atividades: planejamento/cronograma-de-atividades.md
-    - Escolha do site: planejamento/escolha-do-site.md
+    - Análise dos sites:
+      - Sites avaliados: planejamento/analiseSites/escolha-do-site.md
+      - Site escolhido: planejamento/analiseSites/site-escolhido.md
     - Metodologia e processos: planejamento/metodologia-e-processos.md
     - Processo de design: planejamento/processo-de-design.md
   - Análise de Requisitos:
