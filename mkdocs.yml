@@ -31,3 +31,8 @@ nav:
       - Site escolhido: planejamento/analiseSites/site-escolhido.md
     - Metodologia e processos: planejamento/metodologia-e-processos.md
     - Processo de design: planejamento/processo-de-design.md
+  - Análise de Requisitos:
+    - Aspectos éticos: analise-de-requisitos/aspectos-eticos.md
+    - Análise de tarefas: analise-de-tarefas.md
+  - Apresentações:
+    - Apresentação 1 - Planejamento e Design de projeto: apresentacoes/apresentacao1.md
