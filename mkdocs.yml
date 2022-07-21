@@ -32,14 +32,9 @@ nav:
     - Metodologia e processos: planejamento/metodologia-e-processos.md
     - Processo de design: planejamento/processo-de-design.md
   - Análise de Requisitos:
-<<<<<<< HEAD
     - Personas: analise-de-requisitos/personas.md
-  - Apresentações:
-    - Apresentação 1 - Planejamento e Design de projeto: apresentacoes/apresentacao1.md
-=======
     - Aspectos éticos: analise-de-requisitos/aspectos-eticos.md
     - Análise de tarefas: analise-de-tarefas.md
     - Perfil de Usuário: Perfil-de-usuario.md
   - Apresentações: apresentacoes.md
 
->>>>>>> 7cdbf5355ca4c7b4087b655951d23e580e291b4f
