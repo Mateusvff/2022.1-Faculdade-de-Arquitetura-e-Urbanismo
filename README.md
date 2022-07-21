@@ -1,10 +1,11 @@
 # GRUPO 3
 
-Faculdade de Arquitetura-FAU, UnB.
+Faculdade de Arquitetura e Urbanismo-FAU, UnB.
 
-<div align="center">
-  <img width="200" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.1-Faculdade-de-Arquitetura-e-Urbanismo/escolha-do-site/docs/assets/logo_fau_homepage.png"/>
-</div>
+<center>
+
+   ![Logo da FAU](docs/assets/logo_fau_homepage.png)
+</center>
 
 ##  Sobre o projeto
 

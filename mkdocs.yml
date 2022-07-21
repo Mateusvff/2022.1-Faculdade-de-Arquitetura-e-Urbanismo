@@ -34,6 +34,5 @@ nav:
   - Análise de Requisitos:
     - Aspectos éticos: analise-de-requisitos/aspectos-eticos.md
     - Análise de tarefas: analise-de-tarefas.md
-    - Perfil de Usuário: Perfil-de-usuario.md
-  - Apresentações:
-    - Apresentação 1 - Planejamento e Design de projeto: apresentacoes/apresentacao1.md
+  - Apresentações: apresentacoes.md
+
