@@ -26,8 +26,15 @@ nav:
   - Início: index.md
   - Planejamento:
     - Cronograma de atividades: planejamento/cronograma-de-atividades.md
-    - Escolha do site: planejamento/escolha-do-site.md
+    - Análise dos sites:
+      - Sites avaliados: planejamento/analiseSites/escolha-do-site.md
+      - Site escolhido: planejamento/analiseSites/site-escolhido.md
     - Metodologia e processos: planejamento/metodologia-e-processos.md
     - Processo de design: planejamento/processo-de-design.md
-  - Apresentações:
-    - Apresentação 1 - Planejamento e Design de projeto: apresentacoes/apresentacao1.md
+  - Análise de Requisitos:
+    - Personas: analise-de-requisitos/personas.md
+    - Aspectos éticos: analise-de-requisitos/aspectos-eticos.md
+    - Análise de tarefas: analise-de-tarefas.md
+    - Perfil de Usuário: Perfil-de-usuario.md
+  - Apresentações: apresentacoes.md
+
