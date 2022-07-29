@@ -11,6 +11,7 @@
 09/07/2022 | 0.4 | Cronograma de Atividades e de Entregas adicionados e alteração na Divisão de atividades  | Caio César | Thalisson Alves
 15/07/2022 | 0.5 | Inserção da Sprint 2 | Caio César | Matheus Costa
 16/07/2022 | 0.6 | Adição de legendas das imagens e tabelas | Matheus Costa | Caio César 
+29/07/2022 | 0.7 | Inserção da Sprint 3 | Letícia Aires | Laura Pinos 
 
 ## 1. Cronograma de atividades
 O objetivo deste documento é apresentar uma visualização rápida da divisão cronológica do semestre, conforme especificado no plano de ensino da disciplina. As tabelas de atividades presentes no tópico 4 listam as principais tarefas que foram realizadas durante uma Sprint.
@@ -78,3 +79,12 @@ Mateus Vínicius | Análise de tarefas | Thalisson Alves | 20/07 |
 Thalisson Alves | Aspectos Éticos de Pesquisas Envolvendo Pessoas | Letícia Aires | 20/07 |
 <h6 align = "center">Tabela 3: atividades da Sprint 2</h6>
 
+### 4.3. Sprint 3 - Entrega da apresentação do projeto etapa 3 
+**Autor** | **Atividade** | **Revisor** | **Entrega Limite** |
+--- | --- | --- | --- |
+Caio César | Princípios Gerais de Projeto | Letícia Aires | 30/07 |
+Laura | Guia de Estilo | Mateus Vinícius | 30/07 |
+Letícia Aires |  Atualizar Cronograma de Atividades, Ser o Revisor das principais atividades, auxiliar nas outras atividades | Matheus Costa | 30/07 |
+Matheus Costa | Análise de requisitos | Caio César | 30/07 |
+Mateus Vínicius | Metas de usabilidade | Thalisson Alves | 30/07 |
+Thalisson Alves | Correção dos erros de outras entregas | Laura | 30/07 |
