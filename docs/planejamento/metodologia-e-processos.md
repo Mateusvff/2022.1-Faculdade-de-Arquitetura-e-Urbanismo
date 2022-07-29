@@ -7,6 +7,7 @@
 28/06/2022 | 0.1 | Versão Inicial | Mateus Franco | Letícia Aires
 09/07/2022 | 0.2 | Adição do conteúdo dos tópicos 1, 2, 3, 4 e 5 | Letícia Aires | Matheus Costa
 16/07/2022 | 0.3 | Adição de legenda da tabela de ferramentas | Matheus Costa | Caio César 
+29/07/2022 | 0.4 | Adição de ferramenta | Letícia Aires | Caio César
 
 ## 1. Introdução
 
