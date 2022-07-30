@@ -30,7 +30,7 @@ O Ciclo de vida de Mayhew reúne e organiza diferentes atividades propostas na �
 
 Na fase de **análise de requisitos** são definidas as metas de usabilidade com base na análise das tarefas, possibilidades e limitações da plataforma em que o sistema será executado, perfil dos usuários e princípios gerais de design de IHC. Geralmente as metas de usabilidade são representadas em "guias de estilos" para ajudar sua verificação durante as demais atividades do processo.
 
-A fase de **design, avaliação e desenvolvimento** tem por objetivo conceber uma solução IHC que atenda às metas de usabilidade estabelecidas na fase anterior. Esse processo propõe projetar a solução de IHC em 3 níveis de detalhes conforme a figura.
+A fase de **design, avaliação e desenvolvimento** tem por objetivo conceber uma solução IHC que atenda às metas de usabilidade estabelecidas na fase anterior. Esse processo propõe projetar a solução de IHC em 3 níveis de detalhes conforme a **Figura 1**.
 
 Na fase de **instalação**, o designer deve coletar opiniões dos usuários depois de algum tempo de uso, elas são úteis para melhorar o sistema nas próximas versões ou desenvolver novos sistemas não previstos.
 
