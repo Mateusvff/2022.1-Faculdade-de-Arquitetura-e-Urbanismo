@@ -7,6 +7,7 @@
 --- | --- | --- | --- | --- |
 14/07/2022 | 0.1 | Criação do Documento | Mateus Franco | Caio César |
 19/07/2022 | 0.2 | Inserção dos diagrama e tabela | Mateus Franco | Caio César |
+29/07/2022 | 0.3 | Adição e padronização de fontes nas figuras e correção de links | Thalisson Alves | Letícia Aires
 
 ## 1. Introdução
 
@@ -31,17 +32,18 @@ A Análise Hierárquica de Tarefas examina primeiramente os objetivos de alto n�
 A tarefa "Consultar fluxograma de graduação" é uma das principais tarefas realizadas dentro do sítio da Faculdade de Arquitetura e Urbanismo. É a tarefa que permite que o graduando tenha acesso às disciplinas que contém o curso de graduação e que são obrigatórias para a conclusão do curso.
 Abaixo, representado pela **Figura 1** está analisando graficamente quais são os objetivos e os passos necessários para que tal objetivos seja concluído com êxito por parte do usuário.
 
-![Figura 1](../docs/assets/hta-consulta-de-fluxograma.png)
-**Figura 1:** Diagrama para Análise Hierárquica de Tarefas para consulta de fluxograma de graduação.
+![Figura 1](../assets/hta-consulta-de-fluxograma.png)
+<h6 align = "center"> Figura 1: Diagrama para Análise Hierárquica de Tarefas para consulta de fluxograma de graduação.
+<br>Fonte: autores</h6>
 
 ### 3.2. Representação em tabela para consulta de fluxograma de graduação
 
 Abaixo, na **Figura 2**, temos a representação em tabela equivalente ao diagrama apresentado na Figura 1 acima.
 Uma ação pode ser entendida como uma instrução para fazer algo sob certas circunstâncias, o input como estados e o feedback como testes ou avaliação do estado final.
 
-![Figura 2](../docs/assets/tabela-hta.png)
+![Figura 2](../assets/tabela-hta.png)
 
-**Figura 2:** Tabela equivalente ao diagrama para Análise Hierárquica de Tarefas para consulta de fluxograma de graduação.
+<h6 align = "center"> Figura 2: Tabela equivalente ao diagrama para Análise Hierárquica de Tarefas para consulta de fluxograma de graduação.<br>Fonte: autores</h6>
 
 ## 4. Referências
 BARBOSA, Simone; SILVA, Bruno. Planejamento da Avaliação de IHC. **Interação Humano-Computador**. 1ª Edição. Elsevier, 2010.

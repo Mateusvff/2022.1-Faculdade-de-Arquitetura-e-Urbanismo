@@ -3,7 +3,8 @@
 <center>
 
    ![Logo da FAU](../../assets/logo_fau_homepage.png)
-   <figcaption> Faculdade de Arquitetura e Urbanismo </figcaption>
+   <h6 align = "center"> Faculdade de Arquitetura e Urbanismo <br>
+   Fonte: FACULDADE de Arquitetura e Urbanismo. [S. l.], [1962?]. Disponível em: http://www.fau.unb.br. Acesso em: 5 jul. 2022. </h6>
 </center>
 ***
 
@@ -15,6 +16,7 @@
 09/07/2022 | 0.2 | Adição dos tópicos _Objetivos_ e _Método de avaliação_ | Matheus Costa | Letícia Aires
 18/07/2022 | 0.3 | Adição do tópico da _Avaliação Heurísitca_ | Matheus Costa | Caio César
 19/07/2022 | 0.3.1 | Adição dos subtópicos _Modelo de avaliação_ e _Avaliação do site_ | Matheus Costa | Caio César
+29/07/2022 | 0.4 | Adição e padronização de fontes nas imagens, tabelas e figuras | Thalisson Alves | Letícia Aires
 
 ## Introdução
 A avaliação do site foi feita com base no _framework_ DECIDE (imagem 1), proposto por Sharp, Rogers e Preece (2007) para auxiliar no processo de uma avaliação de IHC (BARBOSA; SILVA; 2010, p. 312).
@@ -24,7 +26,8 @@ Ele basicamente estabelece que é preciso determinar os **objetivos** da avalia�
 <center>
 
    ![Logo da FAU](../../assets/img_decide.png)
-   <figcaption> Imagem 1: Framework DECIDE </figcaption>
+   <h6 align = "center">Imagem 1: Framework DECIDE <br>
+   Fonte: BARBOSA, Simone; SILVA, Bruno. <b>Interação Humano-Computador</b>. 1ª Edição. Elsevier, 2010. </h6>
 </center>
 
 ## 1. Objetivos
@@ -82,7 +85,8 @@ A avaliação aproveitou um modelo de formulário proposto por Maciel _et al_. (
 <center>
 
    ![Formulário de avaliação](../../assets/tabela_heuristica.png)
-   <figcaption> Figura 1: modelo de formulário</figcaption>
+   <h6 align = "center"> Figura 1: modelo de formulário<br>
+   Fonte: MACIEL, Cristiano _et al_. <b>Avaliação Heurística de Sítios na Web</b>. Instituto de Computação - Universidade Federal Fluminense (UFF), 2004.</h6>
 </center>
 
 ### 3.2. Avaliação do site
@@ -91,7 +95,7 @@ Para a avaliação do site da FAU, foram considerados os problemas de: compatibi
 
 
 #### - Compatibilidade
-<h6 align = "center">Tabela 1: avaliação sobre compatibilidade do sistema</h6>
+
 Compatibilidade|  |
 ---|---|
 Verificação:         | O site apresenta uma linguagem de fácil entendimento? <br> O usuário consegue atingir seu objetivo com facilidade? |
@@ -103,9 +107,11 @@ Efeito sobre usuário: | Acaba gerando uma certa desorientação, podendo fazer 
 Efeito sobre tarefa: | Pode gerar perda de tempo. |
 Correção possível:   | Alterar o nome da aba para "Coordenação" ou "Corpo docente" pode trazer mais significância. |
 
+<h6 align = "center">Tabela 1: avaliação sobre compatibilidade do sistema<br>
+Fonte: autores</h6>
 
 #### - Controle do usuário
-<h6 align = "center">Tabela 2: avaliação sobre controle do usuário</h6>
+
 Controle do usuário | |
 ---|---|
 Verificação:         | O usuário possui controle sobre o sistema? |
@@ -117,10 +123,12 @@ Efeito sobre usuário: | Caso seja aberta uma página muito diferente da página
 Efeito sobre tarefa: | Trabalho adicional. |
 Correção possível:   | Mostrar as informações na mesma página ou estar apresentado de forma mais clara que o usuário será redirecionado na mesma aba da questão. |
 
+<h6 align = "center">Tabela 2: avaliação sobre controle do usuário<br>
+Fonte: autores</h6>
 
 #### - Consistência e padrões
 
-<h6 align = "center">Tabela 3: avaliação sobre consistência e padrões</h6>
+
 Consistência e padrões |  |
 ---|---|
 Verificação:         | Os links da página redirecionam para um local esperado? |
@@ -132,8 +140,10 @@ Efeito sobre usuário: | Gera uma quebra de expectativa no usuário. |
 Efeito sobre tarefa: | Trabalho adicional. |
 Correção possível:   | Manter os dados no mesmo local da página. |
 
+<h6 align = "center">Tabela 3: avaliação sobre consistência e padrões<br>
+Fonte: autores</h6>
 
-<h6 align = "center">Tabela 4: avaliação 2 sobre consistência e padrões</h6>
+
 Consistência e padrões |  |
 ----|----|
 Verificação:         | A interface é intuitiva? |
@@ -145,10 +155,12 @@ Efeito sobre usuário: | Desorientação. |
 Efeito sobre tarefa: | Perda de tempo. |
 Correção possível:   | Desabilitar a indicação de componente clicável. |
 
+<h6 align = "center">Tabela 4: avaliação 2 sobre consistência e padrões<br>
+Fonte: autores</h6>
 
 #### - Estética e design minimalista
 
-<h6 align = "center">Tabela 5: avaliação sobre estética e design minimalista</h6>
+
 Estética e design minimalista |  | 
 ---|---|
 Verificação:      |    Existe alguma informação irrelevante? <br> Exite alguma alternativa de design? |
@@ -160,6 +172,8 @@ Efeito sobre usuário: | Hesitação. |
 Efeito sobre tarefa: | Trabalho adicional. |
 Correção possível:   | Agrupar as notícias na aba com melhor visualização. |
 
+<h6 align = "center">Tabela 5: avaliação sobre estética e design minimalista<br>
+Fonte: autores</h6>
 
 ## Referências
 > BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**. 1ª Edição. Elsevier, 2010.
