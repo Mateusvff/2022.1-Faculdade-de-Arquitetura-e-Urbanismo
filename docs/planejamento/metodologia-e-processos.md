@@ -91,7 +91,7 @@ A tabela abaixo mostra quais foram as ferramentas utilizadas pela equipe no dese
 |<img src="https://user-images.githubusercontent.com/72623771/181744117-8c4402d5-b7a9-43b6-ad5f-aa22fe31ad4d.png" height= 60 width=60> | Google Docs| Aplicativo para elaboração de documentos do projeto |
 <h6 align = "center">Tabela 1: ferramentas utilizadas</h6>
 
-## Referências
+## 5. Referências
 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J.Interação Humano-Computador e Experiência do usuário. 2021. Autopublicação. ISBN: 978-65-00-19677-1
 

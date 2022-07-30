@@ -46,8 +46,8 @@ Uma ação pode ser entendida como uma instrução para fazer algo sob certas ci
 <h6 align = "center"> Figura 2: Tabela equivalente ao diagrama para Análise Hierárquica de Tarefas para consulta de fluxograma de graduação.<br>Fonte: autores</h6>
 
 ## 4. Referências
-BARBOSA, Simone; SILVA, Bruno. Planejamento da Avaliação de IHC. **Interação Humano-Computador**. 1ª Edição. Elsevier, 2010.
+> BARBOSA, Simone; SILVA, Bruno. Planejamento da Avaliação de IHC. **Interação Humano-Computador**. 1ª Edição. Elsevier, 2010.
 
-Annett, J. (2003) **“Hierarchical Tasks Analysis”.** In: Hollnagel (ed.) Handbook of Cognitive Task Design.
+> Annett, J. (2003) **“Hierarchical Tasks Analysis”.** In: Hollnagel (ed.) Handbook of Cognitive Task Design.
 
 
