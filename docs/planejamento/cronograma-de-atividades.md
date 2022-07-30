@@ -61,27 +61,29 @@ As tabelas de 2 a 3 abaixo indicam as atividades realizadas por cada integrante 
 
 ### 4.1. Sprint 1 - Entrega da apresentação do projeto etapa 1 
 
-**Autor** | **Atividade** | **Revisor** | **Entrega Limite** |
---- | --- | --- | --- |
-Caio César | Cronograma de Atividades | Matheus Costa | 11/07 |
-Laura e Mateus Vinícius | Planejamento do Projeto | Laura | 11/07 | 
-Letícia Aires | Metodologias | Caio César | 11/07 |
-Matheus Costa | Sites Avaliados | Thalisson Alves | 11/07 | 
-Thalisson Alves | Processo de Design | Letícia Aires | 11/07 | 
+**Autor** | **Atividade** | **Revisor** | **Data Limite Atividade** | **Data Limite Revisão** |
+--- | --- | --- | --- | --- |
+Caio César | Cronograma de Atividades | Matheus Costa | 10/07 | 11/07
+Laura e Mateus Vinícius | Planejamento do Projeto | Laura | 10/07 | 11/07
+Letícia Aires | Metodologias | Caio César | 10/07 | 11/07
+Matheus Costa | Sites Avaliados | Thalisson Alves | 10/07 | 11/07
+Thalisson Alves | Processo de Design | Letícia Aires | 10/07 | 11/07
+Laura | Edição do vídeo | Todos | 11/07 | 11/07
 <h6 align = "center">Tabela 2: atividades da Sprint 1<br>
 Fonte: autores</h6>
 
 
 ### 4.2. Sprint 2 - Entrega da apresentação do projeto etapa 2 
 
-**Autor** | **Atividade** | **Revisor** | **Entrega Limite** |
---- | --- | --- | --- |
-Caio César | Atualizar Cronograma de Atividades, Ser o Revisor das principais atividades, auxiliar nas outras atividades | Laura | 20/07 |
-Laura |  Perfil do usuário | Matheus Costa | 20/07 | 
-Letícia Aires | Personas | Caio César | 20/07 |
-Matheus Costa | Corrigir vídeo de apresentação no GitPages, inserir link para as avaliações dos sites, finalizar processo de avaliação do site escolhido | Mateus Vínicius | 20/07 | 
-Mateus Vínicius | Análise de tarefas | Thalisson Alves | 20/07 |
-Thalisson Alves | Aspectos Éticos de Pesquisas Envolvendo Pessoas | Letícia Aires | 20/07 |
+**Autor** | **Atividade** | **Revisor** | **Data Limite Atividade** | **Data Limite Revisão** |
+--- | --- | --- | --- | --- |
+Caio César | Atualizar Cronograma de Atividades, Ser o Revisor das principais atividades, auxiliar nas outras atividades | Laura | 19/07 | 20/07
+Laura |  Perfil do usuário | Matheus Costa | 19/07 | 20/07 
+Letícia Aires | Personas | Caio César | 19/07 | 20/07
+Matheus Costa | Corrigir vídeo de apresentação no GitPages, inserir link para as avaliações dos sites, finalizar processo de avaliação do site escolhido | Mateus Vínicius | 19/07 | 20/07 
+Mateus Vínicius | Análise de tarefas | Thalisson Alves | 19/07 | 20/07
+Thalisson Alves | Aspectos Éticos de Pesquisas Envolvendo Pessoas | Letícia Aires | 19/07 | 20/07
+Laura | Edição do vídeo | Todos | 19/07 | 20/07
 <h6 align = "center">Tabela 3: atividades da Sprint 2<br>
 Fonte: autores</h6>
 
