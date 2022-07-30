@@ -86,6 +86,7 @@ A tabela abaixo mostra quais foram as ferramentas utilizadas pela equipe no dese
 |<img src="https://user-images.githubusercontent.com/54439337/178488593-7d264a24-1a36-41c5-81cd-88a07b0f6c04.png" height= 60 width=60> | Github| Site responsável  por abarcar o repositório |
 |<img src="https://user-images.githubusercontent.com/54439337/178488687-c0b4806d-6d4f-49e0-ac83-70490371a6cc.png" height= 60 width=60> | Whatsapp| Aplicativo de mensagem de texto para comunicação trivial |
 |<img src="https://user-images.githubusercontent.com/54439337/178488789-69ddaafc-2d25-4d76-b780-3a90bda82ee6.png" height= 60 width=60> | Mkdocs| Site para a documentação do projeto |
+|<img src="../assets/google-forms.svg" height= 60 width=60> | Google Forms| Ferramenta para criação de questionários |
 <h6 align = "center">Tabela 1: ferramentas utilizadas</h6>
 
 ## Referências
