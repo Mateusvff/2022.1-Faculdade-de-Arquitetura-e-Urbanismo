@@ -3,7 +3,8 @@
 <center>
 
    ![Logo da FAU](../../assets/logo_fau_homepage.png)
-   <figcaption> Faculdade de Arquitetura e Urbanismo </figcaption>
+   <h6 align = "center"> Faculdade de Arquitetura e Urbanismo <br>
+   Fonte: FACULDADE de Arquitetura e Urbanismo. [S. l.], [1962?]. Disponível em: http://www.fau.unb.br. Acesso em: 5 jul. 2022. </h6>
 </center>
 ***
 
@@ -15,8 +16,9 @@
 09/07/2022 | 0.2 | Adição dos tópicos _Objetivos_ e _Método de avaliação_ | Matheus Costa | Letícia Aires
 18/07/2022 | 0.3 | Adição do tópico da _Avaliação Heurísitca_ | Matheus Costa | Caio César
 19/07/2022 | 0.3.1 | Adição dos subtópicos _Modelo de avaliação_ e _Avaliação do site_ | Matheus Costa | Caio César
+29/07/2022 | 0.4 | Adição e padronização de fontes nas imagens, tabelas e figuras | Thalisson Alves | Letícia Aires
 
-## Introdução
+## 1. Introdução
 A avaliação do site foi feita com base no _framework_ DECIDE (imagem 1), proposto por Sharp, Rogers e Preece (2007) para auxiliar no processo de uma avaliação de IHC (BARBOSA; SILVA; 2010, p. 312).
 
 Ele basicamente estabelece que é preciso determinar os **objetivos** da avaliação, em seguida escolher **métodos de avaliação** adequados, **identificar** as questões práticas envolvidas, como perfis dos usuários e um escopo de avaliação definido, e por fim **avaliar** os dados.
@@ -24,10 +26,11 @@ Ele basicamente estabelece que é preciso determinar os **objetivos** da avalia�
 <center>
 
    ![Logo da FAU](../../assets/img_decide.png)
-   <figcaption> Imagem 1: Framework DECIDE </figcaption>
+   <h6 align = "center">Imagem 1: Framework DECIDE <br>
+   Fonte: BARBOSA, Simone; SILVA, Bruno. <b>Interação Humano-Computador</b>. 1ª Edição. Elsevier, 2010. </h6>
 </center>
 
-## 1. Objetivos
+## 2. Objetivos
 
 Durante o processo de avaliação de IHC é importante definir alguns dos **objetivos** da avaliação, pois são eles que irão determinar quais aspectos relacionados ao uso do sistema devem ser observados. Esses objetivos geralmente são detalhados por meio de perguntas a serem respondidas.
 
@@ -45,12 +48,12 @@ Algumas perguntas a serem respondidas:
 - O usuário possui controle sobre o sistema?
 - Existe alguma ideia alternativa de design?
 
-## 2. Método de avaliação
+## 3. Método de avaliação
 Para a escolha do método de avaliação, consideramos uma metodologia do tipo por **inspeção**, que, de acordo com Barbosa e Silva (2010), é um tipo que permite ao avaliador examinar (ou inspecionar) uma solução de IHC para tentar antever as possíveis consequências de certas decisões de design sobre as experiências de uso, além de que, costumeiramente, métodos de avaliação desse tipo são mais rápidos e de custo de execução mais baixo se comparados a outros métodos como os de investigação e de observação. (BARBOSA; SILVA; 2010, p. 302).
 
 Escolhido o tipo da metodologia, a execução da avaliação foi feita por meio de uma **Avaliação Heurística**, que é um método baseado na verificação de uma lista de princípios (heurísticas) de usabilidade, propostos por Nielsen, no qual os avaliadores visam, de forma fácil e rápida, descobrir grandes problemas potenciais da interface. (MACIEL _et al._, 2004, p. 6)
 
-## 3. Avaliação Heurística
+## 4. Avaliação Heurística
 
 Como citado anteriormente, segundo Preece, Rogers e Sharp (2005, p. 48-49), Nielsen propôs alguns princípios de usabilidade, que são usados como base para avaliação de algum sistema. Ao todo foram propostos 10 princípios, os quais são: 
 
@@ -75,23 +78,24 @@ Como citado anteriormente, segundo Preece, Rogers e Sharp (2005, p. 48-49), Niel
 - **Ajuda e documentação**: informações devem ser fáceis de encontrar e ajuda mediante uma série de passos concretos que podem ser facilmente seguidos.
 
 
-### 3.1. Modelo de avaliação
+### 4.1. Modelo de avaliação
 
 A avaliação aproveitou um modelo de formulário proposto por Maciel _et al_. (2004, p. 13) que avalia um problema de usabilidade por meio de uma série de tópicos, os quais recebem uma classificação que ajudam a descrever o problema. O modelo pode ser visualizado na Figura 1 abaixo.
 
 <center>
 
    ![Formulário de avaliação](../../assets/tabela_heuristica.png)
-   <figcaption> Figura 1: modelo de formulário</figcaption>
+   <h6 align = "center"> Figura 1: modelo de formulário<br>
+   Fonte: MACIEL, Cristiano _et al_. <b>Avaliação Heurística de Sítios na Web</b>. Instituto de Computação - Universidade Federal Fluminense (UFF), 2004.</h6>
 </center>
 
-### 3.2. Avaliação do site
+### 4.2. Avaliação do site
 
 Para a avaliação do site da FAU, foram considerados os problemas de: compatibilidade do sistema, controle do usuário, consistência e padrões e estética e design minimalista. É possível observar que nas tabelas de 1 a 5 a seguir estão registradas as avaliações.
 
 
 #### - Compatibilidade
-<h6 align = "center">Tabela 1: avaliação sobre compatibilidade do sistema</h6>
+
 Compatibilidade|  |
 ---|---|
 Verificação:         | O site apresenta uma linguagem de fácil entendimento? <br> O usuário consegue atingir seu objetivo com facilidade? |
@@ -103,9 +107,11 @@ Efeito sobre usuário: | Acaba gerando uma certa desorientação, podendo fazer 
 Efeito sobre tarefa: | Pode gerar perda de tempo. |
 Correção possível:   | Alterar o nome da aba para "Coordenação" ou "Corpo docente" pode trazer mais significância. |
 
+<h6 align = "center">Tabela 1: avaliação sobre compatibilidade do sistema<br>
+Fonte: autores</h6>
 
 #### - Controle do usuário
-<h6 align = "center">Tabela 2: avaliação sobre controle do usuário</h6>
+
 Controle do usuário | |
 ---|---|
 Verificação:         | O usuário possui controle sobre o sistema? |
@@ -117,10 +123,12 @@ Efeito sobre usuário: | Caso seja aberta uma página muito diferente da página
 Efeito sobre tarefa: | Trabalho adicional. |
 Correção possível:   | Mostrar as informações na mesma página ou estar apresentado de forma mais clara que o usuário será redirecionado na mesma aba da questão. |
 
+<h6 align = "center">Tabela 2: avaliação sobre controle do usuário<br>
+Fonte: autores</h6>
 
 #### - Consistência e padrões
 
-<h6 align = "center">Tabela 3: avaliação sobre consistência e padrões</h6>
+
 Consistência e padrões |  |
 ---|---|
 Verificação:         | Os links da página redirecionam para um local esperado? |
@@ -132,8 +140,10 @@ Efeito sobre usuário: | Gera uma quebra de expectativa no usuário. |
 Efeito sobre tarefa: | Trabalho adicional. |
 Correção possível:   | Manter os dados no mesmo local da página. |
 
+<h6 align = "center">Tabela 3: avaliação sobre consistência e padrões<br>
+Fonte: autores</h6>
 
-<h6 align = "center">Tabela 4: avaliação 2 sobre consistência e padrões</h6>
+
 Consistência e padrões |  |
 ----|----|
 Verificação:         | A interface é intuitiva? |
@@ -145,10 +155,12 @@ Efeito sobre usuário: | Desorientação. |
 Efeito sobre tarefa: | Perda de tempo. |
 Correção possível:   | Desabilitar a indicação de componente clicável. |
 
+<h6 align = "center">Tabela 4: avaliação 2 sobre consistência e padrões<br>
+Fonte: autores</h6>
 
 #### - Estética e design minimalista
 
-<h6 align = "center">Tabela 5: avaliação sobre estética e design minimalista</h6>
+
 Estética e design minimalista |  | 
 ---|---|
 Verificação:      |    Existe alguma informação irrelevante? <br> Exite alguma alternativa de design? |
@@ -160,8 +172,10 @@ Efeito sobre usuário: | Hesitação. |
 Efeito sobre tarefa: | Trabalho adicional. |
 Correção possível:   | Agrupar as notícias na aba com melhor visualização. |
 
+<h6 align = "center">Tabela 5: avaliação sobre estética e design minimalista<br>
+Fonte: autores</h6>
 
-## Referências
+## 5. Referências
 > BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**. 1ª Edição. Elsevier, 2010.
 
 > MACIEL, Cristiano _et al_. **Avaliação Heurística de Sítios na Web**. Instituto de Computação - Universidade Federal Fluminense (UFF), 2004. Disponível em: [docplayer.com.br/1827066-Avaliacao-heuristica-de-sitios-na-web.html](https://docplayer.com.br/1827066-Avaliacao-heuristica-de-sitios-na-web.html). Acesso em: 09 de jul. de 2022.
