@@ -15,7 +15,7 @@ O **Perfil de usuário** visa proporcionar uma descrição detalhada das caracte
 
 ## 2. Metodologia
 
-A análise de perfil de usuário utilizado inicialmente pelo grupo foi o método de questionário, respondido por alunos da Faculdade de Arquitetura analisada em questão. O questionário obteve 10 respostas e ficou disponível a partir do dia 18/07/2022 até 20/07/2022.
+A análise de perfil de usuário utilizado inicialmente pelo grupo foi o método de questionário, respondido por alunos da Faculdade de Arquitetura analisada em questão. O questionário foi enviado para os participantes pelo WhatsApp, ele obteve 10 respostas e ficou disponível a partir do dia 18/07/2022 até 20/07/2022.
 
 ## 3. Resultado
 
