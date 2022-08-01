@@ -50,5 +50,5 @@ Diante do exposto anteriormente, Barbosa e Silva (2010, p. 265-278) afirmam que 
 
 ## 4. Conclusão
 
-## Referências
+## 5. Referências
 > BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**. 1ª Edição. Elsevier, 2010.
