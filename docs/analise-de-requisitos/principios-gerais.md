@@ -7,6 +7,7 @@
 30/07/2022 | 0.1 | Criação do documento | Matheus Costa | Caio César
 30/07/2022 | 0.2 | Adição dos tópicos Introdução e Princípios gerais | Matheus Costa | Caio César
 31/07/2022 | 0.2.1 | Descrição dos tópicos das diretrizes | Matheus Costa | Caio César
+01/07/2022 | 0.3 | Análise dos princípios gerais e diretrizes para o projeto | Caio César | Matheus Costa
 
 ***
 
@@ -48,7 +49,21 @@ Diante do exposto anteriormente, Barbosa e Silva (2010, p. 265-278) afirmam que 
 
 ## 3. Análise dos princípios gerais e diretrizes para o projeto
 
+**Princípios** | **Viola alguma Diretriz?** | **Descrição** 
+--- | --- | --- 
+Correspondência com as expectativa dos usuários | Sim | O site avaliado apresenta um padrão que não é constantemente seguido, textos clicáveis como exemplo apresentam a mesma características de textos não clicáveis deixando a impressão que a funcionalidade não se mantém em ordem no sistema.
+Simplicidade nas Estruturas das Tarefas | Sim | Seguindo o menu inicial do site, temos variadas opções como graduação e pós, mas ao ir clicando, percebemos que na maioria o site mostra para o usuário um padrão levando para uma estética de site parecida, mas ao clicar em pesquisa, é levado para um caminho distinto de tudo que havia sido mostrado anteriormente. 
+Equilíbrio entre controle e liberdade do usuário | Sim | O site apresenta caminhos engessados, dando a sensação que existem caminhos únicos para tarefas simples, deixando o usuário com objetivos específicos confuso em como alcançá-los.
+Consistência e Padronização | Sim | O site não apresenta uma consistência em suas funcionalidades tão abrangentes ao longo do sistema, com botões variando, estéticas distintas, entre outras funções como a citadas anteriormente no primeiro tópico.
+Promoção da eficiência do Usuário | Sim | O site não apresentou funcionalidades visando a eficiência do usuário, suas funções parecem dependentes e contraintuitivas.
+Antecipação das necessidades do usuário | Sim | O site avaliado consegue antecipar algumas necessidades do usuário, mas ele apresenta essas antecipações de forma que o usuário é bombardeado de informações em simultâneo, podendo até aparecer o que desejava apareça na tela, mas no meio de tantas informações, acaba passar despercebido. 
+Visibilidade e Reconhecimento | Sim | Em algumas partes do site a Visibilidade e Reconhecimento é notável, mas em alguns detalhes não, como textos clicáveis que só são perceptíveis por conta do cursor demonstrar isso por meio de animações do próprio sistema operacional.
+Conteúdo Relevante e Expressão Adequada | Sim | O sistema oferece muita informação para o usuário simultaneamente, exagerando na quantidade, podendo ser mais simples e resumir informações em caminhos ou funcionalidades diferentes.
+Projeto para Erros | Sim | No site avaliado se digitar algo na pesquisa e mudar de categoria por engano o que estava sendo buscado não é recuperado como em sites mais comuns.
+
 ## 4. Conclusão
+
+Ao examinar a análise de forma mais robusta sobre os princípios e diretrizes do projeto, é notório que as violações são abundantes, podendo assim atingir negativamente a experiência dos usuários que utilizam o sistema.
 
 ## 5. Referências
 > BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**. 1ª Edição. Elsevier, 2010.
