@@ -51,15 +51,15 @@ Diante do exposto anteriormente, Barbosa e Silva (2010, p. 265-278) afirmam que 
 
 **Princípios** | **Viola alguma Diretriz?** | **Descrição** 
 --- | --- | --- 
-Correspondência com as expectativa dos usuários | Sim | O site avaliado apresenta um padrão que não é constantemente seguido, textos clicáveis como exemplo apresentam a mesma características de textos não clicáveis deixando a impressão que a funcionalidade não se mantém em ordem no sistema.
+Correspondência com as expectativa dos usuários | Sim | O site avaliado apresenta um padrão que não é constantemente seguido. Textos clicáveis, por exemplo, apresentam as mesmas características de textos não clicáveis, deixando a impressão que a funcionalidade não se mantém em ordem no sistema.
 Simplicidade nas Estruturas das Tarefas | Sim | Seguindo o menu inicial do site, temos variadas opções como graduação e pós, mas ao ir clicando, percebemos que na maioria o site mostra para o usuário um padrão levando para uma estética de site parecida, mas ao clicar em pesquisa, é levado para um caminho distinto de tudo que havia sido mostrado anteriormente. 
 Equilíbrio entre controle e liberdade do usuário | Sim | O site apresenta caminhos engessados, dando a sensação que existem caminhos únicos para tarefas simples, deixando o usuário com objetivos específicos confuso em como alcançá-los.
 Consistência e Padronização | Sim | O site não apresenta uma consistência em suas funcionalidades tão abrangentes ao longo do sistema, com botões variando, estéticas distintas, entre outras funções como a citadas anteriormente no primeiro tópico.
 Promoção da eficiência do Usuário | Sim | O site não apresentou funcionalidades visando a eficiência do usuário, suas funções parecem dependentes e contraintuitivas.
-Antecipação das necessidades do usuário | Sim | O site avaliado consegue antecipar algumas necessidades do usuário, mas ele apresenta essas antecipações de forma que o usuário é bombardeado de informações em simultâneo, podendo até aparecer o que desejava apareça na tela, mas no meio de tantas informações, acaba passar despercebido. 
+Antecipação das necessidades do usuário | Sim | O site avaliado consegue antecipar algumas necessidades do usuário, mas ele apresenta essas antecipações de forma que o usuário é bombardeado de informações em simultâneo, podendo até aparecer o que se esperava na tela, mas no meio de tantas informações, acaba por passar despercebido. 
 Visibilidade e Reconhecimento | Sim | Em algumas partes do site a Visibilidade e Reconhecimento é notável, mas em alguns detalhes não, como textos clicáveis que só são perceptíveis por conta do cursor demonstrar isso por meio de animações do próprio sistema operacional.
 Conteúdo Relevante e Expressão Adequada | Sim | O sistema oferece muita informação para o usuário simultaneamente, exagerando na quantidade, podendo ser mais simples e resumir informações em caminhos ou funcionalidades diferentes.
-Projeto para Erros | Sim | No site avaliado se digitar algo na pesquisa e mudar de categoria por engano o que estava sendo buscado não é recuperado como em sites mais comuns.
+Projeto para Erros | Sim | No site avaliado, quando se digita algo na barra de pesquisa, mas muda de categoria por engano, o que estava sendo buscado não é recuperado, como acontece em sites mais comuns.
 
 ## 4. Conclusão
 
