@@ -6,6 +6,7 @@
 --- | --- | --- | --- | ---
 30/07/2022 | 0.1 | Criação do documento | Matheus Costa | Caio César
 30/07/2022 | 0.2 | Adição dos tópicos Introdução e Princípios gerais | Matheus Costa | Caio César
+31/07/2022 | 0.2.1 | Descrição dos tópicos das diretrizes | Matheus Costa | Caio César
 
 ***
 
