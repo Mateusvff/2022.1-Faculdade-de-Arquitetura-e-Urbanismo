@@ -7,7 +7,7 @@
 30/07/2022 | 0.1 | Criação do documento | Matheus Costa | Caio César
 30/07/2022 | 0.2 | Adição dos tópicos Introdução e Princípios gerais | Matheus Costa | Caio César
 31/07/2022 | 0.2.1 | Descrição dos tópicos das diretrizes | Matheus Costa | Caio César
-01/07/2022 | 0.3 | Análise dos princípios gerais e diretrizes para o projeto | Caio César | Matheus Costa
+01/07/2022 | 0.3 | Adição dos tópicos Análise dos princípios gerais e diretrizes para o projeto e Conclusão | Caio César | Matheus Costa
 
 ***
 
