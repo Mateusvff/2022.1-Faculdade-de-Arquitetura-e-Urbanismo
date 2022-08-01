@@ -91,10 +91,9 @@ Fonte: autores</h6>
 ### 4.3. Sprint 3 - Entrega da apresentação do projeto etapa 3 
 **Autor** | **Atividade** | **Revisor** | **Data Limite Atividade** | **Data Limite Revisão** |
 --- | --- | --- | --- | --- |
-Caio César | Princípios Gerais de Projeto | Letícia Aires | 29/07 | 30/07 |
+Caio César e Matheus Costa | Princípios Gerais de Projeto | Letícia Aires | 29/07 | 30/07 |
 Laura | Guia de Estilo | Mateus Vinícius | 29/07 | 30/07 |
 Letícia Aires |  Atualizar Cronograma de Atividades, Ser o Revisor das principais atividades, auxiliar nas outras atividades | Matheus Costa | 29/07 | 30/07 |
-Matheus Costa | Análise de requisitos | Caio César | 29/07 | 30/07 |
 Mateus Vínicius | Metas de usabilidade | Thalisson Alves | 29/07 | 30/07 |
 Thalisson Alves | Correção dos erros de outras entregas | Laura | 29/07 | 30/07 |
 <h6 align = "center">Tabela 4: atividades da Sprint 3<br>
