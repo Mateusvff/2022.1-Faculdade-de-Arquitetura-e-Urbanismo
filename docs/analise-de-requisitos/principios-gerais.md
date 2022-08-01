@@ -49,6 +49,8 @@ Diante do exposto anteriormente, Barbosa e Silva (2010, p. 265-278) afirmam que 
 
 ## 3. Análise dos princípios gerais e diretrizes para o projeto
 
+A seguir, na Tabela 1 abaixo, é possível observar alguns pontos levantados pela equipe, que visam fazer uma breve análise do site avaliado, em conformidade com as diretrizes apresentadas no tópico anterior.
+
 **Princípios** | **Viola alguma Diretriz?** | **Descrição** 
 --- | --- | --- 
 Correspondência com as expectativa dos usuários | Sim | O site avaliado apresenta um padrão que não é constantemente seguido. Textos clicáveis, por exemplo, apresentam as mesmas características de textos não clicáveis, deixando a impressão que a funcionalidade não se mantém em ordem no sistema.
@@ -60,6 +62,8 @@ Antecipação das necessidades do usuário | Sim | O site avaliado consegue ante
 Visibilidade e Reconhecimento | Sim | Em algumas partes do site a Visibilidade e Reconhecimento é notável, mas em alguns detalhes não, como textos clicáveis que só são perceptíveis por conta do cursor demonstrar isso por meio de animações do próprio sistema operacional.
 Conteúdo Relevante e Expressão Adequada | Sim | O sistema oferece muita informação para o usuário simultaneamente, exagerando na quantidade, podendo ser mais simples e resumir informações em caminhos ou funcionalidades diferentes.
 Projeto para Erros | Sim | No site avaliado, quando se digita algo na barra de pesquisa, mas muda de categoria por engano, o que estava sendo buscado não é recuperado, como acontece em sites mais comuns.
+<h6 align = "center">Tabela 1: Análise dos princípios e diretrizes para o projeto.
+<br>Fonte: Autores</h6>
 
 ## 4. Conclusão
 
