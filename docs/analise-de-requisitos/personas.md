@@ -28,7 +28,7 @@ Nesse sentido, o presente documento visa apresentar, conforme os direcionamentos
     <b>Status:      </b> Persona Primária   <br>
     <b>Idade:       </b> 44 anos            <br>
     <b>Profissão:   </b> Professor de Arquitetura        <br>
-    <b>Objetivos:   </b> João Carlos é docente de longa data na Universidade de Brasília (UnB) e utiliza o site da Faculdade de Arquiteura (FAU) atas e resoluções e informes do conselho da fau  acessar caledário dos departamentos teve sua casa destruída pelas chuvas e enchentes do Rio Cachoeira no ano passado. Seu principal objetivo é poder reconstruir sua casa e poder ter uma moradia tranquila novamente. Para isso, Valéria utiliza o site da Prefeitura de Itabuna para poder consultar se seu nome saiu na lista de beneficiados do Programa Auxílio Recomeço e para consultar a lista de lojas parceiras do auxílio, além de acessar a ouvidoria para registrar manifestações. 
+    <b>Objetivos:   </b> João Carlos é docente de longa data na Universidade de Brasília (UnB) e utiliza o site da Faculdade de Arquiteura (FAU) atas e resoluções e informes do conselho da fau  acessar caledário dos departamentos teve sua casa destruída pelas chuvas e enchentes do Rio Cachoeira no ano passado. Seu principal objetivo é poder reconstruir sua casa e poder ter uma moradia tranquila novamente.
     </p> </td>
   </tr>
   <tr>
