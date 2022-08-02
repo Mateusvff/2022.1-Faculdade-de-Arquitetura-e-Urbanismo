@@ -57,4 +57,4 @@ Na parte de filtros verticais (figura 5) foi utilizada a fonte Ascender Sans WGL
 
 ## 4. Referências
 
-> BARBOSA, Simone; SILVA, Bruno. Planejamento da Avaliação de IHC. **Interação Humano-Computador**. 1ª Edição. Elsevier, 2010.
+> BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**. 1ª Edição. Elsevier, 2010.
