@@ -5,7 +5,7 @@
 **Data** | **Versão** | **Descrição** | **Autor(es/as)** | **Revisor**
 --- | --- | --- | --- | ---
 30/07/2022 | 0.1 | Versão Inicial | Laura Pinos | Caio César
-01/08/2022 | 0.2 | Versão Inicial | Laura Pinos | Thalisson Alves
+01/08/2022 | 0.2 | Adição dos tópicos Introdução, Metodologias e Resultado | Laura Pinos | Matheus Costa
 
 ## 1. Introdução
 
