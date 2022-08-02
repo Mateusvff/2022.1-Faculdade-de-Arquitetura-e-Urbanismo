@@ -24,3 +24,10 @@
 <br>Fonte: Autores</h6>
 
 > Disponibilizado dia 20 de julho de 2022
+
+## Apresentação 3 - Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6ycz-hrasoo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<h6 align = "center">Vídeo 3: Entrega da Apresentação do Projeto Etapa 3. 
+<br>Fonte: Autores</h6>
+
+> Disponibilizado dia 01 de agosto de 2022
