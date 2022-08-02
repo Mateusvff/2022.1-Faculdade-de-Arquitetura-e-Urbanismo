@@ -32,9 +32,11 @@ nav:
     - Metodologia e processos: planejamento/metodologia-e-processos.md
     - Processo de design: planejamento/processo-de-design.md
   - Análise de Requisitos:
+    - Perfil de Usuário: analise-de-requisitos/Perfil-de-usuario.md
     - Personas: analise-de-requisitos/personas.md
     - Aspectos éticos: analise-de-requisitos/aspectos-eticos.md
-    - Análise de tarefas: analise-de-tarefas.md
-    - Perfil de Usuário: Perfil-de-usuario.md
+    - Análise de tarefas: analise-de-requisitos/analise-de-tarefas.md
+    - Princípios Gerais: analise-de-requisitos/principios-gerais.md
+    - Metas de Usabilidade: analise-de-requisitos/metas-de-usabilidade.md
   - Apresentações: apresentacoes.md
 

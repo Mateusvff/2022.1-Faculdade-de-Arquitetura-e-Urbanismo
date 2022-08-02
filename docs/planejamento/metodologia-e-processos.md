@@ -7,6 +7,8 @@
 28/06/2022 | 0.1 | Versão Inicial | Mateus Franco | Letícia Aires
 09/07/2022 | 0.2 | Adição do conteúdo dos tópicos 1, 2, 3, 4 e 5 | Letícia Aires | Matheus Costa
 16/07/2022 | 0.3 | Adição de legenda da tabela de ferramentas | Matheus Costa | Caio César 
+29/07/2022 | 0.4 | Adição de ferramenta | Letícia Aires | Caio César
+01/08/2022 | 0.5 | Atualização da tabela de ferramentas utilizadas | Matheus Costa | Letícia Aires
 
 ## 1. Introdução
 
@@ -50,6 +52,7 @@ Co-authored-by: user <email>
 * ❌ quando resolver memory leaks `:x:`
 * 📝 quando escrever documentação `:pencil:`
 * 🐛 quando consertar um problema `:bug:`
+* 🆕 quando adicionar algum arquivo `:new:`
 * 🔥 quando remover código ou arquivos `:fire:`
 * 💚 quando consertar problemas de Integração Contínua `:green_heart:`
 * ✅ quando adicionar testes `:white_check_mark:`
@@ -74,21 +77,24 @@ Nesta branch consta a versão mais atualizada do código e deve sempre se manter
 
 As branches feature são mecanismos temporários de desenvolvimento de código com função específica de cumprir determinado objetivo de uma issue, assim, a branch development deve ser sua origem e fim.
 
-Nomenclatura utilizada: feature/(#n° da issue)_nome_da_issue
-
 ## 4. Ferramentas
 
-A tabela abaixo mostra quais foram as ferramentas utilizadas pela equipe no desenvolvimento do projeto.
+A Tabela 1 abaixo mostra quais foram as ferramentas utilizadas pela equipe ao longo do desenvolvimento do projeto.
 
 | **Ícones** | **Ferramentas** | **Função** |
 | --- | --- | --- |
-|<img src="https://user-images.githubusercontent.com/54439337/178488439-887b302a-df0b-4a4b-8929-cb5e3a7c977b.png" height= 60 width=60> | Discord| Aplicativo para condução de reuniões remotas |
-|<img src="https://user-images.githubusercontent.com/54439337/178488593-7d264a24-1a36-41c5-81cd-88a07b0f6c04.png" height= 60 width=60> | Github| Site responsável  por abarcar o repositório |
-|<img src="https://user-images.githubusercontent.com/54439337/178488687-c0b4806d-6d4f-49e0-ac83-70490371a6cc.png" height= 60 width=60> | Whatsapp| Aplicativo de mensagem de texto para comunicação trivial |
-|<img src="https://user-images.githubusercontent.com/54439337/178488789-69ddaafc-2d25-4d76-b780-3a90bda82ee6.png" height= 60 width=60> | Mkdocs| Site para a documentação do projeto |
+|<img src="https://user-images.githubusercontent.com/54439337/178488439-887b302a-df0b-4a4b-8929-cb5e3a7c977b.png" height= 60 width=60> | Discord| Aplicativo para condução de reuniões remotas. |
+|<img src="https://user-images.githubusercontent.com/54439337/178488593-7d264a24-1a36-41c5-81cd-88a07b0f6c04.png" height= 60 width=60> | Github| Site responsável  por abarcar o repositório. |
+|<img src="https://user-images.githubusercontent.com/54439337/178488687-c0b4806d-6d4f-49e0-ac83-70490371a6cc.png" height= 60 width=60> | WhatsApp| Aplicativo de mensagem de texto para comunicação trivial. |
+|<img src="https://user-images.githubusercontent.com/54439337/178488789-69ddaafc-2d25-4d76-b780-3a90bda82ee6.png" height= 60 width=60> | MkDocs| Site para a documentação do projeto. |
+|<img src="https://github.com/Interacao-Humano-Computador/2022.1-Faculdade-de-Arquitetura-e-Urbanismo/raw/development/docs/assets/google-forms.svg" height= 60 width=60> | Google Forms| Ferramenta para criação de questionários. |
+|<img src="https://user-images.githubusercontent.com/72623771/181744117-8c4402d5-b7a9-43b6-ad5f-aa22fe31ad4d.png" height= 60 width=60> | Google Docs| Aplicativo para elaboração de documentos do projeto. |
+|<img src="https://user-images.githubusercontent.com/72279998/182245998-ec14cd4a-1d7a-4f9d-ae46-f039acd48ea0.png" height= 60 width=60> | Microsoft Teams| Aplicativo para reuniões e gravação de vídeos. |
+|<img src="https://user-images.githubusercontent.com/72279998/182247936-cec95cfa-0619-41f7-808f-21859692cc48.png" height= 60 width=60> | OBS Studio | Software para gravação de vídeos. |
+|<img src="https://user-images.githubusercontent.com/72279998/182248688-2afa7006-cf91-4afc-9836-faa29b105dd6.png" height= 60 width=60> | Clipchamp | Editor de vídeos. |
 <h6 align = "center">Tabela 1: ferramentas utilizadas</h6>
 
-## Referências
+## 5. Referências
 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J.Interação Humano-Computador e Experiência do usuário. 2021. Autopublicação. ISBN: 978-65-00-19677-1
 
