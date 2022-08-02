@@ -56,7 +56,7 @@ O sítio fornece para o usuário, no momento da busca ou refinamento desta, algu
 O sítio possui uma facilidade no aprendizado da utilização, uma vez que apresenta informações claras e destacadas para cada ação que o usuário deseja realizar. Portanto, o usuário não possui muitas dificuldades ao executar as tarefas durante a utilização do sistema.
 
 #### Existe algum tipo de suporte para auxiliar os usuários na realização de tarefas?
-O sítio não fornce suportes os quais auxiliam os usuários durante a realização de tarefas, portanto se algum usuário possuir dificuldades, este não poderá contar com suportes para atender suas demandas.
+O sítio não fornece suportes os quais auxiliam os usuários durante a realização de tarefas, portanto se algum usuário possuir dificuldades, este não poderá contar com suportes para atender suas demandas.
 
 ## 4. Referências
 > BARBOSA, Simone; SILVA, Bruno. Planejamento da Avaliação de IHC. **Interação Humano-Computador**. 1ª Edição. Elsevier, 2010.
