@@ -76,4 +76,4 @@ Nesse sentido, o presente documento visa apresentar, conforme os direcionamentos
 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J.Interação Humano-Computador e Experiência do usuário. 2021. Autopublicação. ISBN: 978-65-00-19677-1
 
-This Person Does Not Exist, 2022. Disponível em: https://this-person-does-not-exist.com. Acesso em: 17/07/2022.
+> This Person Does Not Exist, 2022. Disponível em: <https://this-person-does-not-exist.com>. Acesso em: 17 de jul. de 2022.
