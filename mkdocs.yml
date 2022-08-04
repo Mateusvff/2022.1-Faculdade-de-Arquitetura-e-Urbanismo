@@ -39,5 +39,12 @@ nav:
     - Princípios Gerais: analise-de-requisitos/principios-gerais.md
     - Metas de Usabilidade: analise-de-requisitos/metas-de-usabilidade.md
     - Guia de Estilo: analise-de-requisitos/guia-de-estilo.md 
+  - Design, Avaliação e Desenvolvimento:
+    - Análise de Tarefas:
+      - Planejamento da avaliação da Análise de Tarefas: designAvalEDesenv/analiseTarefas/planejamento-analise-tarefas.md
+      - Planejamento do relato dos resultados da avaliação - Análise de Tarefas: designAvalEDesenv/analiseTarefas/planej-relato-result-analise-tarefas.md
+    - Storyboard:
+      - Planejamento da avaliação do Storyboard: designAvalEDesenv/storyboard/planejamento-da-avaliacao-do-storyboard.md
+      - Planejamento do relato dos resultados da avaliação - Storyboard: designAvalEDesenv/storyboard/planej-relato-result-storyboard.md
   - Apresentações: apresentacoes.md
 
