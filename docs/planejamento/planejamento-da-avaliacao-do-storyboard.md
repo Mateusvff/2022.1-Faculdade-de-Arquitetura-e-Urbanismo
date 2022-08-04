@@ -4,6 +4,8 @@
 **Data** | **Versão** | **Descrição** | **Autor(es/as)** | **Revisor** |
 --- | --- | --- | --- | --- |
 03/08/2022 | 0.1 | Criação do Documento | Letícia Aires | 
+04/08/2022 | 0.2 | Adição de Conteúdo | Letícia Aires | 
+04/08/2022 | 0.3 | Correção Estrutural | Letícia Aires | 
 
 ## 1. Introdução
 
@@ -30,6 +32,9 @@ Ao se estabelecer os objetivos da avaliação, bem como as perguntas a serem fei
 
 Nessa ótica, deve-se ter em mente os materiais, o prazo e a mão-de-obra a serem utilizados, tendo como base o orçamento proposto. Ademais, outros aspecto relevante da aplicação da avaliação é a forma como lidar com questões éticas, a qual se dará por meio de formulário.
 
+## 5. Conclusão
 
-## 4. Referências
+Por fim, ao se realizar a avaliação do storyboard de forma a seguir o roteiro de preguntas pré-definido, bem como o framework DECIDE, deve-se analisar os dados coletados e, por meio disso, retornar informações pertinentes à modificação do storyboard.
+
+## 6. Referências
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação
