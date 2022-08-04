@@ -5,6 +5,7 @@
 | :--:  | :----: | :-------: | :---: | :-----: |
 | 04/08 | 1.0 | Criação e desenvolvimento do Documento Planejamento da Análise de Tarefas | Caio César | Laura Pinos
 | 04/08 | 1.0.1 | Correção de erros de digitação e adição de links para documentos citados | Caio César | Matheus Costa
+
 ## 1. Introdução
 
 A avaliação da Análise de Tarefas tem como objetivo validar o documentos feito na etapa da [Análise de Tarefas](https://github.com/Interacao-Humano-Computador/2022.1-Faculdade-de-Arquitetura-e-Urbanismo/blob/planejamento-analise-tarefas/docs/analise-de-requisitos/analise-de-tarefas.md), verificar se usuários e suas respectivas ações são identificadas corretamente e se o perfil das [Personas](https://github.com/Interacao-Humano-Computador/2022.1-Faculdade-de-Arquitetura-e-Urbanismo/blob/planejamento-analise-tarefas/docs/analise-de-requisitos/personas.md) corresponde ao [Perfil de Usuário](https://github.com/Interacao-Humano-Computador/2022.1-Faculdade-de-Arquitetura-e-Urbanismo/blob/planejamento-analise-tarefas/docs/analise-de-requisitos/Perfil-de-usuario.md) ideal para a análise do site da Faculdade de Arquitetura e Urbanismo, além de suas funcionalidades.
