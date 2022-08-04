@@ -7,10 +7,11 @@
 04/08/2022 | 0.1 | Criação do Documento | Matheus Costa | Caio César 
 04/08/2022 | 0.2 | Desenvolvimento do Documento Planejamento da Análise de Tarefas | Caio César | Laura Pinos
 04/08/2022 | 0.2.1 | Correção de erros de digitação e adição de links para documentos citados | Caio César | Matheus Costa
+04/08/2022 | 0.2.2 | Otimização dos caminhos dos hyperlinks e correções no texto | Matheus Costa | Caio César 
 
 ## 1. Introdução
 
-A avaliação da Análise de Tarefas tem como objetivo validar o documentos feito na etapa da [Análise de Tarefas](https://github.com/Interacao-Humano-Computador/2022.1-Faculdade-de-Arquitetura-e-Urbanismo/blob/planejamento-analise-tarefas/docs/analise-de-requisitos/analise-de-tarefas.md), verificar se usuários e suas respectivas ações são identificadas corretamente e se o perfil das [Personas](https://github.com/Interacao-Humano-Computador/2022.1-Faculdade-de-Arquitetura-e-Urbanismo/blob/planejamento-analise-tarefas/docs/analise-de-requisitos/personas.md) corresponde ao [Perfil de Usuário](https://github.com/Interacao-Humano-Computador/2022.1-Faculdade-de-Arquitetura-e-Urbanismo/blob/planejamento-analise-tarefas/docs/analise-de-requisitos/Perfil-de-usuario.md) ideal para a análise do site da Faculdade de Arquitetura e Urbanismo, além de suas funcionalidades.
+A avaliação da Análise de Tarefas tem como objetivos: validar os documentos feitos na etapa da [Análise de Tarefas](../../analise-de-requisitos/analise-de-tarefas.md), verificar se usuários e suas respectivas ações são identificadas corretamente e se o perfil das [Personas](../../analise-de-requisitos/personas.md) corresponde ao [Perfil de Usuário](../../analise-de-requisitos/Perfil-de-usuario.md) ideal para a análise do site da Faculdade de Arquitetura e Urbanismo, além de suas funcionalidades.
 <br>
 
 ## 2. Metodologia
@@ -19,7 +20,7 @@ A avaliação da Análise de Tarefas tem como objetivo validar o documentos feit
 A metodologia escolhida que realizará a avaliação da análise de tarefas, foi o teste de usabilidade. O qual consiste em avaliar a usabilidade de um sistema interativo a partir de experiências de uso dos seus usuários-alvo (Rubin, 1994; Rubin e Chisnell, 2008).
 </p>
 
-Como é possível ver no documento do [Site Escolhido](https://github.com/Interacao-Humano-Computador/2022.1-Faculdade-de-Arquitetura-e-Urbanismo/blob/planejamento-analise-tarefas/docs/planejamento/analiseSites/site-escolhido.md) (Faculdade de Arquitetura e Urbanismo) utilizaremos o framework DECIDE, orientando o planejamento, a execução e a análise de uma avaliação de Interação Humano Computador. As atividades do framework são interligadas e executadas interativamente, à medida que o avaliador articula os objetivos da avaliação, os dados e recursos disponíveis (Preece et al., 2002).
+Como é possível ver no documento do [Site Escolhido](../../planejamento/analiseSites/site-escolhido.md) (Faculdade de Arquitetura e Urbanismo), utilizaremos o framework DECIDE, orientando o planejamento, a execução e a análise de uma avaliação de Interação Humano Computador. As atividades do framework são interligadas e executadas interativamente, à medida que o avaliador articula os objetivos da avaliação, os dados e recursos disponíveis (Preece et al., 2002).
 
 O framework DECIDE é expandido nos seguintes tópicos:
 <br>
@@ -30,6 +31,7 @@ O framework DECIDE é expandido nos seguintes tópicos:
 - **I**: Identificar e administrar as questões práticas da avaliação.
 - **D**: Decidir como lidar com as questões éticas.
 - **E**: Avaliar, interpretar e apresentar os dados.
+
 
 ## 3. Ferramentas
 <p align="justify">
@@ -44,9 +46,7 @@ Para realização das entrevistas foi decidido que seriam utilizadas as seguinte
 
 ### 4.1. Definição das atividades
 
-<p align="center"><b>
-Tabela 1: Etapas do Teste de Usabilidade
-</b></p>
+A Tabela 1 abaixo mostra as atividades da etapa do teste de usabilidade.
 
 Atividades | Tarefa
 :--------- | :----
@@ -54,17 +54,15 @@ Preparação | <ul>- Definir Tarefas para os participantes executarem;</ul><ul>-
 Coleta de Dados | Observar e registrar a performance e a opinião dos participantes durante sessões de uso controladas.
 Interpretação / Consolidação dos Resultados | Reunir, Contabilizar e Sumarizar os dados coletados dos participantes.
 Relato dos Resultados | Relatar a performance e opinião dos participantes.
+<h6 align = "center">Tabela 1: ferramentas utilizadas <br>Fonte: [1] - Tabela 12.4. </h6>
 
-<p align="center"><b>
-Fonte: [1] - Tabela 12.4.
-</b></p>
 
 ### 4.2. Preparação
 <p align="justify">
 A preparação para a entrevista será realizada antes para garantir que a mesma seja conduzida da forma correta. Alguns pontos importantes:
 </p>
 
-- O perfil dos participantes já foi definido no documento [Perfil de Usuário](https://github.com/Interacao-Humano-Computador/2022.1-Faculdade-de-Arquitetura-e-Urbanismo/blob/(%2336)-planejamento-storyboard/docs/analise-de-requisitos/Perfil-de-usuario.md);
+- O perfil dos participantes já foi definido no documento [Perfil de Usuário](../../analise-de-requisitos/Perfil-de-usuario.md);
 - O material preparado para observar e registrar a utilização será utilizado para a gravação da entrevista;
 - O teste piloto foi descartado por causa da quantidade de pessoas a serem entrevistadas, que será pequena.
 
