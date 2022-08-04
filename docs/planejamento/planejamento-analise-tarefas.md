@@ -4,11 +4,11 @@
 | Data  | Versão | Descrição | Autor | Revisor |
 | :--:  | :----: | :-------: | :---: | :-----: |
 | 04/08 | 1.0 | Criação e desenvolvimento do Documento Planejamento da Análise de Tarefas | Caio César | Laura Pinos
+| 04/08 | 1.0.1 | Correção de erros de digitação e adição de links para documentos citados | Caio César | Matheus Costa
 ## 1. Introdução
 
-<p align="justify">
-A avaliação da Análise de Tarefas tem como objetivo validar o documentos feito na etapa da Análise de Tarefas, verificar se usuários e suas respectivas ações são identificadas corretamente e se o perfil das Personas corresponde ao Perfil de Usuário ideal para a análise do site da Faculdade de Arquitetura e Urbanismo, além de suas funcionalidades.
-</p>
+A avaliação da Análise de Tarefas tem como objetivo validar o documentos feito na etapa da [Análise de Tarefas](https://github.com/Interacao-Humano-Computador/2022.1-Faculdade-de-Arquitetura-e-Urbanismo/blob/planejamento-analise-tarefas/docs/analise-de-requisitos/analise-de-tarefas.md), verificar se usuários e suas respectivas ações são identificadas corretamente e se o perfil das [Personas](https://github.com/Interacao-Humano-Computador/2022.1-Faculdade-de-Arquitetura-e-Urbanismo/blob/planejamento-analise-tarefas/docs/analise-de-requisitos/personas.md) corresponde ao [Perfil de Usuário](https://github.com/Interacao-Humano-Computador/2022.1-Faculdade-de-Arquitetura-e-Urbanismo/blob/planejamento-analise-tarefas/docs/analise-de-requisitos/Perfil-de-usuario.md) ideal para a análise do site da Faculdade de Arquitetura e Urbanismo, além de suas funcionalidades.
+<br>
 
 ## 2. Metodologia
 
@@ -16,11 +16,10 @@ A avaliação da Análise de Tarefas tem como objetivo validar o documentos feit
 A metodologia escolhida que realizará a avaliação da análise de tarefas, foi o teste de usabilidade. O qual consiste em avaliar a usabilidade de um sistema interativo a partir de experiências de uso dos seus usuários-alvo (Rubin, 1994; Rubin e Chisnell, 2008).
 </p>
 
-<p align="justify">
-Como é possível ver no documento do Site Escolhido (Faculdade de Arquitetura e Urbanismo) utilizaremos o framework DECIDE, orientando o planejamento, a execução e a análise de uma avaliação de Interação Humano Computador. As atividades do framework são interligadas e executadas interativamente, à medida que o avaliador articula os objetivos da avaliação, os dados e recursos disponíveis (Preece et al., 2002).
+Como é possível ver no documento do [Site Escolhido](https://github.com/Interacao-Humano-Computador/2022.1-Faculdade-de-Arquitetura-e-Urbanismo/blob/planejamento-analise-tarefas/docs/planejamento/analiseSites/site-escolhido.md) (Faculdade de Arquitetura e Urbanismo) utilizaremos o framework DECIDE, orientando o planejamento, a execução e a análise de uma avaliação de Interação Humano Computador. As atividades do framework são interligadas e executadas interativamente, à medida que o avaliador articula os objetivos da avaliação, os dados e recursos disponíveis (Preece et al., 2002).
 
 O framework DECIDE é expandido nos seguintes tópicos:
-</p>
+<br>
 
 - **D**: Determinar os objetivos gerais da avaliação de IHC, além de identificar por que e para quem tais objetivos são importantes.
 - **E**: Explorar perguntas a serem respondidas com a avaliação para cada objetivo escolhido.
