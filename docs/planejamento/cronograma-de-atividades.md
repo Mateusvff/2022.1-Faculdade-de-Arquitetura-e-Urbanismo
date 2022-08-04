@@ -103,11 +103,10 @@ Fonte: autores</h6>
 ### 4.4. Sprint 4 - Entrega da apresentação do projeto etapa 4
 **Autor** | **Atividade** | **Revisor** | **Data Limite Atividade** | **Data Limite Revisão** | **Data Limite Gravação do Vídeo**
 --- | --- | --- | --- | --- | --- |
-Letícia Aires | Planejamento da Avaliação do Storyboard e Análise de tarefas | Matheus Costa | 07/08 | 08/08 | 08/08 |
+Letícia Aires e Caio César | Planejamento da Avaliação do Storyboard e Análise de tarefas | Matheus Costa | 07/08 | 08/08 | 08/08 |
 Thalisson Alves | Planejamento do relato dos resultados da avaliação do Storyboard | Laura Pinos | 07/08 | 08/08 | 08/08 |
 Mateus Vínicius | Planejamento do relato dosresultados da avaliação do Análise de tarefas | Caio César | 07/08 | 08/08 | 08/08 |
 Matheus Costa | Correção de irregularidades na entrega 3 e revisor | Laura Pinos | 07/08 | 08/08 | 08/08 |
-Caio César | Atualização na documentação, suporte nas principais atividades da sprint e revisor| Matheus Costa | 07/08 | 08/08 | 08/08 |
 Laura Pinos | Suporte nas principais atividades da sprint e revisor | Matheus Costa | 07/08 | 08/08 | 08/08 |
 <h6 align = "center">Tabela 5: atividades da Sprint 3<br>
 Fonte: autores</h6>
