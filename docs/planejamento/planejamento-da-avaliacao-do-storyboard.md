@@ -24,7 +24,11 @@ I - Identificação de questões práticas da avaliação, isto é, material nee
 D - Decisão quanto a como lidar com questões éticas.
 E - Avaliação e interpretação de dados, após sua coleta.
 
-## Planejamento da Avaliação do Storyboard
+## 4. Aplicação da Avaliação
+
+Ao se estabelecer os objetivos da avaliação, bem como as perguntas a serem feitas conforme os objetivos e o método de inspeção, é necessário ponderar a respeito das questões práticas para execução da avaliação.
+
+Nessa ótica, deve-se ter em mente os materiais, o prazo e a mão-de-obra a serem utilizados, tendo como base o orçamento proposto. Ademais, outros aspecto relevante da aplicação da avaliação é a forma como lidar com questões éticas, a qual se dará por meio de formulário.
 
 
 ## 4. Referências
