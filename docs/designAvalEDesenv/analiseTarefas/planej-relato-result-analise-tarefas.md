@@ -23,7 +23,11 @@ Ao final das inspeções, todos os avaliadores se reúnem para discutir os resul
 #### - Lista de problemas encontrados
 #### - Um planejamento para o reprojeto do sistema
 
-## 3. Referências
+## 3. Conslusão
+
+A partir do modelo de relato apresentado acima, no tópico 2, os avaliadores, após realizarem as etapas de coleta de dados e avaliação, deverão apresentar os resultados obtidos para que, dessa forma, seja documentado todos os resultados e observações. 
+
+## 4. Referências
 
 > BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**. 1ª Edição. Elsevier, 2010.
 
