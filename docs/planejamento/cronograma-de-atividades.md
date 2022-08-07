@@ -64,7 +64,7 @@ As tabelas de 2 a 3 abaixo indicam as atividades realizadas por cada integrante 
 ### 4.1. Sprint 1 - Entrega da apresentação do projeto etapa 1 
 
 **Autor** | **Atividade** | **Revisor** | **Data Limite Atividade** | **Data Limite Revisão** | **Data Limite Gravação do Vídeo**
---- | --- | --- | --- | --- | --- |
+--- | --- | --- | --- | --- | --- 
 Caio César | Cronograma de Atividades | Matheus Costa | 10/07 | 11/07 | 11/07 
 Laura Pinos e Mateus Vinícius | Planejamento do Projeto | Laura | 10/07 | 11/07 | 11/07 
 Letícia Aires | Metodologias | Caio César | 10/07 | 11/07 | 11/07 
@@ -78,7 +78,7 @@ Fonte: autores</h6>
 ### 4.2. Sprint 2 - Entrega da apresentação do projeto etapa 2 
 
 **Autor** | **Atividade** | **Revisor** | **Data Limite Atividade** | **Data Limite Revisão** | **Data Limite Gravação do Vídeo**
---- | --- | --- | --- | --- | --- |
+--- | --- | --- | --- | --- | --- 
 Caio César | Atualizar Cronograma de Atividades, Ser o Revisor das principais atividades, auxiliar nas outras atividades | Laura | 19/07 | 20/07 | 20/07
 Laura Pinos |  Perfil do usuário | Matheus Costa | 19/07 | 20/07 | 20/07
 Letícia Aires | Personas | Caio César | 19/07 | 20/07 | 20/07
@@ -90,8 +90,9 @@ Laura Pinos | Edição do vídeo | Todos | 19/07 | 20/07 | 20/07
 Fonte: autores</h6>
 
 ### 4.3. Sprint 3 - Entrega da apresentação do projeto etapa 3 
+
 **Autor** | **Atividade** | **Revisor** | **Data Limite Atividade** | **Data Limite Revisão** | **Data Limite Gravação do Vídeo**
---- | --- | --- | --- | --- | --- |
+--- | --- | --- | --- | --- | --- 
 Caio César e Matheus Costa | Princípios Gerais de Projeto | Letícia Aires | 29/07 | 30/07 | 30/07 |
 Laura Pinos | Guia de Estilo | Mateus Vinícius | 29/07 | 30/07 | 30/07 |
 Letícia Aires |  Atualizar Cronograma de Atividades, Ser o Revisor das principais atividades, auxiliar nas outras atividades | Matheus Costa | 29/07 | 30/07 | 30/07 |
@@ -101,8 +102,9 @@ Thalisson Alves | Correção dos erros de outras entregas | Laura | 29/07 | 30/0
 Fonte: autores</h6>
 
 ### 4.4. Sprint 4 - Entrega da apresentação do projeto etapa 4
+
 **Autor** | **Atividade** | **Revisor** | **Data Limite Atividade** | **Data Limite Revisão** | **Data Limite Gravação do Vídeo**
---- | --- | --- | --- | --- | --- |
+--- | --- | --- | --- | --- | --- 
 Letícia Aires e Caio César | Planejamento da Avaliação do Storyboard e Análise de tarefas | Matheus Costa | 07/08 | 08/08 | 08/08 |
 Thalisson Alves | Planejamento do relato dos resultados da avaliação do Storyboard | Laura Pinos | 07/08 | 08/08 | 08/08 |
 Mateus Vínicius | Planejamento do relato dosresultados da avaliação do Análise de tarefas | Caio César | 07/08 | 08/08 | 08/08 |
