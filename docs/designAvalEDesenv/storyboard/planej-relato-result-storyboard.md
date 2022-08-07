@@ -16,7 +16,7 @@ Os resultados individuais devem ser consolidados e analisados em conjunto uma ve
 
 Os resultados de cada inspeção deverão ser consolidados através de um único relatório, sendo este relatório criado a partir de uma reunião entre todos os avaliadores para interpretar os resultados obtidos e com isso chegar à uma conclusão. O relato dos resultados deverá incluir:
 
-- Os objetivos e escopa da avaliação.
+- Os objetivos e escopo da avaliação.
 - O método de avaliação empregado.
 - O número de avaliadores que participaram da avaliação.
 - Quais perfis de usuário participarão da avaliação.
