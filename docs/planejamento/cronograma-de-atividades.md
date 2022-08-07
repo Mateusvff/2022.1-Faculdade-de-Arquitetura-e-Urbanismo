@@ -13,7 +13,7 @@
 16/07/2022 | 0.6 | Adição de legendas das imagens e tabelas | Matheus Costa | Caio César 
 29/07/2022 | 0.7 | Inserção da Sprint 3 | Letícia Aires | Laura Pinos 
 29/07/2022 | 0.8 | Adição e padronização de fontes nas imagens e tabelas | Thalisson Alves | Letícia Aires
-29/07/2022 | 0.9 | Adição do cronograma da entrega 4 | Caio César | Matheus Costa
+02/08/2022 | 0.9 | Adição do cronograma de atividades da entrega 4 | Caio César | Matheus Costa
 
 ## 1. Cronograma de atividades
 O objetivo deste documento é apresentar uma visualização rápida da divisão cronológica do semestre, conforme especificado no plano de ensino da disciplina. As tabelas de atividades presentes no tópico 4 listam as principais tarefas que foram realizadas durante uma Sprint.
@@ -59,7 +59,7 @@ Fonte: autores</h6>
 
 ## 4. Divisão de atividades 
 
-As tabelas de 2 a 3 abaixo indicam as atividades realizadas por cada integrante durante uma Sprint.
+As tabelas de 2 a 5 abaixo indicam as atividades realizadas por cada integrante durante uma Sprint.
 
 ### 4.1. Sprint 1 - Entrega da apresentação do projeto etapa 1 
 
@@ -105,10 +105,11 @@ Fonte: autores</h6>
 
 **Autor** | **Atividade** | **Revisor** | **Data Limite Atividade** | **Data Limite Revisão** | **Data Limite Gravação do Vídeo**
 --- | --- | --- | --- | --- | --- 
-Letícia Aires e Caio César | Planejamento da Avaliação do Storyboard e Análise de tarefas | Matheus Costa | 07/08 | 08/08 | 08/08 |
+Letícia Aires | Planejamento da Avaliação do Storyboard | Matheus Costa | 07/08 | 08/08 | 08/08 |
+Caio César | Planejamento da Avaliação da Análise de tarefas | Matheus Costa | 07/08 | 08/08 | 08/08 |
 Thalisson Alves | Planejamento do relato dos resultados da avaliação do Storyboard | Laura Pinos | 07/08 | 08/08 | 08/08 |
-Mateus Vínicius | Planejamento do relato dosresultados da avaliação do Análise de tarefas | Caio César | 07/08 | 08/08 | 08/08 |
-Matheus Costa | Correção de irregularidades na entrega 3 e revisor | Laura Pinos | 07/08 | 08/08 | 08/08 |
-Laura Pinos | Suporte nas principais atividades da sprint e revisor | Matheus Costa | 07/08 | 08/08 | 08/08 |
+Mateus Vínicius | Planejamento do relato dos resultados da avaliação do Análise de tarefas | Caio César | 07/08 | 08/08 | 08/08 |
+Matheus Costa | Correção de irregularidades na entrega 3 e revisor  geral | Laura Pinos | 07/08 | 08/08 | 08/08 |
+Laura Pinos | Suporte nas principais atividades da sprint e revisora geral | Matheus Costa | 07/08 | 08/08 | 08/08 |
 <h6 align = "center">Tabela 5: atividades da Sprint 3<br>
 Fonte: autores</h6>
