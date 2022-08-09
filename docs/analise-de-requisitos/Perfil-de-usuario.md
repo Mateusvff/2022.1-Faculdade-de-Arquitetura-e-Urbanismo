@@ -62,5 +62,6 @@ As respostas referentes a sexta e última pergunta (**O que poderia ser adiciona
 <br>Fonte: Autores</h6>
 
 ## 4. Referências
-> BARBOSA, Simone; SILVA, Bruno. Planejamento da Avaliação de IHC. **Interação Humano-Computador**. 1ª Edição. Elsevier, 2010.
+
+> BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**. 1ª Edição. Elsevier, 2010.
 

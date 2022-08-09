@@ -28,7 +28,7 @@ Nesse sentido, o presente documento visa apresentar, conforme os direcionamentos
     <b>Status:      </b> Persona Primária   <br>
     <b>Idade:       </b> 44 anos            <br>
     <b>Profissão:   </b> Professor de Arquitetura        <br>
-    <b>Objetivos:   </b> João Carlos é docente de longa data na Universidade de Brasília (UnB) e utiliza o site da Faculdade de Arquiteura (FAU) atas e resoluções e informes do conselho da fau  acessar caledário dos departamentos teve sua casa destruída pelas chuvas e enchentes do Rio Cachoeira no ano passado. Seu principal objetivo é poder reconstruir sua casa e poder ter uma moradia tranquila novamente. Para isso, Valéria utiliza o site da Prefeitura de Itabuna para poder consultar se seu nome saiu na lista de beneficiados do Programa Auxílio Recomeço e para consultar a lista de lojas parceiras do auxílio, além de acessar a ouvidoria para registrar manifestações. 
+    <b>Objetivos:   </b> João Carlos é docente de longa data na Universidade de Brasília (UnB) e utiliza o site da Faculdade de Arquiteura (FAU) atas e resoluções e informes do conselho da fau  acessar caledário dos departamentos teve sua casa destruída pelas chuvas e enchentes do Rio Cachoeira no ano passado. Seu principal objetivo é poder reconstruir sua casa e poder ter uma moradia tranquila novamente.
     </p> </td>
   </tr>
   <tr>
@@ -76,4 +76,4 @@ Nesse sentido, o presente documento visa apresentar, conforme os direcionamentos
 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J.Interação Humano-Computador e Experiência do usuário. 2021. Autopublicação. ISBN: 978-65-00-19677-1
 
-This Person Does Not Exist, 2022. Disponível em: https://this-person-does-not-exist.com. Acesso em: 17/07/2022.
+> This Person Does Not Exist, 2022. Disponível em: <https://this-person-does-not-exist.com>. Acesso em: 17 de jul. de 2022.

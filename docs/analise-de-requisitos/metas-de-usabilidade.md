@@ -59,8 +59,9 @@ O sítio possui uma facilidade no aprendizado da utilização, uma vez que apres
 O sítio não fornece suportes os quais auxiliam os usuários durante a realização de tarefas, portanto se algum usuário possuir dificuldades, este não poderá contar com suportes para atender suas demandas.
 
 ## 4. Referências
-> BARBOSA, Simone; SILVA, Bruno. Planejamento da Avaliação de IHC. **Interação Humano-Computador**. 1ª Edição. Elsevier, 2010.
+
+> BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**. 1ª Edição. Elsevier, 2010.
 
 > PREECE, Jennifer; ROGERS, Yvone; SHARP, Helen. Design de Interação: Além da Interação homemcomputador. Editora Bookman, São Paulo: 2005. 
 
-> Diana Fournier. As 6 metas de Usabilidade. MEDIUM, 2016. Disponível em: https://medium.com/vivareal-ux-chapter/as-6-metas-de-usabilidade-9491442fd56a. Acesso em: 27 set. 2020.
+> Diana Fournier. As 6 metas de Usabilidade. MEDIUM, 2016. Disponível em: https://medium.com/vivareal-ux-chapter/as-6-metas-de-usabilidade-9491442fd56a. Acesso em: 27 de set. de 2020.
