@@ -1,0 +1,45 @@
+***
+
+### Histórico de Versões
+
+**Data** | **Versão** | **Descrição** | **Autor(es/as)** | **Revisor** |
+--- | --- | --- | --- | --- |
+04/08/2022 | 0.1 | Criação do Documento | Letícia Aires | Thalisson
+
+## 1. Introdução
+
+//com objetivo e escopo
+
+## 2. Metodologia
+
+//método empregado
+
+A metodologia visa constatar problemáticas relacionadas à interação entre o usuário padrão e a interface, assim, optou-se pelo método de inspeção aliado ao framework DECIDE.
+
+Nessa ótica, o método de inspeção permite a dedução de possíveis gargalos e empecilhos de design referentes ao uso do sistema pelas personas previamente definidas. Isto é, não faz-se necessário comunicação entre inspetor e usuários.
+
+Ademais, optou-se pelo framework DECIDE com o fito de guiar planejamento e posterior execução de avaliação do site (Preece et alii 2005, p.368).
+
+- **D** - Determinação dos objetivos da avaliação de IHC.
+- **E** - Exploração e ponderação de perguntas a serem respondidas.
+- **C** - Escolha dos métodos de avaliação a serem utilizados, levando em      consideração objetivo e público alvo.
+- **I** - Identificação de questões práticas da avaliação, isto é, material neessário, orçamento, prazo e mão-de-obra.
+- **D** - Decisão quanto a como lidar com questões éticas.
+- **E** - Avaliação e interpretação de dados, após sua coleta.
+
+## 3. Perfil dos Usuários e Avaliadores
+
+//número de avaliadores e perfis de usuários
+
+## 3. Aplicação da Avaliação
+
+//sumário de daods coletados
+
+## 4. Conclusão
+
+//interpretação e análise de dados com lista de problemas encontrados + planejamento para o reprojeto do sistema
+
+## 5. Referências
+> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação
+
+> PREECE, Jennifer; ROGERS, Yvonne; SHARP, Helen. O que é _Desing_ de Interação?. **Design de Interação: Além da Interação Humano-Computador**. 1ª Edição. Bookman, 2005.
