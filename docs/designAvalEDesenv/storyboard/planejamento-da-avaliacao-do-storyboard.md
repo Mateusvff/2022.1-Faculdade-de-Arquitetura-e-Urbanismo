@@ -8,6 +8,7 @@
 04/08/2022 | 0.2 | Adição do conteúdo do documento | Letícia Aires | Matheus Costa
 04/08/2022 | 0.3 | Correção Estrutural | Letícia Aires | Matheus Costa
 04/08/2022 | 0.3.1 | Correções na formatação do documento e adição nas Referências bibliográficas | Matheus Costa | Letícia Aires
+11/08/2022 | 0.3.2 | Correções gramatical | Letícia Aires | Matheus Costa 
 
 ## 1. Introdução
 
@@ -36,7 +37,7 @@ Nessa ótica, deve-se ter em mente os materiais, o prazo e a mão-de-obra a sere
 
 ## 4. Conclusão
 
-Por fim, ao se realizar a avaliação do Storyboard de forma a seguir o roteiro de preguntas pré-definido, bem como o framework DECIDE, deve-se analisar os dados coletados e, por meio disso, retornar informações pertinentes à modificação do Storyboard.
+Por fim, ao se realizar a avaliação do Storyboard de forma a seguir o roteiro de perguntas pré-definido, bem como o framework DECIDE, deve-se analisar os dados coletados e, por meio disso, retornar informações pertinentes à modificação do Storyboard.
 
 ## 5. Referências
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação
