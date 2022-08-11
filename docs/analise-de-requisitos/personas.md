@@ -6,7 +6,7 @@
 --- | --- | --- | --- | ---
 17/07/2022 | 0.1 | Criação do documento | Letícia Aires | Matheus Costa 
 17/07/2022 | 0.2 | Adição Integral do Conteúdo| Letícia Aires | Caio César
-11/08/2022 | 0.3 | Adição de Antipersona | Laura Pinos
+11/08/2022 | 0.3 | Adição de Antipersona | Letícia Aires | Laura Pinos
 
 ## 1. Introdução
 
