@@ -83,9 +83,9 @@ Nesse sentido, o presente documento visa apresentar, conforme os direcionamentos
   <tr>
     <td> <img src= "https://user-images.githubusercontent.com/72623771/184127831-7bc4f2e6-a4ff-4443-b60e-714d09f14cc0.png" width=500 height=auto> </td> 
     <td> <p align="justify">
-    <b>Status:      </b> Persona Primária   <br>
+    <b>Status:      </b> Antipersona   <br>
     <b>Idade:       </b> 70 anos            <br>
-    <b>Profissão:   </b> Estudante de Mestrado em Arquitetura        <br>
+    <b>Profissão:   </b> Aposentada        <br>
     <b>Objetivos:   </b> Luana se aposentou há alguns anos e costuma passar seu tempo cultivando alimentos orgânicos e brincado com seus netos. Nesse sentido, como seu principal objetivo é aproveitar a aposentadoria, Luana não costuma usufruir de sites como o da Faculdade de Arquitetura e Urbanismo da UnB. Dessa forma, não há ligações entre a aposentada e o domínio e tal não utilizará o site.
     </p> </td>
   </tr>
