@@ -5,27 +5,15 @@
 **Data** | **Versão** | **Descrição** | **Autor(es/as)** | **Revisor** |
 --- | --- | --- | --- | --- |
 04/08/2022 | 0.1 | Criação do Documento | Letícia Aires | Thalisson
+04/08/2022 | 0.1 | Adição Parcial de Conteúdo | Letícia Aires | Caio César
 
 ## 1. Introdução
 
-//com objetivo e escopo
-
+O presente documento visa apresentar um relato da avaliação do storyboard produzido a fim de representar o uso de funcionalidades do site da Faculdade de Arquitetura e Urbanismo (FAU) da Universidade de Brasília (UnB).
 ## 2. Metodologia
 
-//método empregado
+A metodologia adotada é a de inspeção com uso do framework DECIDE. Nessa ótica, o uso de tais mecanismos na avaliação tem como fito a análise de funcionalidades representadas no storyboard para, assim, constatar problemáticas relacionadas à interação entre o usuário padrão e a interface.
 
-A metodologia visa constatar problemáticas relacionadas à interação entre o usuário padrão e a interface, assim, optou-se pelo método de inspeção aliado ao framework DECIDE.
-
-Nessa ótica, o método de inspeção permite a dedução de possíveis gargalos e empecilhos de design referentes ao uso do sistema pelas personas previamente definidas. Isto é, não faz-se necessário comunicação entre inspetor e usuários.
-
-Ademais, optou-se pelo framework DECIDE com o fito de guiar planejamento e posterior execução de avaliação do site (Preece et alii 2005, p.368).
-
-- **D** - Determinação dos objetivos da avaliação de IHC.
-- **E** - Exploração e ponderação de perguntas a serem respondidas.
-- **C** - Escolha dos métodos de avaliação a serem utilizados, levando em      consideração objetivo e público alvo.
-- **I** - Identificação de questões práticas da avaliação, isto é, material neessário, orçamento, prazo e mão-de-obra.
-- **D** - Decisão quanto a como lidar com questões éticas.
-- **E** - Avaliação e interpretação de dados, após sua coleta.
 
 ## 3. Perfil dos Usuários e Avaliadores
 
