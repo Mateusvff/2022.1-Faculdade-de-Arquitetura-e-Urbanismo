@@ -8,7 +8,6 @@
 ## 1. Introdução
 
 Storyboard se configura como uma forma de prototipação de baixa fidelidade, a qual conta com cenários e desenhos em série, a fim de elucidar a progressão das etapas de um projeto para stakeholders. Nesse sentido, o presente documento fornece uma representação do ambiente e dos passos necessários para os usuários realizarem determinadas tarefas ao utilizar o site da Faculdade de Arquitetura da Universidade de Brasília.
-## Metodologia
 
 ## Metodologia
 
