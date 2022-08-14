@@ -14,6 +14,7 @@
 29/07/2022 | 0.7 | Inserção da Sprint 3 | Letícia Aires | Laura Pinos 
 29/07/2022 | 0.8 | Adição e padronização de fontes nas imagens e tabelas | Thalisson Alves | Letícia Aires
 02/08/2022 | 0.9 | Adição do cronograma de atividades da entrega 4 | Caio César | Matheus Costa
+09/08/2022 | 1.0 | Adição do cronograma de atividades da entrega 5 | Caio César | Thalisson Alves
 
 ## 1. Cronograma de atividades
 O objetivo deste documento é apresentar uma visualização rápida da divisão cronológica do semestre, conforme especificado no plano de ensino da disciplina. As tabelas de atividades presentes no tópico 4 listam as principais tarefas que foram realizadas durante uma Sprint.
@@ -112,4 +113,17 @@ Mateus Vínicius | Planejamento do relato dos resultados da avaliação do Anál
 Matheus Costa | Correções da entrega 3 e revisor geral | Laura Pinos | 07/08 | 08/08 | 08/08 |
 Laura Pinos | Suporte nas principais atividades da sprint e revisora geral | Matheus Costa | 07/08 | 08/08 | 08/08 |
 <h6 align = "center">Tabela 5: atividades da Sprint 3<br>
+Fonte: autores</h6>
+
+### 4.5. Sprint 5 - Entrega da apresentação do projeto etapa 5
+
+**Autor** | **Atividade** | **Revisor** | **Data Limite Atividade** | **Data Limite Revisão** | **Data Limite Gravação do Vídeo**
+--- | --- | --- | --- | --- | --- 
+Letícia Aires | Relato dos resultados do Story Board | Caio César | 16/08 | 17/08 | 17/08 |
+Caio César | Suporte nas principais atividades da sprint, atualização de documentação necessária e revisora geral | Thalisson Alves | 16/08 | 17/08 | 17/08 |
+Thalisson Alves | Correções da entrega 3 e revisor geral | Caio César | 16/08 | 17/08 | 17/08 |
+Mateus Vínicius | Planejamento da Avaliação do Protótipo de Papel | Caio César | 16/08 | 17/08 | 17/08 |
+Matheus Costa | Relato dos resultados  da Análise de tarefas | Thalisson Alves | 16/08 | 17/08 | 17/08 |
+Laura Pinos | Planejamento do relato dos resultados da avaliação do Protótipo de Papel | Thalisson Alves | 16/08 | 17/08 | 17/08 |
+<h6 align = "center">Tabela 6: atividades da Sprint 3<br>
 Fonte: autores</h6>
