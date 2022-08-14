@@ -12,7 +12,7 @@ Storyboard se configura como uma forma de prototipação de baixa fidelidade, a 
 
 ## Metodologia
 
-O presente documento foi elaborado com base na análise de tarefas disponíveis no site bem como nas personas primárias e secundárias a utilizar o domínio. Ademais, o software utilizado para criação do storyboard foi o Canva.
+O presente documento foi elaborado com base na análise de tarefas disponíveis no site bem como nas personas primárias e secundárias a utilizar o domínio. Ademais, o software utilizado para criação do storyboard disponível na **Figura 1** foi o Canva.
 
 ## Acesso ao Fluxograma
 
