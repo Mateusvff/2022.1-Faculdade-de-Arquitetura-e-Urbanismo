@@ -6,6 +6,7 @@
 --- | --- | --- | --- | --- |
 04/08/2022 | 0.1 | Criação do Documento | Letícia Aires | Thalisson
 04/08/2022 | 0.1 | Adição Parcial de Conteúdo | Letícia Aires | Caio César
+14/08/2022 | 0.2 | Adição dos itens 3, 4 e 5 | Caio César | Letícia Aires
 
 ## 1. Introdução
 
@@ -19,15 +20,15 @@ A metodologia adotada é a de inspeção com uso do framework DECIDE. Nessa óti
 
 //número de avaliadores e perfis de usuários
 
-## 3. Aplicação da Avaliação
+## 4. Aplicação da Avaliação
 
 //sumário de daods coletados
 
-## 4. Conclusão
+## 5. Conclusão
 
 //interpretação e análise de dados com lista de problemas encontrados + planejamento para o reprojeto do sistema
 
-## 5. Referências
+## 6. Referências
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação
 
 > PREECE, Jennifer; ROGERS, Yvonne; SHARP, Helen. O que é _Desing_ de Interação?. **Design de Interação: Além da Interação Humano-Computador**. 1ª Edição. Bookman, 2005.
