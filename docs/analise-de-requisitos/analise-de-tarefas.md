@@ -8,6 +8,7 @@
 14/07/2022 | 0.1 | Criação do Documento | Mateus Franco | Caio César |
 19/07/2022 | 0.2 | Inserção dos diagrama e tabela | Mateus Franco | Caio César |
 29/07/2022 | 0.3 | Adição e padronização de fontes nas figuras e correção de links | Thalisson Alves | Letícia Aires
+16/08/2022 | 0.4 | Alterações na estrutura e layout da tabela | Mateus Franco | Caio César
 
 ## 1. Introdução
 
@@ -19,33 +20,51 @@ Como o objetivo principal é a avaliação de um sistema computacional já exist
 
 1. Realiza-se a coleta de um conjunto de objetivos, definidos em termos psicológicos, ou seja, os objetivos das pessoas.
 
-2. Para cada objetivo definido anteriormente, elabora-se uma lista das ações realizadas por um agente para alcançar esse objetivo (caso haja mais de um agente, é recomendado representar as ações de cada agente em colunas diferentes).
+2. Para cada objetivo definido anteriormente, elabora-se uma lista das ações realizadas por um agente para alcançar esse objetivo.
 
 3. Verifique a validade da decomposição junto aos stakeholders.
 
-## 3. Análise Hierárquica de Tarefas
+## 3. Análise Hierárquica de Tarefas (AHT)
 
-A Análise Hierárquica de Tarefas examina primeiramente os objetivos de alto nível, decompondo-os em subobjetivos buscando identificar quais subobjetivos são mais difíceis de atingir (ou que geram mais erros) e que, portanto, limitam ou mesmo impedem o atingimento do objetivo maior. Os subobjetivos de um objetivo e as relações entre eles é denominada de plano. Um plano define os subobjetivos necessários para alcançar um outro objetivo maior, e a ordem em que esses subobjetivos devem ser alcançados.
+A Análise Hierárquica de Tarefas examina primeiramente os objetivos de alto nível, decompondo-os em subobjetivos buscando identificar quais subobjetivos são mais difíceis de atingir (ou que geram mais erros) e que, portanto, limitam ou mesmo impedem o atingimento do objetivo maior.
 
-### 3.1. Representação gráfica para consulta de fluxograma de graduação
+Os subobjetivos de um objetivo e as relações entre eles é denominada de plano. Um plano define os subobjetivos necessários para alcançar um outro objetivo maior, e a ordem em que esses subobjetivos devem ser alcançados.
 
-A tarefa "Consultar fluxograma de graduação" é uma das principais tarefas realizadas dentro do sítio da Faculdade de Arquitetura e Urbanismo. É a tarefa que permite que o graduando tenha acesso às disciplinas que contém o curso de graduação e que são obrigatórias para a conclusão do curso.
-Abaixo, representado pela **Figura 1** está analisando graficamente quais são os objetivos e os passos necessários para que tal objetivos seja concluído com êxito por parte do usuário.
+## 4. Tarefas
+
+### 4.1 Consulta de fluxograma para o curso de graduação
+
+A tarefa "_Consultar fluxograma de graduação_" é uma das principais tarefas realizadas dentro do sítio da Faculdade de Arquitetura e Urbanismo, a qual permite que o graduando tenha acesso às disciplinas que contém os cursos de graduação e que são obrigatórias para a conclusão do curso.
+
+##### Representação gráfica
+
+Abaixo, representado pela _Figura 1_, está sendo analisado, graficamente, quais são os objetivos e os passos necessários para que tal objetivo seja concluído com êxito por parte do usuário.
 
 ![Figura 1](../assets/hta-consulta-de-fluxograma.png)
 <h6 align = "center"> Figura 1: Diagrama para Análise Hierárquica de Tarefas para consulta de fluxograma de graduação.
 <br>Fonte: autores</h6>
 
-### 3.2. Representação em tabela para consulta de fluxograma de graduação
+##### Representação em tabela 
 
-Abaixo, na **Figura 2**, temos a representação em tabela equivalente ao diagrama apresentado na Figura 1 acima.
-Uma ação pode ser entendida como uma instrução para fazer algo sob certas circunstâncias, o input como estados e o feedback como testes ou avaliação do estado final.
+Abaixo, referenciado na _Tabela 2_, temos a representação em tabela equivalente ao diagrama apresentado na _Figura 1_ acima.
 
-![Figura 2](../assets/tabela-hta.png)
+**Objetivos e Operações** | **Problemas e Recomendações** |
+--- | --- |
+0. Consultar Fluxograma de curso de graduação (1 > 2) | _plano_: Acessar o site da FAU e acessar aba de graduação
+1. Acessar site da Faculdade de Arquitetura e Urbanismo | _input_: Endereço do site da FAU
+2. Acessar aba de graduação (1 > 2) | _plano_: Clicar na aba de "graduação" e encontrar fluxograma de curso
+2.1 Clicar na aba graduação | 
+2.2 Encontrar Fluxograma de curso de graduação (1 > 2) | _plano_: Clicar na aba de fluxograma de curso e encontrar pdf que contém a informação
+2.2.1 Clicar na aba "Fluxograma de Curso" | 
+2.2.2 Encontrar pdf que contém o fluxograma do curso (1 > 2) | _plano_: Rolar a barra de navegação até encontrar o link do pdf que contém o fluxograma. _problema_: Não está bem definido onde o fluxograma se encontra dentro da página. _recomendação_: Criar uma organização melhor da estrutura da página
+2.2.2.1 Rolar a barra de navegação até encontrar o link | _input_: Click e Scroll do mouse na direção que contém o pdf
+2.2.2.2 Baixar o pdf que contém o fluxograma | _plano_: Clicar no link que realizará o download do fluxograma
+2.2.2.2.1 Clicar no link que realizará o download do fluxograma | _input_: Click do mouse
 
-<h6 align = "center"> Figura 2: Tabela equivalente ao diagrama para Análise Hierárquica de Tarefas para consulta de fluxograma de graduação.<br>Fonte: autores</h6>
 
-## 4. Referências
+<h6 align = "center"> Tabela 2: Tabela equivalente ao diagrama para consulta de fluxograma de graduação.<br>Fonte: autores</h6>
+
+## 5. Referências
 
 > BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**. 1ª Edição. Elsevier, 2010.
 
