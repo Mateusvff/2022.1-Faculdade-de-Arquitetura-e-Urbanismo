@@ -6,6 +6,7 @@
 --- | --- | --- | --- | ---
 17/07/2022 | 0.1 | Criação do documento | Letícia Aires | Matheus Costa 
 17/07/2022 | 0.2 | Adição Integral do Conteúdo| Letícia Aires | Caio César
+11/08/2022 | 0.3 | Adição de Antipersona | Letícia Aires | Laura Pinos
 
 ## 1. Introdução
 
@@ -67,6 +68,25 @@ Nesse sentido, o presente documento visa apresentar, conforme os direcionamentos
     <b>Idade:       </b> 26 anos            <br>
     <b>Profissão:   </b> Estudante de Mestrado em Arquitetura        <br>
     <b>Objetivos:   </b> Viviane recentemente ingressou como estudante de pós graduação na Universidade de Brasília (UnB). Como um dos 94 alunos de mestrado na área, Viviane tem como principal objetivo o desenvolvimento de uma excepcional dissertação de mestrado. Nesse sentido, a mesma utiliza o site para ter acesso a teses e dissertações, bem como projetos de extensão e outros eventos acadêmicos, a fim de estar a par de todas as oportunidades e recursos disponíveis para a melhor construção possível de um trabalho para apresentar à banca.
+    </p> </td>
+  </tr>
+  <tr>
+</table>
+
+## 3. Antipersona
+
+<table>
+  <tr>
+    <th>    </th>
+    <th> Luana Vasconcelos Cavaliere - Aposentada</th>
+  </tr>
+  <tr>
+    <td> <img src= "https://user-images.githubusercontent.com/72623771/184127831-7bc4f2e6-a4ff-4443-b60e-714d09f14cc0.png" width=500 height=auto> </td> 
+    <td> <p align="justify">
+    <b>Status:      </b> Antipersona   <br>
+    <b>Idade:       </b> 70 anos            <br>
+    <b>Profissão:   </b> Aposentada        <br>
+    <b>Objetivos:   </b> Luana se aposentou há alguns anos e costuma passar seu tempo cultivando alimentos orgânicos e brincado com seus netos. Nesse sentido, como seu principal objetivo é aproveitar a aposentadoria, Luana não costuma usufruir de sites como o da Faculdade de Arquitetura e Urbanismo da UnB. Dessa forma, não há ligações entre a aposentada e o domínio e tal não utilizará o site.
     </p> </td>
   </tr>
   <tr>
