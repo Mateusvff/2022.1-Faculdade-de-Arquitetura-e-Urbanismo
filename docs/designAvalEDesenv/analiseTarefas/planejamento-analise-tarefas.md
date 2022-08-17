@@ -8,6 +8,7 @@
 04/08/2022 | 0.2 | Desenvolvimento do Documento Planejamento da Análise de Tarefas | Caio César | Laura Pinos
 04/08/2022 | 0.2.1 | Correção de erros de digitação e adição de links para documentos citados | Caio César | Matheus Costa
 04/08/2022 | 0.2.2 | Otimização dos caminhos dos hyperlinks e correções no texto | Matheus Costa | Caio César 
+15/08/2022 | 0.3 | Adição das perguntas da entrevista | Matheus Costa | Caio César
 
 ## 1. Introdução
 
@@ -74,7 +75,7 @@ Antes do início da entrevista, o entrevistado deve confirmar o Termo de Consent
 
 ### 4.4. Coleta de Dados
 <p align="justify">
-A coleta de dados será fruto da entrevista, o participante será orientado a realizar as tarefas definidas previamente, já durante a realização, será feito uma série de perguntas referentes sobre as tarefas, as respostas fornecerão dados sobre a experiência do usuário com o site.
+A coleta de dados será fruto de uma entrevista, onde o participante será orientado a realizar as tarefas definidas previamente. Já durante a realização dessa dinâmica, será feita uma série de perguntas cujas respostas fornecerão dados sobre a experiência do usuário com o site.
 </p>
 
 ### 4.5. Interpretação e Consolidação dos Resultados
@@ -87,13 +88,49 @@ A interpretação e consolidação dos resultados será realizada através da an
 O Relato dos Resultados consiste no resumo dos resultados obtidos. Contendo os resultados sobre performance, opinião e comportamento dos participantes.
 </p>
 
-## 5. Conclusão
+## 5. Perguntas
+
+Como especificado no tópico de [Coleta de Dados](#44-coleta-de-dados), será realizada uma entrevista na qual os participantes responderão perguntas que ajudarão no levantamento dos dados e posteriormente sua intepretação.
+
+Na Tabela 2 a seguir estão agrupadas as perguntas que servirão de guia para a entrevista.
+
+<center>
+
+| Número | Pergunta | Respostas
+|:------:|:---------|:---------
+| 1 | Qual seu nome? | (resposta aberta)
+| 2 | Qual a sua idade? | (resposta aberta)
+| 3 | Qual seu grau de escolaridade? | [ ] Ensino Médio<br>[ ] Ensino superior incompleto<br>[ ] Ensino superior completo<br> [ ] Pós-graduação
+| 4 | Com relação a sua experiência com tecnologia, você diria que tem... | [ ] Nenhuma <br>[ ] Pouca <br> [ ] Média<br>[ ] Muita<br>
+| 5 | Você já utilizou o site da FAU alguma vez? | [ ] Sim  [ ] Não
+| 5.1 | Caso "sim": Com que frequência você utiliza o site? | [ ] Quase nenhuma <br>[ ] Pouca <br> [ ] Média<br>[ ] Muita<br>
+| 5.2 | Caso "não": Há algum motivo específico para nunca ter usado? | (resposta aberta)
+| 6 | Como você costuma acessar as principais informações referentes ao curso? | [ ] Por meio do site da FAU <br> [ ] Por outros meios de pesquisa
+| 6.1 | Caso seja por outros meios: Você poderia citar ao menos um e dizer o porquê prefere este ao invés do site? | (resposta aberta)
+| 7 | Você já realizou uma busca para consultar o fluxograma do seu curso dentro do site? | [ ] Sim  [ ] Não
+| 7.1 | Caso "sim": Durante a primeira vez em que realizou essa atividade, você teve... | [ ] Facilidade para encontrar o fluxograma <br>[ ] Dificuldade
+| 7.1.1 | Para ambas as respostas: Pode descrever porque sentiu isso? | (resposta aberta)
+| 7.1.2 | Caso tenha tido dificuldade: Você saberia dizer como ficaria mais fácil para encontrar essa informação? | (resposta aberta)
+| 7.2 | Caso "não": Você chegou a procurar pelo fluxograma em outro local? | [ ] Sim  [ ] Não
+| 7.2.1 | Caso "sim": Por onde você procurou e se conseguiu encontrar com tranquilidade? | (resposta aberta) 
+| 7.2.2 | Caso "não" para a pergunta 7.2 ou não tenha encontrado com tranquilidade, de acordo com a 7.2.1: Você acredita que conseguiria acessar rapidamente o site para encontrar o fluxograma? (propor a realização da atividade) | [ ] Sim [ ] Não
+| 8 | Você já procurou pelo calendário acadêmico do Programa de Pós-graduação dentro do site? | [ ] Sim [ ] Não
+| 8.1 | Caso "sim": Você conseguiu encontrar o que queria com facilidade? | [ ] Sim [ ] Não
+| 8.2 | Caso "não": Você chegou a procurar pelo calendário em outro local? | [ ] Sim  [ ] Não
+| 8.2.1 | Caso "sim": Por onde você procurou e se conseguiu encontrar com tranquilidade? | (resposta aberta) 
+| 8.2.2 | Caso "não" para a pergunta 8.2 ou não tenha encontrado com tranquilidade, de acordo com a 8.2.1: Você acredita que conseguiria acessar rapidamente o site para encontrar o calendário? (propor a realização da atividade) | [ ] Sim [ ] Não
+
+</center>
+
+<h6 align = "center">Tabela 2: perguntas da entrevista<br>Fonte: Autores. </h6>
+
+## 6. Conclusão
 
 <p align="justify">
 Ao final da avaliação, teremos o relato dos resultados, dessa forma teremos um direcionamento maior para conseguir dar um feedback mais verossímil para os mantenedores do produto. Os dados desse relatório irão expor as qualidades e os defeitos encontrados ao longo da Avaliação, e se é necessário uma modificação na Análise de Tarefas. Com isso, poderemos decidir se poderemos prosseguir para as próximas etapas do ciclo de vida da Mayhew.
 </p>
  
-## 6. Referências
+## 7. Referências
 
 > [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) - Interação Humano-Computador e Experiência do usuário.
 
