@@ -39,7 +39,7 @@ O framework DECIDE é expandido nos seguintes tópicos:
 Para realização das entrevistas foi decidido que seriam utilizadas as seguintes ferramentas:
 </p>
 
-- Discord: comunicação com o entrevistado 
+- Discord e WhatsApp: comunicação com o entrevistado 
 - Nvidea GeForce Experience: gravação da entrevista
 - YouTube: disponibilização do vídeo
 
