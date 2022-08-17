@@ -36,12 +36,12 @@ Consolidação dos resultados | Listar os problemas encontrados e sugestão de c
 Relato dos resultados | Relatar os problemas encontrados
 
 
-## 3.1 Preparação
+### 3.1. Preparação
 
 Os avaliadores deverão preparar as telas do sistema no formato em papel, em geral desenhadas à mão livre
 e sem a preocupação com detalhes de interface que não sejam relevantes para a avaliação, a fim de representar e destacar os elementos principais da interface com os quais os usuários vão interagir durante a simulação da interação.
 
-### Tarefas
+#### Tarefas
 
 Foram definidas as atividades as quais serão realizadas pelos participantes durante a Avaliação do Protótipo em Papel, as quais serão:
 
@@ -51,7 +51,7 @@ Foram definidas as atividades as quais serão realizadas pelos participantes dur
 
 &nbsp;
 
-#####    Consulta de fluxograma do curso de graduação
+#### 1. Consulta de fluxograma do curso de graduação
 
 * Analisar as dificuldades dos usuários na identificação dos elementos presentes na aba principal do sítio, as quais redirecionam para as informações desejadas. 
 
@@ -59,7 +59,7 @@ Dessa forma, será avaliado se o design criado faz sentido na visão do usuário
 
 &nbsp;
 
-##### Acessar o calendário acadêmico do programa de pós-graduação
+#### 2. Acessar o calendário acadêmico do programa de pós-graduação
 
 * Analisar os caminhos feitos até a identificação da solução para o qual o usuário necessita solução.
 
@@ -68,7 +68,7 @@ Dessa forma, será avaliado se o usuário possui dificuldade para chegar até o 
 Ao fim da tarefa, deve-se questionar ao usuário sobre a facilidade de realização da tarefa, se a interação é simples e se ele conseguiria realizar a tarefa normalmente, sem ser guiado.
 
 
-## 3.2 Coleta de dados
+### 3.2. Coleta de dados
 
 A coleta de dados deve ser realizada por, pelo menos, dois avaliadores:
 
@@ -93,11 +93,11 @@ Durante a simulação da interação, o observador deve ficar atento a diversos 
 
 * Quais comentários foram feitos e quaisquer outros dados que lhe auxiliem a apreciar a qualidade da interface.
 
-## 3.3 Consolidação dos resultados
+### 3.3. Consolidação dos resultados
 
 Nesta etapa iremos analisar o protótipo e as anotações obtidas durante a coleta de dados com o objetivo de identificar problemas e priorizá-los com base na sua gravidade. Com estes dados, vamos nos reunir e discutir propostas de melhorias e correções de problemas no protótipo.
 
-## 3.4 Relato dos resultados
+### 3.4. Relato dos resultados
 
 Ao final da avaliação, na etapa de Relato dos Resultados, será criado um documento comunicando aos interessados como foi realizado processo desde a coleta de dados até a consolidação dos resultados. Neste documento será relatado o objetivo da avaliação, o número de entrevistados e como eles se saíram realizando as tarefas propostas e uma lista contendo problemas de usabilidade que foram corrigidos ou não.
 
