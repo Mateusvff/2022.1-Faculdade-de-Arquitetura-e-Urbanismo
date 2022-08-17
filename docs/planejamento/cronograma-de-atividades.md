@@ -120,8 +120,8 @@ Fonte: autores</h6>
 **Autor** | **Atividade** | **Revisor** | **Data Limite Atividade** | **Data Limite Revisão** | **Data Limite Gravação do Vídeo**
 --- | --- | --- | --- | --- | --- 
 Letícia Aires | Relato dos resultados do Story Board | Caio César | 16/08 | 17/08 | 17/08 |
-Caio César | Suporte nas principais atividades da sprint, atualização de documentação necessária e revisora geral | Thalisson Alves | 16/08 | 17/08 | 17/08 |
-Thalisson Alves | Correções da entrega 3 e revisor geral | Caio César | 16/08 | 17/08 | 17/08 |
+Caio César | Suporte nas principais atividades da sprint, atualização de documentação necessária e revisor geral | Thalisson Alves | 16/08 | 17/08 | 17/08 |
+Thalisson Alves | Correções da entrega 3 e 4 e revisor geral | Caio César | 16/08 | 17/08 | 17/08 |
 Mateus Vínicius | Planejamento da Avaliação do Protótipo de Papel | Caio César | 16/08 | 17/08 | 17/08 |
 Matheus Costa | Relato dos resultados  da Análise de tarefas | Thalisson Alves | 16/08 | 17/08 | 17/08 |
 Laura Pinos | Planejamento do relato dos resultados da avaliação do Protótipo de Papel | Thalisson Alves | 16/08 | 17/08 | 17/08 |
