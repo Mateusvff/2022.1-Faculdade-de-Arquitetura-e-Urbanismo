@@ -37,7 +37,7 @@ Ademais, optou-se pelo framework DECIDE com o fito de guiar planejamento e poste
 
 * Em uma escala de 0 a 10, qual é seu grau de satisfação com o site? Por que?
 * Em uma escala de 0 a 10, qual é o grau de dificuldade em se utilizando o site? 
-* O usuário utiliza as funcionalidades da interface conforme foram desenvovildas?
+* O usuário utiliza as funcionalidades da interface conforme foram desenvolvidas?
 * De que forma o design do site pode ser alterado a fim de que se proporcione maior facilidade na sua utilização?
 
 #### 3.1.2 Identificar pontos positivos da interface
