@@ -60,7 +60,7 @@ Fonte: autores</h6>
 
 ## 4. Divisão de atividades 
 
-As tabelas de 2 a 5 abaixo indicam as atividades realizadas por cada integrante durante uma Sprint.
+As tabelas de 2 a 6 abaixo indicam as atividades realizadas por cada integrante durante uma Sprint.
 
 ### 4.1. Sprint 1 - Entrega da apresentação do projeto etapa 1 
 
@@ -112,7 +112,7 @@ Thalisson Alves | Planejamento do relato dos resultados da avaliação do Storyb
 Mateus Vínicius | Planejamento do relato dos resultados da avaliação do Análise de tarefas | Caio César | 07/08 | 08/08 | 08/08 |
 Matheus Costa | Correções da entrega 3 e revisor geral | Laura Pinos | 07/08 | 08/08 | 08/08 |
 Laura Pinos | Suporte nas principais atividades da sprint e revisora geral | Matheus Costa | 07/08 | 08/08 | 08/08 |
-<h6 align = "center">Tabela 5: atividades da Sprint 3<br>
+<h6 align = "center">Tabela 5: atividades da Sprint 4<br>
 Fonte: autores</h6>
 
 ### 4.5. Sprint 5 - Entrega da apresentação do projeto etapa 5
@@ -125,5 +125,5 @@ Thalisson Alves | Correções da entrega 3 e revisor geral | Caio César | 16/08
 Mateus Vínicius | Planejamento da Avaliação do Protótipo de Papel | Caio César | 16/08 | 17/08 | 17/08 |
 Matheus Costa | Relato dos resultados  da Análise de tarefas | Thalisson Alves | 16/08 | 17/08 | 17/08 |
 Laura Pinos | Planejamento do relato dos resultados da avaliação do Protótipo de Papel | Thalisson Alves | 16/08 | 17/08 | 17/08 |
-<h6 align = "center">Tabela 6: atividades da Sprint 3<br>
+<h6 align = "center">Tabela 6: atividades da Sprint 5<br>
 Fonte: autores</h6>
