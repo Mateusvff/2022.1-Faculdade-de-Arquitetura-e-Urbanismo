@@ -1,4 +1,4 @@
-# Planejamento de relato do protótipo de papel
+# Planejamento do relato dos resultados - Protótipo de Papel
 ***
 
 ### Histórico de Versões
@@ -9,7 +9,7 @@
 
 
 ## 1. Introdução
-O planejamento do portótipo consiste em entender como funcionará o protótipo e o resultado das entrevistas realizadas previamente com os estudantes da FAU e simulação da persona.
+O planejamento do protótipo consiste em entender como funcionará o protótipo e o resultado das entrevistas realizadas previamente com os estudantes da FAU e simulação da Persona.
 
 ## 2. Metodologia
 Serão realizadas entrevistas com estudantes da FAU, utilizando o site da mesma. Com os resultados, analisaremos como será projetado o protótipo de papel e nos guiaremos por ele juntamente com o Storyboard.
