@@ -43,9 +43,14 @@ nav:
     - Análise de Tarefas:
       - Planejamento da avaliação da Análise de Tarefas: designAvalEDesenv/analiseTarefas/planejamento-analise-tarefas.md
       - Planejamento do relato dos resultados da avaliação - Análise de Tarefas: designAvalEDesenv/analiseTarefas/planej-relato-result-analise-tarefas.md
+      - Relato dos Resultados da avaliação: designAvalEDesenv/analiseTarefas/relato-result-analise-tarefas.md
     - Storyboard:
       - Planejamento da avaliação do Storyboard: designAvalEDesenv/storyboard/planejamento-da-avaliacao-do-storyboard.md
       - Planejamento do relato dos resultados da avaliação - Storyboard: designAvalEDesenv/storyboard/planej-relato-result-storyboard.md
+      - Relato dos resultados da avaliação - Storyboard: designAvalEDesenv/storyboard/relato-da-avaliação-do-storyboard.md
       - Storyboard: designAvalEDesenv/storyboard/storyboard.md
+    - Protótipo de papel: 
+      - Planejamento da avaliação do Protótipo de papel: designAvalEDesenv/prototPapel/planej-avaliacao-prototipo-papel.md
+      - Planejamento do relato dos resultados da avaliação - Protótipo de papel: designAvalEDesenv/prototPapel/relato_papel.md
   - Apresentações: apresentacoes.md
 

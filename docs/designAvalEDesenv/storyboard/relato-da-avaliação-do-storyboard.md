@@ -5,7 +5,7 @@
 **Data** | **Versão** | **Descrição** | **Autor(es/as)** | **Revisor** |
 --- | --- | --- | --- | --- |
 04/08/2022 | 0.1 | Criação do Documento | Letícia Aires | Thalisson
-04/08/2022 | 0.1 | Adição Parcial de Conteúdo | Letícia Aires | Caio César
+04/08/2022 | 0.1.1 | Adição Parcial de Conteúdo | Letícia Aires | Caio César
 14/08/2022 | 0.2 | Adição dos itens 3, 4 e 5 | Caio César | Letícia Aires
 16/08/2022 | 0.3 | Adição da Entrevista | Letícia Aires | Caio César
 
@@ -21,21 +21,26 @@ A metodologia adotada é a de inspeção com uso do framework DECIDE. Nessa óti
 
 Foi criado um storyboard com o usuário fictício Vítor Emanuel Kuhn, inserido realizando algumas atividades para se realizar no site da Faculdade de Arquitetura e Urbanismo, como por exemplo acessar o fluxograma do curso de arquitetura, atividade comum após pesquisa com alunos na FAU. Os avaliadores foram os integrantes Caio César e Letícia Aires utilizando as informações obtidas por meio de conversas com familiar da equipe que cursa arquitetura nessa faculdade.
 
+<center>
+
 **Avaliadores** | **Usuários** 
 --- | --- 
 Caio & Letícia| Vítor Emanuel Kuhn
 Letícia Aires| Manuela Veríssimo
-<h6 align = "left">Tabela 1: Avaliadores e Usuários avaliados <br>Fonte: [1] - Tabela 12.4. </h6>
+
+</center>
+
+<h6 align = "center">Tabela 1: Avaliadores e Usuários avaliados <br>Fonte: autores </h6>
 
 ## 4. Aplicação da Avaliação
 
 A aplicação da avaliação foi feita por meio de mensagens, o prazo que tivemos foi de uma sprint, trazendo para valores no mundo real, seria de um pouco mais de uma semana. Principais influências foram as conversas que tivemos com estudantes da Faculdade de Arquitetura e Urbanismo, como as pessoas eram próximas da equipe os fatores de ética foram melhor declarados e as pessoas estavam cientes e a vontade para tirar dúvidas caso tivessem, sendo que estava a todo momento sendo informadas quais fins dariam as informações levantadas e quais os riscos.
 
-### 4.1 Questionário
+### 4.1. Questionário
 
 O seguinte questionário foi respondido por alunas atualmente graduandas do curso de Arquitetura e Urbanismo na UnB, isto é, usuárias primárias do sistema analisado.
 
-#### 4.1.1 Avaliar adaptação da interface por usuários
+#### 4.1.1. Avaliar adaptação da interface por usuários
 **Em uma escala de 0 a 10, qual é seu grau de satisfação com o site? Por que?**
  * 8, parece intuitivo, mas não tem uma interface bonita, tudo em preto e branco, sem destaques
 
@@ -48,7 +53,7 @@ O seguinte questionário foi respondido por alunas atualmente graduandas do curs
 **De que forma o design do site pode ser alterado a fim de que se proporcione maior facilidade na sua utilização?**
  * usar imagens, cores, uma diagramação melhor formulada (acho que algo mais a cara da FAU, já que parte dela eh vinculada a arte)
 
-#### 4.1.2 Identificar pontos positivos da interface
+#### 4.1.2. Identificar pontos positivos da interface
 **Quais funcionalidades fomentam o uso intuitivo da plataforma?**
  * os destaques me chamam bastante atenção e a barra superior com as funções
  
@@ -58,7 +63,7 @@ O seguinte questionário foi respondido por alunas atualmente graduandas do curs
 **Quais aspectos foram observados, os quais constam no storyboard?**
  * facilidade de acessar especificamente storyboard
 
-#### 4.1.3 Identificar pontos negativos da interface
+#### 4.1.3. Identificar pontos negativos da interface
 **Quais funcionalidades dificultam a utilização da plataforma?**
  * a falta de imagens, tudo ser baseado em texto
  
