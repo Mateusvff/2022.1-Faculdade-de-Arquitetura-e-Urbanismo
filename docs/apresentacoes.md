@@ -11,6 +11,7 @@
 20/07/2022 | 0.4 | Disponibilização do vídeo 2 na página | Matheus Costa | Laura Pinos |
 01/08/2022 | 0.5 | Disponibilização do vídeo 3 na página | Laura Pinos | Mateus Franco |
 08/08/2022 | 0.6 | Disponibilização do vídeo 4 na página | Matheus Costa | Caio César |
+17/08/2022 | 0.7 | Disponibilização do vídeo 5 na página | Matheus Costa | Caio César |
 
 ## Apresentação 1 - Planejamento e Design de projeto
 
@@ -45,3 +46,12 @@
 <br>Fonte: Autores</h6>
 
 > Disponibilizado dia 08 de agosto de 2022
+
+## Apresentação 5 - Resultados da avaliação do Storyboard e Análise de tarefas e Planejamentos do Protótipo de Papel
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RUxXF_MH9c4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h6 align = "center">Vídeo 5: Entrega da Apresentação do Projeto Etapa 5. 
+<br>Fonte: Autores</h6>
+
+> Disponibilizado dia 17 de agosto de 2022
