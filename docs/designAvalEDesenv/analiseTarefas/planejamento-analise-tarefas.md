@@ -39,8 +39,8 @@ O framework DECIDE é expandido nos seguintes tópicos:
 Para realização das entrevistas foi decidido que seriam utilizadas as seguintes ferramentas:
 </p>
 
-- Discord e WhatsApp: comunicação com o entrevistado 
-- Nvidea GeForce Experience: gravação da entrevista
+- WhatsApp: comunicação com o entrevistado 
+- Microsoft Teams: gravação da entrevista
 - YouTube: disponibilização do vídeo
 
 ## 4. Teste de Usabilidade
@@ -112,13 +112,13 @@ Na Tabela 2 a seguir estão agrupadas as perguntas que servirão de guia para a 
 | 7.1.1 | Para ambas as respostas: Pode descrever porque sentiu isso? | (resposta aberta)
 | 7.1.2 | Caso tenha tido dificuldade: Você saberia dizer como ficaria mais fácil para encontrar essa informação? | (resposta aberta)
 | 7.2 | Caso "não": Você chegou a procurar pelo fluxograma em outro local? | [ ] Sim  [ ] Não
-| 7.2.1 | Caso "sim": Por onde você procurou e se conseguiu encontrar com tranquilidade? | (resposta aberta) 
-| 7.2.2 | Caso "não" para a pergunta 7.2 ou não tenha encontrado com tranquilidade, de acordo com a 7.2.1: Você acredita que conseguiria acessar rapidamente o site para encontrar o fluxograma? (propor a realização da atividade) | [ ] Sim [ ] Não
+| 7.2.1 | Caso "sim": Por onde você procurou e se conseguiu encontrar com tranquilidade? | (resposta aberta)
+| 7.3 | Você acredita que conseguiria acessar rapidamente o site para encontrar o fluxograma? <br> <br> **(Neste momento o entrevistador propõe ao entrevistado a realização da atividade e o solicita para que descreva as ações que está realizando)** | [ ] Sim [ ] Não
 | 8 | Você já procurou pelo calendário acadêmico do Programa de Pós-graduação dentro do site? | [ ] Sim [ ] Não
 | 8.1 | Caso "sim": Você conseguiu encontrar o que queria com facilidade? | [ ] Sim [ ] Não
 | 8.2 | Caso "não": Você chegou a procurar pelo calendário em outro local? | [ ] Sim  [ ] Não
 | 8.2.1 | Caso "sim": Por onde você procurou e se conseguiu encontrar com tranquilidade? | (resposta aberta) 
-| 8.2.2 | Caso "não" para a pergunta 8.2 ou não tenha encontrado com tranquilidade, de acordo com a 8.2.1: Você acredita que conseguiria acessar rapidamente o site para encontrar o calendário? (propor a realização da atividade) | [ ] Sim [ ] Não
+| 8.3 | Você acredita que conseguiria acessar rapidamente o site para encontrar o calendário? <br> <br> **(Neste momento o entrevistador propõe ao entrevistado a realização da atividade e o solicita para que descreva as ações que está realizando)** | [ ] Sim [ ] Não
 
 </center>
 
