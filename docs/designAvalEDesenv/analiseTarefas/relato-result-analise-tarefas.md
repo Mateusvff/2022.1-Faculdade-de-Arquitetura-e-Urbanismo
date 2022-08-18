@@ -17,7 +17,7 @@ Para a realização da avaliação foi utilizado o método de entrevista, no qua
 
 As entrevistas focaram em obter alguns dados dos usuários e ao final foi proposto a cada um dos participantes a realização de uma das atividades previstas. 
 
-Maiores detalhes e as gravações das entrevistas podem ser vistos [aqui]().
+Maiores detalhes e as gravações das entrevistas podem ser vistos [aqui](entrevistas.md).
 
 ## 3. Relatos
 
