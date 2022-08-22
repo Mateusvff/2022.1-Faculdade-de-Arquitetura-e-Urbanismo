@@ -13,7 +13,7 @@ O objetivo deste documento é de apresentar os resultados obtidos da etapa de av
 
 ## 2. Metodologia
 
-Para a realização da avaliação foi utilizado o método de entrevista, no qual o integrante Matheus Costa entrevistou duas pessoas para poder avaliar as tarefas dispostas no documento de [Análise de Tarefas](../../analise-de-requisitos/analise-de-tarefas.md).
+Para a realização da avaliação foi utilizado o método de entrevista, no qual o integrante Matheus Costa entrevistou duas pessoas para poder avaliar as tarefas dispostas no documento de [Análise de Tarefas](../../../analise-de-requisitos/analise-de-tarefas.md).
 
 As entrevistas focaram em obter alguns dados dos usuários e ao final foi proposto a cada um dos participantes a realização de uma das atividades previstas. 
 
@@ -25,7 +25,7 @@ Durante as entrevistas o avaliador seguiu as orientações previstas no document
 
 Buscando aplicar as perguntas de forma mais direcionada para cada atividade (tarefa), o entrevistador separou a sequência final de perguntas e selecionou questionamentos mais específicos para cada uma das entrevistas. Dessa forma, as perguntas de 1 a 6.1 foram igualmente respondidas em ambas as entrevistas, porém a partir daí, as perguntas passaram a ter um foco específico, voltado para a atividade.
 
-### Tarefa 1 - [Consultar fluxograma do curso](../../analise-de-requisitos/analise-de-tarefas.md#4-tarefas)
+### Tarefa 1 - [Consultar fluxograma do curso](../../../analise-de-requisitos/analise-de-tarefas.md#4-tarefas)
 
 * Entrevistador: Matheus Costa
 * Entrevistada: Amanda Lima
@@ -57,7 +57,7 @@ As perguntas realizadas nessa etapa, e suas respectivas respostas, podem ser vis
 
 <h6 align = "center">Tabela 1: perguntas e respostas da entrevista 1<br>Fonte: Autores. </h6>
 
-### Tarefa 2 - [Busca pelo calendário acadêmico](../../analise-de-requisitos/analise-de-tarefas.md#4-tarefas)
+### Tarefa 2 - [Busca pelo calendário acadêmico](../../../analise-de-requisitos/analise-de-tarefas.md#4-tarefas)
 
 * Entrevistador: Matheus Costa
 * Entrevistada: Viviane Melo
