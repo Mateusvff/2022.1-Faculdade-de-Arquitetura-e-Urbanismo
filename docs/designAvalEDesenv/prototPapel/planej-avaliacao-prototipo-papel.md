@@ -36,6 +36,16 @@ Consolidação dos resultados | Listar os problemas encontrados e sugestão de c
 Relato dos resultados | Relatar os problemas encontrados
 
 
+### Protótipo de papel
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F0c6zFSFHGjJqircoxlnQi5%2FProt%25C3%25B3tipo-de-papel%3Fnode-id%3D1%253A145%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26starting-point-node-id%3D1%253A145" allowfullscreen></iframe>
+
+<center>
+<figcaption>
+    Para acessar o protótipo acima, acesse este <a href='https://www.figma.com/file/0c6zFSFHGjJqircoxlnQi5/Prot%C3%B3tipo-de-papel?node-id=0%3A1' target='_blank'>link</a>
+</figcaption>
+</center>
+
 ### 3.1. Preparação
 
 Os avaliadores deverão preparar as telas do sistema no formato em papel, em geral desenhadas à mão livre
