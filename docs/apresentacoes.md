@@ -63,4 +63,4 @@
 <h6 align = "center">Vídeo 6: Entrega da Apresentação do Projeto Etapa 6. 
 <br>Fonte: Autores</h6>
 
-> Disponibilizado dia 23 de agosto de 2022
+> Disponibilizado dia 22 de agosto de 2022
