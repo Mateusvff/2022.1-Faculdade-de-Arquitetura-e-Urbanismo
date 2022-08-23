@@ -49,11 +49,15 @@ O checklist do artefato pode ser visualizado na Tabela 1 abaixo.
 ## 4. Acompanhamento
 
 - 4 ERROS e 3 ACERTOS
-- 42,85% de acerto.
+- 42,9% de acerto.
 
 ### 4.1. Gráfico de acompanhamento
 
-<!-- <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FB6LxppBqsl4UCasYZczm6s%2FUntitled%3Fnode-id%3D0%253A1" allowfullscreen></iframe> -->
+A Figura 1 abaixo revela o gráfico gerado com os dados do acompanhamento.
+
+![checklist planej prot papel](https://user-images.githubusercontent.com/72279998/186041614-cce9d1b0-6432-419a-bc3c-ac5fe6c82804.png)
+
+<h6 align = "center">Figura 1: gráfico do checklist do planejamento da avaliação do protótipo de papel <br>Fonte: Autores. </h6>
 
 ## 5. Correção
 

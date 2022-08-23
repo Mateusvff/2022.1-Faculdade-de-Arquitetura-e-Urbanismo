@@ -49,11 +49,16 @@ O checklist do artefato pode ser visualizado na Tabela 1 abaixo.
 ## 4. Acompanhamento
 
 - 2 ERROS e 4 ACERTOS
-- 66,67% de acerto.
+- 66,7% de acerto.
 
 ### 4.1. Gráfico de acompanhamento
 
-<!-- <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FB6LxppBqsl4UCasYZczm6s%2FUntitled%3Fnode-id%3D0%253A1" allowfullscreen></iframe> -->
+A Figura 1 abaixo revela o gráfico gerado com os dados do acompanhamento.
+
+![checklist metas](https://user-images.githubusercontent.com/72279998/186041272-0991937b-dbf2-4de7-a889-a9f444b9c372.png)
+
+
+<h6 align = "center">Figura 1: gráfico do checklist das metas de usabilidade <br>Fonte: Autores. </h6>
 
 ## 5. Correção
 
