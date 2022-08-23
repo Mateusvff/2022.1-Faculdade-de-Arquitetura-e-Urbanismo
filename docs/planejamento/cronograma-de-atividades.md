@@ -130,7 +130,7 @@ Laura Pinos | Planejamento do relato dos resultados da avaliação do Protótipo
 Fonte: autores</h6>
 
 
-### 4.6. Sprint 6 - Entrega da apresentação do projeto etapa 5
+### 4.6. Sprint 6 - Entrega da apresentação do projeto etapa 6
 
 **Autor** | **Artefato a verificar** | **Revisor** | **Data Limite Atividade** | **Data Limite Revisão** | **Data Limite Gravação do Vídeo**
 --- | --- | --- | --- | --- | --- 
@@ -140,5 +140,5 @@ Thalisson Alves | - Planejamento da avaliação da Análise de Tarefas <br>- Rel
 Mateus Vínicius | - Sites avaliados <br>- Site escolhido<br>- Princípios gerais do projeto<br>- Relato dos resultados da Análise de Tarefas <br> | Caio César | 21/08 | 22/08 | 22/08 |
 Matheus Costa | - Análise de Tarefas<br>- Metas de usabilidade<br>- Planejamento do relato dos resultados da Análise de Tarefas<br> - Planejamento da Avaliação do Protótipo de Papel. | Thalisson Alves | 21/08 | 22/08 | 22/08 |
 Laura Pinos | - Personas <br>- Storyboard <br>- Relato da avaliação dos resultados do Storyboard<br>- Metodologias | Thalisson Alves | 21/08 | 22/08 | 22/08 |
-<h6 align = "center">Tabela 6: atividades da Sprint 5<br>
+<h6 align = "center">Tabela 6: atividades da Sprint 6<br>
 Fonte: autores</h6>
