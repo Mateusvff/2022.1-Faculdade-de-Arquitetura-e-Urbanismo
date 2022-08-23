@@ -9,7 +9,7 @@
 
 ## 1. Introdução
 
-Neste documento estão contidos os resultados obtidos da verificação do artefato [Protótipo de Papel](../designAvalEDesenv/prototPapel), seguindo os passos previstos no planejamento.
+Neste documento estão contidos os resultados obtidos da verificação do artefato [Protótipo de Papel](../designAvalEDesenv/nivel2/prototPapel/planej-avaliacao-prototipo-papel.md), seguindo os passos previstos no [planejamento](planejamento-geral.md).
 
 * O artefato foi desenvolvido pelo integrante Thalisson Alves.
 
@@ -64,4 +64,4 @@ Após a etapa de Inspeção do Protótipo de Papel, foi observado que o artefato
 
 ## 6. Referências
 
-> [1] SERRANO, M.; SERRANO, M. Material de aula. **Requisitos - Aula 023 - Verificação e Validação**.
+> SERRANO, M.; SERRANO, M. Material de aula. **Requisitos - Aula 023 - Verificação e Validação**.

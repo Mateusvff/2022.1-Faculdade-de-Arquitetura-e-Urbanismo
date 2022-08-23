@@ -64,4 +64,4 @@ Após a etapa de Inspeção do Processo de Design, foi observado que faltou um f
 
 ## 6. Referências
 
-> [1] SERRANO, M.; SERRANO, M. Material de aula. **Requisitos - Aula 023 - Verificação e Validação**.
+> SERRANO, M.; SERRANO, M. Material de aula. **Requisitos - Aula 023 - Verificação e Validação**.

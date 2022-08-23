@@ -9,7 +9,7 @@
 
 ## 1. Introdução
 
-Neste documento estão contidos os resultados obtidos da verificação do artefato [Planejamento do relato dos resultados da avaliação do Storyboard](../designAvalEDesenv/storyboard/planej-relato-result-storyboard.md), seguindo os passos previstos no planejamento.
+Neste documento estão contidos os resultados obtidos da verificação do artefato [Planejamento do relato dos resultados da avaliação do Storyboard](../designAvalEDesenv/nivel1/storyboard/planej-relato-result-storyboard.md), seguindo os passos previstos no [planejamento](planejamento-geral.md).
 
 * O artefato foi desenvolvido pelo integrante Thalisson Alves.
 
@@ -64,4 +64,4 @@ Após a etapa de Inspeção do Planejamento do relato dos resultados da avaliaç
 
 ## 6. Referências
 
-> [1] SERRANO, M.; SERRANO, M. Material de aula. **Requisitos - Aula 023 - Verificação e Validação**.
+> SERRANO, M.; SERRANO, M. Material de aula. **Requisitos - Aula 023 - Verificação e Validação**.
