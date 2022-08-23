@@ -12,7 +12,7 @@
 
 ## 1. Introdução
 
-A avaliação da Análise de Tarefas tem como objetivos: validar os documentos feitos na etapa da [Análise de Tarefas](../../analise-de-requisitos/analise-de-tarefas.md), verificar se usuários e suas respectivas ações são identificadas corretamente e se o perfil das [Personas](../../analise-de-requisitos/personas.md) corresponde ao [Perfil de Usuário](../../analise-de-requisitos/Perfil-de-usuario.md) ideal para a análise do site da Faculdade de Arquitetura e Urbanismo, além de suas funcionalidades.
+A avaliação da Análise de Tarefas tem como objetivos: validar os documentos feitos na etapa da [Análise de Tarefas](../../../analise-de-requisitos/analise-de-tarefas.md), verificar se usuários e suas respectivas ações são identificadas corretamente e se o perfil das [Personas](../../../analise-de-requisitos/personas.md) corresponde ao [Perfil de Usuário](../../../analise-de-requisitos/Perfil-de-usuario.md) ideal para a análise do site da Faculdade de Arquitetura e Urbanismo, além de suas funcionalidades.
 <br>
 
 ## 2. Metodologia
@@ -21,7 +21,7 @@ A avaliação da Análise de Tarefas tem como objetivos: validar os documentos f
 A metodologia escolhida que realizará a avaliação da análise de tarefas, foi o teste de usabilidade. O qual consiste em avaliar a usabilidade de um sistema interativo a partir de experiências de uso dos seus usuários-alvo (Rubin, 1994; Rubin e Chisnell, 2008).
 </p>
 
-Como é possível ver no documento do [Site Escolhido](../../planejamento/analiseSites/site-escolhido.md) (Faculdade de Arquitetura e Urbanismo), utilizaremos o framework DECIDE, orientando o planejamento, a execução e a análise de uma avaliação de Interação Humano Computador. As atividades do framework são interligadas e executadas interativamente, à medida que o avaliador articula os objetivos da avaliação, os dados e recursos disponíveis (Preece et al., 2002).
+Como é possível ver no documento do [Site Escolhido](../../../planejamento/analiseSites/site-escolhido.md) (Faculdade de Arquitetura e Urbanismo), utilizaremos o framework DECIDE, orientando o planejamento, a execução e a análise de uma avaliação de Interação Humano Computador. As atividades do framework são interligadas e executadas interativamente, à medida que o avaliador articula os objetivos da avaliação, os dados e recursos disponíveis (Preece et al., 2002).
 
 O framework DECIDE é expandido nos seguintes tópicos:
 <br>
@@ -63,7 +63,7 @@ Relato dos Resultados | Relatar a performance e opinião dos participantes.
 A preparação para a entrevista será realizada antes para garantir que a mesma seja conduzida da forma correta. Alguns pontos importantes:
 </p>
 
-- O perfil dos participantes já foi definido no documento [Perfil de Usuário](../../analise-de-requisitos/Perfil-de-usuario.md);
+- O perfil dos participantes já foi definido no documento [Perfil de Usuário](../../../analise-de-requisitos/Perfil-de-usuario.md);
 - O material preparado para observar e registrar a utilização será utilizado para a gravação da entrevista;
 - O teste piloto foi descartado por causa da quantidade de pessoas a serem entrevistadas, que será pequena.
 
