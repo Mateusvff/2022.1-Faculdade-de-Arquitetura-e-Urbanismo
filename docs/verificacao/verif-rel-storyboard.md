@@ -5,16 +5,16 @@
 
 **Data** | **Versão** | **Descrição** | **Autor(es/as)** | **Revisor** |
 --- | --- | --- | --- | --- |
-22/08/2022 | 0.1 | Criação do Documento | Matheus Costa | Thalisson
-22/08/2022 | 0.2 | Adição do corpo do texto | Laura Pinos | Thalisson
+22/08/2022 | 0.1 | Criação do Documento | Laura Pinos | Caio César
+22/08/2022 | 0.2 | Adição do corpo do texto | Laura Pinos | Caio César
 
 ## 1. Introdução
 
-Neste documento estão contidos os resultados obtidos da verificação do artefato [Relato dos resultados da avaliação ]( ../designAvalEDesenv/nivel1/storyboard/relato-da-avalia%C3%A7%C3%A3o-do-storyboard.md), seguindo os passos previstos no [planejamento](planejamento-geral.md).
+Neste documento estão contidos os resultados obtidos da verificação do artefato [Relato dos resultados da avaliação do Storyboard](../designAvalEDesenv/nivel1/storyboard/relato-da-avalia%C3%A7%C3%A3o-do-storyboard.md), seguindo os passos previstos no [planejamento](planejamento-geral.md).
 
-* O artefato foi desenvolvido pelo integrante Mateus Franco.
+* O artefato foi desenvolvido pela integrante Letícia Aires.
 
-* A verificação foi feita pelo integrante Matheus Costa.
+* A verificação foi feita pela integrante Laura Pinos.
 
 
 ## 2. Preparação
@@ -58,8 +58,8 @@ O checklist do artefato pode ser visualizado na Tabela 1 abaixo.
 
 Durante a verificação deste artefato, foi observado que a taxa de acerto está mais alta, influenciando de maneira positiva na qualidade do artefato.
 
-As correções principais dizem respeito a um melhor detalhamento do artefato, o que contribuirá não só com uma descrição melhor do seu conteúdo, mas também com o conteúdo do artefato que se baseia nesse planejamento, a saber, o documento do  [Relato dos resultados da avaliação ](../designAvalEDesenv/nivel1/storyboard/relato-da-avaliação-do-storyboard.md).
+As correções principais dizem respeito a um melhor detalhamento do artefato, o que contribuirá não só com uma descrição melhor do seu conteúdo, mas também com o conteúdo do artefato que se baseia nesse planejamento, a saber, o documento do  [Relato dos resultados da avaliação](../designAvalEDesenv/nivel1/storyboard/relato-da-avaliação-do-storyboard.md).
 
 ## 6. Referências
 
-> [1] SERRANO, M.; SERRANO, M. Material de aula. **Requisitos - Aula 023 - Verificação e Validação**.
+> SERRANO, M.; SERRANO, M. Material de aula. **Requisitos - Aula 023 - Verificação e Validação**.
