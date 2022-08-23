@@ -15,6 +15,7 @@
 29/07/2022 | 0.8 | Adição e padronização de fontes nas imagens e tabelas | Thalisson Alves | Letícia Aires
 02/08/2022 | 0.9 | Adição do cronograma de atividades da entrega 4 | Caio César | Matheus Costa
 09/08/2022 | 1.0 | Adição do cronograma de atividades da entrega 5 | Caio César | Thalisson Alves
+22/08/2022 | 1.1 | Adição do cronograma de atividades da entrega 6 | Caio César | Matheus Costa
 
 ## 1. Cronograma de atividades
 O objetivo deste documento é apresentar uma visualização rápida da divisão cronológica do semestre, conforme especificado no plano de ensino da disciplina. As tabelas de atividades presentes no tópico 4 listam as principais tarefas que foram realizadas durante uma Sprint.
@@ -125,5 +126,19 @@ Thalisson Alves | Correções da entrega 3 e 4 e revisor geral | Caio César | 1
 Mateus Vínicius | Planejamento da Avaliação do Protótipo de Papel | Caio César | 16/08 | 17/08 | 17/08 |
 Matheus Costa | Relato dos resultados  da Análise de tarefas | Thalisson Alves | 16/08 | 17/08 | 17/08 |
 Laura Pinos | Planejamento do relato dos resultados da avaliação do Protótipo de Papel | Thalisson Alves | 16/08 | 17/08 | 17/08 |
+<h6 align = "center">Tabela 6: atividades da Sprint 5<br>
+Fonte: autores</h6>
+
+
+### 4.6. Sprint 6 - Entrega da apresentação do projeto etapa 5
+
+**Autor** | **Artefato a verificar** | **Revisor** | **Data Limite Atividade** | **Data Limite Revisão** | **Data Limite Gravação do Vídeo**
+--- | --- | --- | --- | --- | --- 
+Letícia Aires | - Planejamento do projeto <br>- Perfil do usuário <br>- Guia de estilo <br>- Planejamento do relato da avaliação do protótipo de papel  <br> | Caio César | 21/08 | 22/08 | 22/08 |
+Caio César | - Processo de Design<br>- Planejamento do relato dos resultados da avaliação do Storyboard <br>- Aspectos Éticos <br> - Protótipo de papel | Thalisson Alves | 21/08 | 22/08 | 22/08 |
+Thalisson Alves | - Planejamento da avaliação da Análise de Tarefas <br>- Relatos dos resultados da avaliação do Storyboard <br>- Cronograma de  atividades<br>- Planejamento da Avaliação do Storyboard | Caio César | 21/08 | 22/08 | 22/08 |
+Mateus Vínicius | - Sites avaliados <br>- Site escolhido<br>- Princípios gerais do projeto<br>- Relato dos resultados da Análise de Tarefas <br> | Caio César | 21/08 | 22/08 | 22/08 |
+Matheus Costa | - Análise de Tarefas<br>- Metas de usabilidade<br>- Planejamento do relato dos resultados da Análise de Tarefas<br> - Planejamento da Avaliação do Protótipo de Papel. | Thalisson Alves | 21/08 | 22/08 | 22/08 |
+Laura Pinos | - Personas <br>- Storyboard <br>- Relato da avaliação dos resultados do Storyboard<br>- Metodologias | Thalisson Alves | 21/08 | 22/08 | 22/08 |
 <h6 align = "center">Tabela 6: atividades da Sprint 5<br>
 Fonte: autores</h6>

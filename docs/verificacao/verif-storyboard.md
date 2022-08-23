@@ -1,4 +1,4 @@
-# Verificação - Personas
+# Verificação - StoryBoard
 ***
 
 ### Histórico de Versões
@@ -10,7 +10,7 @@
 
 ## 1. Introdução
 
-Neste documento estão contidos os resultados obtidos da verificação do artefato [Personas](../analise-de-requisitos/personas.md), seguindo os passos previstos no [planejamento](planejamento-geral.md).
+Neste documento estão contidos os resultados obtidos da verificação do artefato [StoryBoard ]( ..docs/designAvalEDesenv/nivel1/storyboard/storyboard.md), seguindo os passos previstos no [planejamento](planejamento-geral.md).
 
 * O artefato foi desenvolvido pela integrante Letícia Aires.
 
@@ -43,7 +43,7 @@ O checklist do artefato pode ser visualizado na Tabela 1 abaixo.
 | 5 | No documento há alguma menção referente ao teste-piloto?| ❌ |
 | 6 | Há alguma descrição da metodologia a ser utilizada para os relatos?| ✅|
 
-<h6 align = "center">Tabela 1: checklist de personas<br>Fonte: Autores. </h6>
+<h6 align = "center">Tabela 1: checklist do Storyboard <br>Fonte: Autores. </h6>
 
 ## 4. Acompanhamento
 
@@ -52,13 +52,13 @@ O checklist do artefato pode ser visualizado na Tabela 1 abaixo.
 
 ### 4.1. Gráfico de acompanhamento
 
-![image](https://user-images.githubusercontent.com/62102447/186055896-4e52c15b-f27a-4f34-833e-9daae95c2c3c.png)
+![image](https://user-images.githubusercontent.com/62102447/186055265-224e0ba2-702f-4192-9928-5ed49ac1727b.png)
 
 ## 5. Correção
 
 Durante a verificação deste artefato, foi observado que a taxa de acerto está mais alta, influenciando de maneira positiva na qualidade do artefato.
 
-As correções principais dizem respeito a um melhor detalhamento do artefato, o que contribuirá não só com uma descrição melhor do seu conteúdo, mas também com o conteúdo do artefato que se baseia nesse planejamento, a saber, o documento do [Personas](../analise-de-requisitos/personas.md).
+As correções principais dizem respeito a um melhor detalhamento do artefato, o que contribuirá não só com uma descrição melhor do seu conteúdo, mas também com o conteúdo do artefato que se baseia nesse planejamento, a saber, o documento do  [StoryBoard](../docs/designAvalEDesenv/nivel1/storyboard/storyboard.md).
 
 ## 6. Referências
 
