@@ -50,7 +50,7 @@ Neste documento não foram encontrados defeitos após a realização da inspeç�
 
 ### 5.2. Gráfico de acompanhamento
 
-![Gráfico](../assets/verif-pa-analise-tarefas.png)
+![Gráfico](../assets/verif-pa-analise-tarefas.jpg)
 <h6 align = "center">Gráfico 1: gráfico de acertos vs defeitos <br>Fonte: Autores. </h6>
 
 ## 6. Referências

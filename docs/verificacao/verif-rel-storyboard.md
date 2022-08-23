@@ -35,19 +35,19 @@ ID | Questão | Inspeção
 7 | A metodologia da avaliação é explicado claramente? | ✅
 8 | A metodologia condiz com a pré-estabelecida no planejamento? | ❌
 9 | Possui referências bibliográficas? | ✅
-10 | Foi apresentado o Termo de Consentimento? | ❌
+10 | Possui as respostas dos entrevistados? | ✅
 
 
 ## 4. Correção
-
-...
+TODFO
+Após a etapa de Inspeção, foram observados que a metodologia aplicada no relato do storyboard não coincide com a pré-estabelecida no planejamento, além do termo de consentimento não ter sido apresentado. Para corrigir o artefato e deixá-lo mais coerente, deve-se fazer esses ajustes, adicionando o termo de consentimento utilizado e atualizando o planejamento para a metodologia que realmente foi utilizada.
 
 ## 5. Acompanhamento
 ### 5.1. Porcentagem de sucesso da checklist
 
-- 2 Defeitos
-- 8 Acertos
-- 80% de acertos
+- 1 Defeitos
+- 9 Acertos
+- 90% de acertos
 
 ### 5.2. Gráfico de acompanhamento
 

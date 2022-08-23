@@ -34,6 +34,7 @@ ID | Questão | Inspeção
 6 | Possui conclusão? | ✅
 7 | A aplicação da avaliação está clara? | ✅
 8 | As perguntas foram definidas? | ✅
+9 | Foi apresentado o Termo de Consentimento? | ❌
 
 
 ## 4. Correção
@@ -43,13 +44,13 @@ Neste documento não foram encontrados defeitos após a realização da inspeç�
 ## 5. Acompanhamento
 ### 5.1. Porcentagem de sucesso da checklist
 
-- 0 Defeitos
+- 1 Defeitos
 - 8 Acertos
-- 100% de acertos
+- 88,9% de acertos
 
 ### 5.2. Gráfico de acompanhamento
 
-![Gráfico](../assets/verif-rel-storyboard.png)
+![Gráfico](../assets/verif-pa-storyboard.png)
 <h6 align = "center">Gráfico 1: gráfico de acertos vs defeitos <br>Fonte: Autores. </h6>
 
 ## 6. Referências
