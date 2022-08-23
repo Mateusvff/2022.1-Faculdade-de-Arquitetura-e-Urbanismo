@@ -40,17 +40,42 @@ nav:
     - Metas de Usabilidade: analise-de-requisitos/metas-de-usabilidade.md
     - Guia de Estilo: analise-de-requisitos/guia-de-estilo.md 
   - Design, Avaliação e Desenvolvimento:
-    - Análise de Tarefas:
-      - Planejamento da avaliação da Análise de Tarefas: designAvalEDesenv/analiseTarefas/planejamento-analise-tarefas.md
-      - Planejamento do relato dos resultados da avaliação - Análise de Tarefas: designAvalEDesenv/analiseTarefas/planej-relato-result-analise-tarefas.md
-      - Relato dos Resultados da avaliação: designAvalEDesenv/analiseTarefas/relato-result-analise-tarefas.md
-    - Storyboard:
-      - Planejamento da avaliação do Storyboard: designAvalEDesenv/storyboard/planejamento-da-avaliacao-do-storyboard.md
-      - Planejamento do relato dos resultados da avaliação - Storyboard: designAvalEDesenv/storyboard/planej-relato-result-storyboard.md
-      - Relato dos resultados da avaliação - Storyboard: designAvalEDesenv/storyboard/relato-da-avaliação-do-storyboard.md
-      - Storyboard: designAvalEDesenv/storyboard/storyboard.md
-    - Protótipo de papel: 
-      - Planejamento da avaliação do Protótipo de papel: designAvalEDesenv/prototPapel/planej-avaliacao-prototipo-papel.md
-      - Planejamento do relato dos resultados da avaliação - Protótipo de papel: designAvalEDesenv/prototPapel/relato_papel.md
+    - Nível 1:
+      - Análise de Tarefas:
+        - Planejamento da avaliação da Análise de Tarefas: designAvalEDesenv/nivel1/analiseTarefas/planejamento-analise-tarefas.md
+        - Planejamento do relato dos resultados da avaliação - Análise de Tarefas: designAvalEDesenv/nivel1/analiseTarefas/planej-relato-result-analise-tarefas.md
+        - Relato dos Resultados da avaliação: designAvalEDesenv/nivel1/analiseTarefas/relato-result-analise-tarefas.md
+      - Storyboard:
+        - Planejamento da avaliação do Storyboard: designAvalEDesenv/nivel1/storyboard/planejamento-da-avaliacao-do-storyboard.md
+        - Planejamento do relato dos resultados da avaliação - Storyboard: designAvalEDesenv/nivel1/storyboard/planej-relato-result-storyboard.md
+        - Relato dos resultados da avaliação - Storyboard: designAvalEDesenv/nivel1/storyboard/relato-da-avaliação-do-storyboard.md
+        - Storyboard: designAvalEDesenv/nivel1/storyboard/storyboard.md
+    - Nível 2:
+      - Protótipo de papel: 
+        - Planejamento da avaliação do Protótipo de papel: designAvalEDesenv/nivel2/prototPapel/planej-avaliacao-prototipo-papel.md
+        - Planejamento do relato dos resultados da avaliação - Protótipo de papel: designAvalEDesenv/nivel2/prototPapel/relato_papel.md
+  - Verificação dos artefatos:
+    - Planejamento do projeto: verificacao/verif-planejamento.md
+    - Sites avaliados: verificacao/verif-sites-aval.md
+    - Site escolhido: verificacao/verif-site-escolhido.md
+    - Metodologias e ferramentas: verificacao/verif-metodologia.md
+    - Processo de Design: verificacao/verif-proces-design.md
+    - Cronograma de atividades: verificacao/verif-cronograma.md
+    - Perfil de usuário: verificacao/verif-perf-usuario.md
+    - Personas: verificacao/verif-personas.md
+    - Aspectos éticos: verificacao/verif-aspec-eticos.md
+    - Análise de tarefas: verificacao/verif-analise-tarefas.md
+    - Princípios gerais do projeto: verificacao/verif-princ-gerais.md
+    - Metas de usabilidade: verificacao/verif-metas.md
+    - Guia de estilo: verificacao/verif-guia-estilo.md
+    - Planej. Aval. Análise de Tarefas: verificacao/verif-pa-analise-tarefas.md
+    - Planej. Relato Análise de Tarefas: verificacao/verif-pr-analise-tarefas.md
+    - Relato Resultados Análise de Tarefas: verificacao/verif-rel-analise-tarefas.md
+    - Planejamento Aval. Storyboard: verificacao/verif-pa-storyboard.md
+    - Planej. Relato Storyboard: verificacao/verif-pr-storyboard.md
+    - Relato Resultados Storyboard: verificacao/verif-rel-storyboard.md
+    - Planej. Aval. Protótipo de Papel: verificacao/verif-pa-prot-papel.md
+    - Planej. Relato Protótipo de Papel: verificacao/verif-pr-prot-papel.md
+    - Protótipo de papel: verificacao/verif-prot-papel.md
   - Apresentações: apresentacoes.md
 
