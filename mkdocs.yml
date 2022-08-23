@@ -55,27 +55,29 @@ nav:
         - Planejamento da avaliação do Protótipo de papel: designAvalEDesenv/nivel2/prototPapel/planej-avaliacao-prototipo-papel.md
         - Planejamento do relato dos resultados da avaliação - Protótipo de papel: designAvalEDesenv/nivel2/prototPapel/relato_papel.md
   - Verificação dos artefatos:
-    - Planejamento do projeto: verificacao/verif-planejamento.md
-    - Sites avaliados: verificacao/verif-sites-aval.md
-    - Site escolhido: verificacao/verif-site-escolhido.md
-    - Metodologias e ferramentas: verificacao/verif-metodologia.md
-    - Processo de Design: verificacao/verif-proces-design.md
-    - Cronograma de atividades: verificacao/verif-cronograma.md
-    - Perfil de usuário: verificacao/verif-perf-usuario.md
-    - Personas: verificacao/verif-personas.md
-    - Aspectos éticos: verificacao/verif-aspec-eticos.md
-    - Análise de tarefas: verificacao/verif-analise-tarefas.md
-    - Princípios gerais do projeto: verificacao/verif-princ-gerais.md
-    - Metas de usabilidade: verificacao/verif-metas.md
-    - Guia de estilo: verificacao/verif-guia-estilo.md
-    - Planej. Aval. Análise de Tarefas: verificacao/verif-pa-analise-tarefas.md
-    - Planej. Relato Análise de Tarefas: verificacao/verif-pr-analise-tarefas.md
-    - Relato Resultados Análise de Tarefas: verificacao/verif-rel-analise-tarefas.md
-    - Planejamento Aval. Storyboard: verificacao/verif-pa-storyboard.md
-    - Planej. Relato Storyboard: verificacao/verif-pr-storyboard.md
-    - Relato Resultados Storyboard: verificacao/verif-rel-storyboard.md
-    - Planej. Aval. Protótipo de Papel: verificacao/verif-pa-prot-papel.md
-    - Planej. Relato Protótipo de Papel: verificacao/verif-pr-prot-papel.md
-    - Protótipo de papel: verificacao/verif-prot-papel.md
+    - Planejamento da Verificação: verificacao/planejamento-geral.md
+    - Verificações:
+      - Planejamento do projeto: verificacao/verif-planejamento.md
+      - Sites avaliados: verificacao/verif-sites-aval.md
+      - Site escolhido: verificacao/verif-site-escolhido.md
+      - Metodologias e ferramentas: verificacao/verif-metodologia.md
+      - Processo de Design: verificacao/verif-proces-design.md
+      - Cronograma de atividades: verificacao/verif-cronograma.md
+      - Perfil de usuário: verificacao/verif-perf-usuario.md
+      - Personas: verificacao/verif-personas.md
+      - Aspectos éticos: verificacao/verif-aspec-eticos.md
+      - Análise de tarefas: verificacao/verif-analise-tarefas.md
+      - Princípios gerais do projeto: verificacao/verif-princ-gerais.md
+      - Metas de usabilidade: verificacao/verif-metas.md
+      - Guia de estilo: verificacao/verif-guia-estilo.md
+      - Planej. Aval. Análise de Tarefas: verificacao/verif-pa-analise-tarefas.md
+      - Planej. Relato Análise de Tarefas: verificacao/verif-pr-analise-tarefas.md
+      - Relato Resultados Análise de Tarefas: verificacao/verif-rel-analise-tarefas.md
+      - Planejamento Aval. Storyboard: verificacao/verif-pa-storyboard.md
+      - Planej. Relato Storyboard: verificacao/verif-pr-storyboard.md
+      - Relato Resultados Storyboard: verificacao/verif-rel-storyboard.md
+      - Planej. Aval. Protótipo de Papel: verificacao/verif-pa-prot-papel.md
+      - Planej. Relato Protótipo de Papel: verificacao/verif-pr-prot-papel.md
+      - Protótipo de papel: verificacao/verif-prot-papel.md
   - Apresentações: apresentacoes.md
 
