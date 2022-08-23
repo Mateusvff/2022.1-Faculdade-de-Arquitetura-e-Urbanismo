@@ -9,7 +9,11 @@
 
 ## 1. Introdução
 
-A inspeção do [Relato do Storyboard](../designAvalEDesenv/nivel1/storyboard/relato-da-avalia%C3%A7%C3%A3o-do-storyboard.md) possibilita verificar como a avaliação foi realizada e seu desfecho a fim de encontrar possíveis defeitos para que eles sejam corrigidos e fiquem mais coerentes com o artefato.
+Neste documento estão contidos os resultados obtidos da verificação do artefato [Relato do Storyboard](../designAvalEDesenv/nivel1/storyboard/relato-da-avalia%C3%A7%C3%A3o-do-storyboard.md), seguindo os passos previstos no [planejamento](planejamento-geral.md).
+
+* O artefato foi desenvolvido pelo integrante Caio César.
+
+* A verificação foi feita pelo integrante Thalisson.
 
 ## 2. Metodologia
 
@@ -38,21 +42,21 @@ ID | Questão | Inspeção
 10 | Possui as respostas dos entrevistados? | ✅
 
 
-## 4. Correção
-
-Após a etapa de Inspeção, foram observados que a metodologia aplicada no relato do storyboard não coincide com a pré-estabelecida no planejamento. Para corrigir o artefato e deixá-lo mais coerente, deve-se fazer esse ajuste atualizando o planejamento para a metodologia que realmente foi utilizada.
-
-## 5. Acompanhamento
-### 5.1. Porcentagem de sucesso da checklist
+## 4. Acompanhamento
+### 4.1. Porcentagem de sucesso da checklist
 
 - 1 Defeitos
 - 9 Acertos
 - 90% de acertos
 
-### 5.2. Gráfico de acompanhamento
+### 4.2. Gráfico de acompanhamento
 
 ![Gráfico](../assets/verif-rel-storyboard.png)
-<h6 align = "center">Gráfico 1: gráfico de acertos vs defeitos <br>Fonte: Autores. </h6>
+<h6 align = "center">Figura 1: gráfico de acertos vs defeitos <br>Fonte: Autores. </h6>
+
+## 5. Correção
+
+Após a etapa de Inspeção, foram observados que a metodologia aplicada no relato do storyboard não coincide com a pré-estabelecida no planejamento. Para corrigir o artefato e deixá-lo mais coerente, deve-se fazer esse ajuste atualizando o planejamento para a metodologia que realmente foi utilizada.
 
 ## 6. Referências
 

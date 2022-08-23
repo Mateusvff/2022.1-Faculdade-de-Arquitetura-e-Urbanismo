@@ -9,7 +9,11 @@
 
 ## 1. Introdução
 
-A inspeção do [Planejamento da avaliação da análise de tarefas](../designAvalEDesenv/nivel1/analiseTarefas/planejamento-analise-tarefas.md) possibilita verificar como o planejamento foi realizado a fim de encontrar possíveis defeitos para que eles sejam corrigidos e fiquem mais coerentes com o artefato.
+Neste documento estão contidos os resultados obtidos da verificação do artefato [Planejamento da avaliação da análise de tarefas](../designAvalEDesenv/nivel1/analiseTarefas/planejamento-analise-tarefas.md), seguindo os passos previstos no [planejamento](planejamento-geral.md).
+
+* O artefato foi desenvolvido pelo integrante Caio César.
+
+* A verificação foi feita pelo integrante Thalisson.
 
 ## 2. Metodologia
 
@@ -37,21 +41,21 @@ ID | Questão | Inspeção
 9 | Segue o padrão correspondente à análise abordada? | ✅
 
 
-## 4. Correção
-
-Neste documento não foram encontrados defeitos após a realização da inspeção, sendo assim não será necessário produzir uma segunda versão do artefato.
-
-## 5. Acompanhamento
-### 5.1. Porcentagem de sucesso da checklist
+## 4. Acompanhamento
+### 4.1. Porcentagem de sucesso da checklist
 
 - 0 Defeitos
 - 9 Acertos
 - 100% de acertos
 
-### 5.2. Gráfico de acompanhamento
+### 4.2. Gráfico de acompanhamento
 
 ![Gráfico](../assets/verif-pa-analise-tarefas.jpg)
-<h6 align = "center">Gráfico 1: gráfico de acertos vs defeitos <br>Fonte: Autores. </h6>
+<h6 align = "center">Figura 1: gráfico de acertos vs defeitos <br>Fonte: Autores. </h6>
+
+## 5. Correção
+
+Neste documento não foram encontrados defeitos após a realização da inspeção, sendo assim não será necessário produzir uma segunda versão do artefato.
 
 ## 6. Referências
 

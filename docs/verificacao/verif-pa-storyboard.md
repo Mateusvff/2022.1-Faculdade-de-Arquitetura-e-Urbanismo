@@ -9,7 +9,11 @@
 
 ## 1. Introdução
 
-A inspeção do [Planejamento da avaliação do Storyboard](../designAvalEDesenv/nivel1/storyboard/planejamento-da-avaliacao-do-storyboard.md) possibilita verificar como o _storyboard_ foi criado a fim de encontrar possíveis defeitos para que eles sejam corrigidos e fiquem mais coerentes com o artefato.
+Neste documento estão contidos os resultados obtidos da verificação do artefato [Planejamento da avaliação do Storyboard](../designAvalEDesenv/nivel1/storyboard/planejamento-da-avaliacao-do-storyboard.md), seguindo os passos previstos no [planejamento](planejamento-geral.md).
+
+* O artefato foi desenvolvido pelo integrante Caio César.
+
+* A verificação foi feita pelo integrante Thalisson.
 
 ## 2. Metodologia
 
@@ -37,21 +41,21 @@ ID | Questão | Inspeção
 9 | Foi apresentado o Termo de Consentimento? | ❌
 
 
-## 4. Correção
-
-Após a etapa de Inspeção, foram observados que apesar da metodologia prevista não necessitar de um termo de consentimento, a metodologia utilizada para realizar a análise precisa de um termo de consentimento. Para garantir a consistência entre os artefatos é necessário adicionar um termo de consentimento no planejamento.
-
-## 5. Acompanhamento
-### 5.1. Porcentagem de sucesso da checklist
+## 4. Acompanhamento
+### 4.1. Porcentagem de sucesso da checklist
 
 - 1 Defeitos
 - 8 Acertos
 - 88,9% de acertos
 
-### 5.2. Gráfico de acompanhamento
+### 4.2. Gráfico de acompanhamento
 
 ![Gráfico](../assets/verif-pa-storyboard.png)
-<h6 align = "center">Gráfico 1: gráfico de acertos vs defeitos <br>Fonte: Autores. </h6>
+<h6 align = "center">Figura 1: gráfico de acertos vs defeitos <br>Fonte: Autores. </h6>
+
+## 5. Correção
+
+Após a etapa de Inspeção, foram observados que apesar da metodologia prevista não necessitar de um termo de consentimento, a metodologia utilizada para realizar a análise precisa de um termo de consentimento. Para garantir a consistência entre os artefatos é necessário adicionar um termo de consentimento no planejamento.
 
 ## 6. Referências
 
