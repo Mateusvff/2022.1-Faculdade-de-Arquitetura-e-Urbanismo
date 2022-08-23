@@ -54,7 +54,7 @@ O checklist do artefato pode ser visualizado na Tabela 1 abaixo.
 
 A Figura 1 abaixo revela o gráfico gerado com os dados do acompanhamento.
 
-![checklist Processo de Design]()
+![checklist Processo de Design](https://github.com/Interacao-Humano-Computador/2022.1-Faculdade-de-Arquitetura-e-Urbanismo/blob/verif-caio/docs/assets/Captura%20de%20tela%202022-08-22%20224349.png?raw=true)
 
 <h6 align = "center">Figura 1: gráfico do checklist da analise de tarefas <br>Fonte: Autores. </h6>
 
