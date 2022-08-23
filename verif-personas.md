@@ -52,8 +52,7 @@ O checklist do artefato pode ser visualizado na Tabela 1 abaixo.
 
 ### 4.1. Gráfico de acompanhamento
 
-<!-- <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FB6LxppBqsl4UCasYZczm6s%2FUntitled%3Fnode-id%3D0%253A1" allowfullscreen></iframe> -->
-
+![image](https://user-images.githubusercontent.com/62102447/186055896-4e52c15b-f27a-4f34-833e-9daae95c2c3c.png)
 ## 5. Correção
 
 Durante a verificação deste artefato, foi observado que a taxa de acerto está mais alta, influenciando de maneira positiva na qualidade do artefato.
