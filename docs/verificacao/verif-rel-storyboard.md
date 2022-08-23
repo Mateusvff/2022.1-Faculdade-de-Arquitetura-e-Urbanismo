@@ -1,21 +1,19 @@
-# Verificação - Relato dos resultados da avaliação StoryBoard
 ***
 
 ### Histórico de Versões
 
 **Data** | **Versão** | **Descrição** | **Autor(es/as)** | **Revisor** |
 --- | --- | --- | --- | --- |
-22/08/2022 | 0.1 | Criação do Documento | Laura Pinos | Caio César
-22/08/2022 | 0.2 | Adição do corpo do texto | Laura Pinos | Caio César
+22/08/2022 | 0.1 | Criação do Documento | Thalisson | Matheus Costa 
+22/08/2022 | 0.2 | Desenvolvimento do Documento | Thalisson | Matheus Costa
 
 ## 1. Introdução
 
-Neste documento estão contidos os resultados obtidos da verificação do artefato [Relato dos resultados da avaliação do Storyboard](../designAvalEDesenv/nivel1/storyboard/relato-da-avalia%C3%A7%C3%A3o-do-storyboard.md), seguindo os passos previstos no [planejamento](planejamento-geral.md).
+Neste documento estão contidos os resultados obtidos da verificação do artefato [Relato do Storyboard](../designAvalEDesenv/nivel1/storyboard/relato-da-avalia%C3%A7%C3%A3o-do-storyboard.md), seguindo os passos previstos no [planejamento](planejamento-geral.md).
 
-* O artefato foi desenvolvido pela integrante Letícia Aires.
+* O artefato foi desenvolvido pelo integrante Caio César.
 
-* A verificação foi feita pela integrante Laura Pinos.
-
+* A verificação foi feita pelo integrante Thalisson.
 
 ## 2. Preparação
 
@@ -25,8 +23,8 @@ As perguntas são de cunho objetivo e as respostas seguem o seguinte padrão:
 
 Caso o artefato atenda o que está sendo requisitado pela pergunta, haverá um ícone indicando que foi atendido, do contrário, também haverá um ícone indicando o seu descumprimento, conforme a legenda abaixo:
 
-- ✅ : Atendido
-- ❌ : Não Atendido
+- ✅: Atendido.
+- ❌: Não atendido.
 
 ## 3. Inspeção
 
@@ -34,32 +32,36 @@ As perguntas foram elaboradas considerando os conteúdos aprendidos ao longo da 
 
 O checklist do artefato pode ser visualizado na Tabela 1 abaixo.
 
-|ID|Pergunta| Verificação |
-|:---:|-------------|:--------:|
-| 1 | O artefato possui uma introdução coerente com seu conteúdo? |✅ |
-| 2 | O documento apresenta algum link que faz referência o artefato abordado?| ❌|
-| 3 | O documento apresenta um modelo da estrutura dos relatos?| ✅ |
-| 4 | O documento apresenta uma descrição dos tópicos que deverão ser abordados no relato? | ✅|
-| 5 | No documento há alguma menção referente ao teste-piloto?| ❌ |
-| 6 | Há alguma descrição da metodologia a ser utilizada para os relatos?| ✅|
+ID | Questão | Inspeção
+--- | --- | ---
+1 | Possui versionamento? | ✅
+2 | Está gramaticalmente correto? | ✅
+3 | Possui introdução? | ✅
+4 | As imagens/figuras/tabelas possuem legenda? | ✅
+5 | O objetivo está claro? | ✅
+6 | Possui conclusão? | ✅
+7 | A metodologia da avaliação é explicado claramente? | ✅
+8 | A metodologia condiz com a pré-estabelecida no planejamento? | ❌
+9 | Possui referências bibliográficas? | ✅
+10 | Possui as respostas dos entrevistados? | ✅
 
-<h6 align = "center">Tabela 1: checklist do planejamento dos relatos da análise de tarefas <br>Fonte: Autores. </h6>
+<h6 align = "center">Tabela 1: checklist do relato da avaliação do Storyboard<br>Fonte: Autores. </h6>
 
 ## 4. Acompanhamento
+### 4.1. Porcentagem de sucesso da checklist
 
-- 2 ERROS e 4 ACERTOS
-- 33,33% de erro.
+- 1 ERROS e 9 ACERTOS
+- 90% de acertos.
 
-### 4.1. Gráfico de acompanhamento
+### 4.2. Gráfico de acompanhamento
 
-![image](https://user-images.githubusercontent.com/62102447/186055807-dfdd1f0d-75a2-4e45-b9f2-b7d57ffa1ab6.png)
+![Gráfico](../assets/verif-rel-storyboard.png)
+<h6 align = "center">Figura 1: gráfico de acertos vs defeitos <br>Fonte: Autores. </h6>
 
 ## 5. Correção
 
-Durante a verificação deste artefato, foi observado que a taxa de acerto está mais alta, influenciando de maneira positiva na qualidade do artefato.
-
-As correções principais dizem respeito a um melhor detalhamento do artefato, o que contribuirá não só com uma descrição melhor do seu conteúdo, mas também com o conteúdo do artefato que se baseia nesse planejamento, a saber, o documento do  [Relato dos resultados da avaliação](../designAvalEDesenv/nivel1/storyboard/relato-da-avaliação-do-storyboard.md).
+Após a etapa de Inspeção, foram observados que a metodologia aplicada no relato do storyboard não coincide com a pré-estabelecida no planejamento. Para corrigir o artefato e deixá-lo mais coerente, deve-se fazer esse ajuste atualizando o planejamento para a metodologia que realmente foi utilizada.
 
 ## 6. Referências
 
-> SERRANO, M.; SERRANO, M. Material de aula. **Requisitos - Aula 023 - Verificação e Validação**.
+> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) - Interação Humano-Computador e Experiência do usuário.
