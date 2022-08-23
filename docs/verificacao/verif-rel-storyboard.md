@@ -9,7 +9,7 @@
 
 ## 1. Introdução
 
-A inspeção do [Relato do Storyboard](../designAvalEDesenv/nivel1/storyboard/relato-da-avalia%C3%A7%C3%A3o-do-storyboard.md) possibilita verificar o _storyboard_ e seu desfecho a fim de encontrar possíveis defeitos para que eles sejam corrigidos e fiquem mais coerentes com o artefato.
+A inspeção do [Relato do Storyboard](../designAvalEDesenv/nivel1/storyboard/relato-da-avalia%C3%A7%C3%A3o-do-storyboard.md) possibilita verificar como a avaliação foi realizada e seu desfecho a fim de encontrar possíveis defeitos para que eles sejam corrigidos e fiquem mais coerentes com o artefato.
 
 ## 2. Metodologia
 
@@ -40,14 +40,14 @@ ID | Questão | Inspeção
 
 ## 4. Correção
 
-Neste documento não foram encontrados defeitos após a realização da inspeção, sendo assim não será necessário produzir uma segunda versão do artefato.
+...
 
 ## 5. Acompanhamento
 ### 5.1. Porcentagem de sucesso da checklist
 
 - 2 Defeitos
 - 8 Acertos
-- 100% de acertos
+- 80% de acertos
 
 ### 5.2. Gráfico de acompanhamento
 
