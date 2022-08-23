@@ -42,14 +42,14 @@ O checklist do artefato pode ser visualizado na Tabela 1 abaixo.
 | 4 | O entrevistador realizou as perguntas do roteiro conforme planejado?  | ✅|
 | 5 | É possivel verificar se o entrevistador solicitou o preenchimento do termo de consentimento ao entrevistado, conforme planejado?  |❌|
 | 6 | Os objetivos da avaliação foram alcançados?    | ✅|
-| 7 | Os princípios e diretrizes possuem referências?| ✅|
+| 7 | O relato dos resultados da AHT possui referência?| ✅|
 
 <h6 align = "center">Tabela 1: checklist do Relato dos Resultados da Análise de Tarefas <br>Fonte: Autores. </h6>
 
 ## 4. Acompanhamento
 
 - 1 ERROS e 6 ACERTOS
-- 100% de acerto.
+- 85,7% de acerto.
 
 ### 4.1. Gráfico de acompanhamento
 
