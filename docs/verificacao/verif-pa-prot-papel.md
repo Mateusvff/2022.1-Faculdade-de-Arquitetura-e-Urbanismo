@@ -61,7 +61,7 @@ A Figura 1 abaixo revela o gráfico gerado com os dados do acompanhamento.
 
 ## 5. Correção
 
-Foi observado um alto índice de erros, porém, ao se analisar quais foram os principais erros apontados, as correções são mais simples e relacionadas à estrutura do documente, tornando-as mais fáceis de serem realizadas, mas ressaltando a pergunta 3, que diz respeito a um melhor detalhamento do documento.
+Foi observado um alto índice de erros, porém, ao se analisar quais foram os principais erros apontados, as correções são mais simples e relacionadas à estrutura do documento, tornando-as mais fáceis de serem realizadas, mas ressaltando a pergunta 3, que diz respeito a um melhor detalhamento do documento.
 
 ## 6. Referências
 

@@ -31,7 +31,6 @@ Para isso, Fagan [1] propõe um método de inspeção que estabelece um processo
 
 Os artefatos verificados foram:
 
-- [Planejamento do projeto](VERSEVAIPRECISARDESSE)
 - [Sites avaliados](../planejamento/analiseSites/escolha-do-site.md)
 - [Site escolhido](../planejamento/analiseSites/site-escolhido.md)
 - [Metodologias e ferramentas](../planejamento/metodologia-e-processos.md)
@@ -53,7 +52,7 @@ Os artefatos verificados foram:
 - [Storyboard](../designAvalEDesenv/nivel1/storyboard/storyboard.md)
 - [Planejamento da Avaliação - Protótipo de Papel](../designAvalEDesenv/nivel2/prototPapel/planej-avaliacao-prototipo-papel.md)
 - [Planejamento dos Relatos - Protótipo de Papel](../designAvalEDesenv/nivel2/prototPapel/relato_papel.md)
-- [Protótipo de papel](AINDANAOFOICRIADO)
+- [Protótipo de papel](../designAvalEDesenv/nivel2/prototPapel/planej-avaliacao-prototipo-papel.md)
 
 ## 3. Planejamento
 
