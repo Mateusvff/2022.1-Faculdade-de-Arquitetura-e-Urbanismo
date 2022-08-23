@@ -49,7 +49,7 @@ O checklist do artefato pode ser visualizado na Tabela 1 abaixo.
 
 ## 4. Acompanhamento
 
-- 1 ERRO e 6 ACERTOS
+- 4 ERRO e 4 ACERTOS
 - 50% de acerto.
 
 ### 4.1. Gráfico de acompanhamento
