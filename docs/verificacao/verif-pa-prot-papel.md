@@ -1,20 +1,20 @@
-# Verificação - Planejamento da Avaliação do Protótipo de Papel
+# Verificação - Planej. Avaliação do Protótipo de Papel
 ***
 
 ### Histórico de Versões
 
 **Data** | **Versão** | **Descrição** | **Autor(es/as)** | **Revisor** |
 --- | --- | --- | --- | --- |
-22/08/2022 | 0.1 | Criação do Documento | Letícia Aires | Mateus Franco
-22/08/2022 | 0.2 | Adição do corpo do texto | Letícia Aires | Mateus Franco
+22/08/2022 | 0.1 | Criação do Documento | Matheus Costa | Thalisson
+22/08/2022 | 0.2 | Adição do corpo do texto | Matheus Costa | Thalisson
 
 ## 1. Introdução
 
-Neste documento estão contidos os resultados obtidos da verificação do artefato [Planejamento da Avaliação do Protótipo de Papel](../designAvalEDesenv/prototPapel.md), seguindo os passos previstos no [planejamento](planejamento-geral.md).
+Neste documento estão contidos os resultados obtidos da verificação do artefato [Planejamento da Avaliação do Protótipo de Papel](../designAvalEDesenv/nivel2/prototPapel/planej-avaliacao-prototipo-papel.md), seguindo os passos previstos no [planejamento](planejamento-geral.md).
 
-* O artefato foi desenvolvido pela integrante Laura Pinos.
+* O artefato foi desenvolvido pelo integrante Mateus Franco.
 
-* A verificação foi feita pela integrante Letícia Aires.
+* A verificação foi feita pelo integrante Matheus Costa.
 
 
 ## 2. Preparação
@@ -37,33 +37,32 @@ O checklist do artefato pode ser visualizado na Tabela 1 abaixo.
 |ID|Pergunta| Verificação |
 |:---:|-------------|:--------:|
 | 1 | O artefato possui uma introdução coerente com seu conteúdo? |✅ |
-| 2 | O artefato possui uma objetivo coerente com seu conteúdo? |✅ |
-| 3 | O artefato apresenta teste-piloto?| ❌|
-| 4 | O artefato apresenta metodologia de condução da avaliação?| ✅|
-| 5 | O artefato conta com termo de consentimento? | ❌|
-| 6 | O artefato conta com local de realização da avaliação?| ❌|
-| 7 | O artefato conta com data de realização da avaliação? | ❌|
-| 8 | O artefato conta comcronograma de avaliação? | ✅|
+| 2 | O documento apresenta algum link que faz referência o artefato abordado?| ❌|
+| 3 | Há alguma descrição da metodologia a ser utilizada para a avaliação?| ❌ |
+| 4 | Foi apresentado um tópico voltado para os objetivos desta avaliação? | ✅|
+| 5 | Há uma descrição das etapas das atividades?| ✅ |
+| 6 | O documento indica corretamente a referência bilbiográfica no texto?| ❌|
+| 7 | Existe algum tópico de Conclusão trazendo um fechamento coerente com o contexto?| ❌|
 
-<h6 align = "center">Tabela 1: checklist do perfil de usuário <br>Fonte: Autores. </h6>
+<h6 align = "center">Tabela 1: checklist do planejamento dos relatos da análise de tarefas <br>Fonte: Autores. </h6>
 
 ## 4. Acompanhamento
 
-- 4 ERRO e 4 ACERTOS
-- 50% de acerto.
+- 4 ERROS e 3 ACERTOS
+- 42,9% de acerto.
 
 ### 4.1. Gráfico de acompanhamento
 
-<img src="https://user-images.githubusercontent.com/72623771/186045251-d69758ea-88dd-43f9-860e-13f9ec87bb3a.png" width=500px></img>
+A Figura 1 abaixo revela o gráfico gerado com os dados do acompanhamento.
 
-<figcaption align='center'>Figura 1: Gráfico pizza para a verificação do Planejamento da Avaliação do Protótipo de Papel</figcaption>
+![checklist planej prot papel](https://user-images.githubusercontent.com/72279998/186041614-cce9d1b0-6432-419a-bc3c-ac5fe6c82804.png)
 
-<figcaption>Fonte: Canva - Autoria própria</figcaption> 
+<h6 align = "center">Figura 1: gráfico do checklist do planejamento da avaliação do protótipo de papel <br>Fonte: Autores. </h6>
 
 ## 5. Correção
 
-Por meio da condução da inspeção, observa-se que 50% dos itens da checklist foram satisfeitos.  Nesse sentido, os itens que não satisfizeram os critérios estabelecidos, receberão as tratativas necessárias para que se adequem aos padrãoes estabelecidos.
+Foi observado um alto índice de erros, porém, ao se analisar quais foram os principais erros apontados, as correções são mais simples e relacionadas à estrutura do documento, tornando-as mais fáceis de serem realizadas, mas ressaltando a pergunta 3, que diz respeito a um melhor detalhamento do documento.
 
 ## 6. Referências
 
-> [1] SERRANO, M.; SERRANO, M. Material de aula. **Requisitos - Aula 023 - Verificação e Validação**.
+> SERRANO, M.; SERRANO, M. Material de aula. **Requisitos - Aula 023 - Verificação e Validação**.

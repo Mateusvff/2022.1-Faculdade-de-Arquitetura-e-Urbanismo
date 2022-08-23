@@ -92,6 +92,7 @@ A Tabela 1 abaixo mostra quais foram as ferramentas utilizadas pela equipe ao lo
 |<img src="https://user-images.githubusercontent.com/72279998/182245998-ec14cd4a-1d7a-4f9d-ae46-f039acd48ea0.png" height= 60 width=60> | Microsoft Teams| Aplicativo para reuniões e gravação de vídeos. |
 |<img src="https://user-images.githubusercontent.com/72279998/182247936-cec95cfa-0619-41f7-808f-21859692cc48.png" height= 60 width=60> | OBS Studio | Software para gravação de vídeos. |
 |<img src="https://user-images.githubusercontent.com/72279998/182248688-2afa7006-cf91-4afc-9836-faa29b105dd6.png" height= 60 width=60> | Clipchamp | Editor de vídeos. |
+|<img src="https://github.com/Interacao-Humano-Computador/2022.1-Faculdade-de-Arquitetura-e-Urbanismo/raw/development/docs/assets/figma-logo.png" height= 60 width=60> | Figma | Ferramenta para prototipagem. |
 <h6 align = "center">Tabela 1: ferramentas utilizadas</h6>
 
 ## 5. Referências
