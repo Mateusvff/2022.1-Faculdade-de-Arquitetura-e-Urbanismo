@@ -35,31 +35,32 @@ O checklist do artefato pode ser visualizado na Tabela 1 abaixo.
 
 |ID|Pergunta| Verificação |
 |:---:|-------------|:--------:|
-| 1 | O artefato possui uma introdução coerente com seu conteúdo? | |
-| 2 | O artefato  |  |
-| 3 | O artefato  |  |
-| 4 | O artefato apresenta uma conclusão? |  |
-| 5 | O artefato apresenta um histórico de versões?|  |
-| 6 | As tarefas apresentadas são condizentes com o contexto do projeto?|  |
+| 1 | O artefato foi feito em um papel ou ao menos representado em um? | ✅ |
+| 2 | O artefato é claro nos caminhos e nas atividades realizadas? | ✅ |
+| 3 | O artefato é legíve / entendível? | ✅ |
+| 4 | O artefato condiz com as tarefas definidas pela equipe? | ✅ |
+| 5 | O artefato tem uma semelhança com o produto real a ser analisado? | ✅ |
+| 6 | As tarefas apresentadas são condizentes com o contexto do projeto? | ✅ |
+| 7 | Te mais de uma tarefa apresentada? | ✅ |
 
 <h6 align = "center">Tabela 1: checklist do Protótipo de Papel <br>Fonte: Autores. </h6>
 
 ## 4. Acompanhamento
 
-- X ERROS e Y ACERTOS
-- X % de acerto.
+- 0 ERROS e 7 ACERTOS
+- 100 % de acerto.
 
 ### 4.1. Gráfico de acompanhamento
 
 A Figura 1 abaixo revela o gráfico gerado com os dados do acompanhamento.
 
-![checklist Processo de Design](https://github.com/Interacao-Humano-Computador/2022.1-Faculdade-de-Arquitetura-e-Urbanismo/blob/verif-caio/docs/assets/Captura%20de%20tela%202022-08-22%20224349.png?raw=true)
+![checklist Processo de Design](https://github.com/Interacao-Humano-Computador/2022.1-Faculdade-de-Arquitetura-e-Urbanismo/blob/verif-caio/docs/assets/100porcem.png?raw=true)
 
-<h6 align = "center">Figura 1: gráfico do checklist da analise de tarefas <br>Fonte: Autores. </h6>
+<h6 align = "center">Figura 1: gráfico do checklist do Protótipo de Papel <br>Fonte: Autores. </h6>
 
 ## 5. Correção
 
-Após a etapa de Inspeção do Protótipo de Papel, foi observado que
+Após a etapa de Inspeção do Protótipo de Papel, foi observado que o artefato está completo, mais sugestões podem surgir com o feedback do professor e de candidatos.
 
 ## 6. Referências
 
