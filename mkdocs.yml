@@ -55,8 +55,9 @@ nav:
         - Planejamento da avaliação do Protótipo de papel: designAvalEDesenv/nivel2/prototPapel/planej-avaliacao-prototipo-papel.md
         - Planejamento do relato dos resultados da avaliação - Protótipo de papel: designAvalEDesenv/nivel2/prototPapel/relato_papel.md
   - Verificação dos artefatos:
-    - Planejamento do projeto: verificacao/verif-planejamento.md
+    - Planejamento da Verificação: verificacao/planejamento-geral.md
     - Verificações:
+      - Planejamento do projeto: verificacao/verif-planejamento.md
       - Sites avaliados: verificacao/verif-sites-aval.md
       - Site escolhido: verificacao/verif-site-escolhido.md
       - Metodologias e ferramentas: verificacao/verif-metodologia.md
