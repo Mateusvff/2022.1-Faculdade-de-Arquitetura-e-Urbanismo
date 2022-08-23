@@ -55,3 +55,12 @@
 <br>Fonte: Autores</h6>
 
 > Disponibilizado dia 17 de agosto de 2022
+
+## Apresentação 6 - Verificação dos artefatos
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6qQ5noc6rhQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h6 align = "center">Vídeo 6: Entrega da Apresentação do Projeto Etapa 6. 
+<br>Fonte: Autores</h6>
+
+> Disponibilizado dia 22 de agosto de 2022

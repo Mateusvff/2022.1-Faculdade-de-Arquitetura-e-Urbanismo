@@ -15,18 +15,22 @@ Neste documento estão contidos os resultados obtidos da verificação do artefa
 
 * A verificação foi feita pelo integrante Thalisson.
 
-## 2. Metodologia
+## 2. Preparação
 
-Para a realização das verificações vamos utilizar um _checklist_ com algumas perguntas referentes ao artefato em questão. Caso a resposta para uma determinada pergunta do _checklist_ seja positiva marcaremos com um _ok_, caso contrário terá um _X_. Conforme a legenda abaixo:
+Para a realização da Inspeção foi elaborado um checklist contendo algumas perguntas condizentes com o contexto do artefato, buscando analisar se o mesmo atendeu critérios que verificam a qualidade da sua entrega.
+
+As perguntas são de cunho objetivo e as respostas seguem o seguinte padrão:
+
+Caso o artefato atenda o que está sendo requisitado pela pergunta, haverá um ícone indicando que foi atendido, do contrário, também haverá um ícone indicando o seu descumprimento, conforme a legenda abaixo:
 
 - ✅: Atendido.
 - ❌: Não atendido.
 
-Após a verificação do artefato, ele será corrigido e com isso desenvolveremos uma nova versão da _checklist_ referente a segunda versão do artefato.
+## 3. Inspeção
 
-## 3. Verificação
+As perguntas foram elaboradas considerando os conteúdos aprendidos ao longo da disciplina, considerações feitas pelo professor e pelo monitor da disciplina.
 
-### 3.1. Checklist
+O checklist do artefato pode ser visualizado na Tabela 1 abaixo.
 
 ID | Questão | Inspeção
 --- | --- | ---
@@ -41,13 +45,13 @@ ID | Questão | Inspeção
 9 | Possui referências bibliográficas? | ✅
 10 | Possui as respostas dos entrevistados? | ✅
 
+<h6 align = "center">Tabela 1: checklist do relato da avaliação do Storyboard<br>Fonte: Autores. </h6>
 
 ## 4. Acompanhamento
 ### 4.1. Porcentagem de sucesso da checklist
 
-- 1 Defeitos
-- 9 Acertos
-- 90% de acertos
+- 1 ERROS e 9 ACERTOS
+- 90% de acertos.
 
 ### 4.2. Gráfico de acompanhamento
 
@@ -60,4 +64,4 @@ Após a etapa de Inspeção, foram observados que a metodologia aplicada no rela
 
 ## 6. Referências
 
-> [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) - Interação Humano-Computador e Experiência do usuário.
+> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) - Interação Humano-Computador e Experiência do usuário.
