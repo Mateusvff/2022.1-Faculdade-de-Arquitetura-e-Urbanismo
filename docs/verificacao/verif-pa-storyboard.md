@@ -39,7 +39,7 @@ ID | Questão | Inspeção
 
 ## 4. Correção
 
-Neste documento não foram encontrados defeitos após a realização da inspeção, sendo assim não será necessário produzir uma segunda versão do artefato.
+Após a etapa de Inspeção, foram observados que apesar da metodologia prevista não necessitar de um termo de consentimento, a metodologia utilizada para realizar a análise precisa de um termo de consentimento. Para garantir a consistência entre os artefatos é necessário adicionar um termo de consentimento no planejamento.
 
 ## 5. Acompanhamento
 ### 5.1. Porcentagem de sucesso da checklist

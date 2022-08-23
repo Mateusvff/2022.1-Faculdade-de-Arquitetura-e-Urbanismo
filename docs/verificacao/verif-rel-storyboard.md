@@ -39,8 +39,8 @@ ID | Questão | Inspeção
 
 
 ## 4. Correção
-TODFO
-Após a etapa de Inspeção, foram observados que a metodologia aplicada no relato do storyboard não coincide com a pré-estabelecida no planejamento, além do termo de consentimento não ter sido apresentado. Para corrigir o artefato e deixá-lo mais coerente, deve-se fazer esses ajustes, adicionando o termo de consentimento utilizado e atualizando o planejamento para a metodologia que realmente foi utilizada.
+
+Após a etapa de Inspeção, foram observados que a metodologia aplicada no relato do storyboard não coincide com a pré-estabelecida no planejamento. Para corrigir o artefato e deixá-lo mais coerente, deve-se fazer esse ajuste atualizando o planejamento para a metodologia que realmente foi utilizada.
 
 ## 5. Acompanhamento
 ### 5.1. Porcentagem de sucesso da checklist
