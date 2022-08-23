@@ -57,7 +57,6 @@ nav:
   - Verificação dos artefatos:
     - Planejamento da Verificação: verificacao/planejamento-geral.md
     - Verificações:
-      - Planejamento do projeto: verificacao/verif-planejamento.md
       - Sites avaliados: verificacao/verif-sites-aval.md
       - Site escolhido: verificacao/verif-site-escolhido.md
       - Metodologias e ferramentas: verificacao/verif-metodologia.md
