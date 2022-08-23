@@ -56,7 +56,7 @@ A Figura 1 abaixo revela o gráfico gerado com os dados do acompanhamento.
 
 ![checklist Processo de Design](https://github.com/Interacao-Humano-Computador/2022.1-Faculdade-de-Arquitetura-e-Urbanismo/blob/verif-caio/docs/assets/Captura%20de%20tela%202022-08-22%20224349.png?raw=true)
 
-<h6 align = "center">Figura 1: gráfico do checklist da analise de tarefas <br>Fonte: Autores. </h6>
+<h6 align = "center">Figura 1: gráfico do checklist do Processo de Design <br>Fonte: Autores. </h6>
 
 ## 5. Correção
 
