@@ -61,7 +61,7 @@ Fonte: autores</h6>
 
 ## 4. Divisão de atividades 
 
-As tabelas de 2 a 6 abaixo indicam as atividades realizadas por cada integrante durante uma Sprint.
+As tabelas de 2 a 7 abaixo indicam as atividades realizadas por cada integrante durante uma Sprint.
 
 ### 4.1. Sprint 1 - Entrega da apresentação do projeto etapa 1 
 
@@ -132,13 +132,13 @@ Fonte: autores</h6>
 
 ### 4.6. Sprint 6 - Entrega da apresentação do projeto etapa 6
 
-**Autor** | **Artefato a verificar** | **Revisor** | **Data Limite Atividade** | **Data Limite Revisão** | **Data Limite Gravação do Vídeo**
+**Autor** | **Atividade - Verificar os artefatos...** | **Revisor** | **Data Limite Atividade** | **Data Limite Revisão** | **Data Limite Gravação do Vídeo**
 --- | --- | --- | --- | --- | --- 
-Letícia Aires | - Planejamento do projeto <br>- Perfil do usuário <br>- Guia de estilo <br>- Planejamento do relato da avaliação do protótipo de papel  <br> | Caio César | 21/08 | 22/08 | 22/08 |
+Letícia Aires | - Perfil do usuário <br>- Guia de estilo <br>- Planejamento do relato da avaliação do protótipo de papel  <br> | Laura Pinos | 21/08 | 22/08 | 22/08 |
 Caio César | - Processo de Design<br>- Planejamento do relato dos resultados da avaliação do Storyboard <br>- Aspectos Éticos <br> - Protótipo de papel | Thalisson Alves | 21/08 | 22/08 | 22/08 |
 Thalisson Alves | - Planejamento da avaliação da Análise de Tarefas <br>- Relatos dos resultados da avaliação do Storyboard <br>- Cronograma de  atividades<br>- Planejamento da Avaliação do Storyboard | Caio César | 21/08 | 22/08 | 22/08 |
-Mateus Vínicius | - Sites avaliados <br>- Site escolhido<br>- Princípios gerais do projeto<br>- Relato dos resultados da Análise de Tarefas <br> | Caio César | 21/08 | 22/08 | 22/08 |
-Matheus Costa | - Análise de Tarefas<br>- Metas de usabilidade<br>- Planejamento do relato dos resultados da Análise de Tarefas<br> - Planejamento da Avaliação do Protótipo de Papel. | Thalisson Alves | 21/08 | 22/08 | 22/08 |
-Laura Pinos | - Personas <br>- Storyboard <br>- Relato da avaliação dos resultados do Storyboard<br>- Metodologias | Thalisson Alves | 21/08 | 22/08 | 22/08 |
-<h6 align = "center">Tabela 6: atividades da Sprint 6<br>
+Mateus Vínicius | - Sites avaliados <br>- Site escolhido<br>- Princípios gerais do projeto<br>- Relato dos resultados da Análise de Tarefas <br> | Matheus Costa | 21/08 | 22/08 | 22/08 |
+Matheus Costa | - Análise de Tarefas<br>- Metas de usabilidade<br>- Planejamento do relato dos resultados da Análise de Tarefas<br> - Planejamento da Avaliação do Protótipo de Papel. | Mateus Franco  | 21/08 | 22/08 | 22/08 |
+Laura Pinos | - Personas <br>- Storyboard <br>- Metodologias | Letícia Aires | 21/08 | 22/08 | 22/08 |
+<h6 align = "center">Tabela 7: atividades da Sprint 6<br>
 Fonte: autores</h6>
