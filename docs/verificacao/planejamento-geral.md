@@ -24,8 +24,8 @@ Para isso, Fagan [1] propõe um método de inspeção que estabelece um processo
 - [Visão Geral](#4-visão-geral)
 - Preparação *
 - Inspeção *
-- Correção *
 - Acompanhamento *
+- Correção *
 
 *Os quatro últimos passos encontram-se em cada documento de verificação.
 
@@ -65,17 +65,17 @@ A partir dessa divisão, as atribuições de cada integrante pode ser vista na T
 | - Análise de Tarefas<br>- Metas de usabilidade<br>- Planejamento do relato dos resultados da Análise de Tarefas<br> - Planejamento da Avaliação do Protótipo de Papel.    |  Matheus Costa  | Thalisson Alves |  Mateus Franco   |
 | - Processo de Design<br>- Planejamento do relato dos resultados da avaliação do Storyboard <br>- Aspectos Éticos <br> - Protótipo de papel |  Caio César | Laura Pinos |  Thalisson Alves   |
 | - Sites avaliados <br>- Site escolhido<br>- Princípios gerais do projeto<br>- Relato dos resultados da Análise de Tarefas <br> |  Mateus Franco | Letícia Aires |  Matheus Costa |
-| - Planejamento do projeto <br>- Perfil do usuário <br>- Guia de estilo <br>- Planejamento do relato da avaliação do protótipo de papel  <br> |  Letícia Aires | Mateus Franco |  Laura Pinos |
-| - Personas <br>- Storyboard <br>- Relato da avaliação dos resultados do Storyboard<br>- Metodologias | Laura Pinos  | Caio César | Letícia Aires |
+| - Perfil do usuário <br>- Guia de estilo <br>- Planejamento do relato da avaliação do protótipo de papel  <br> |  Letícia Aires | Mateus Franco |  Laura Pinos |
+| - Personas <br>- Storyboard <br>- Metodologias | Laura Pinos  | Caio César | Letícia Aires |
 | - Planejamento da avaliação da Análise de Tarefas <br>- Relatos dos resultados da avaliação do Storyboard <br>- Cronograma de  atividades<br>- Planejamento da Avaliação do Storyboard | Thalisson Alves | Matheus Costa | Caio César |
 
 <h6 align = "center">Tabela 1: responsáveis pelas verificações<br>Fonte: Autores. </h6>
 
 ## 4. Visão Geral
 
-A partir disto, ainda seguindo o passo a passo recomendado por Fagan, para cada um dos artefatos será elaborado um Checklist contendo alguns critérios a serem avaliados, que estarão de acordo com o artefato em questão. A parte de Inspeção se dará por meio desse Checklist, pelo qual faremos os registros de quais critérios foram e não foram atendidos.
+A partir disto, ainda seguindo o passo a passo recomendado por Fagan, para cada um dos artefatos será elaborado um Checklist contendo alguns critérios a serem avaliados, que estarão de acordo com o artefato em questão. A **parte de Inspeção** se dará por meio desse Checklist, pelo qual faremos os registros de quais critérios foram e não foram atendidos.
 
-Após a checagem, faremos uma breve análise dos resultados, comparando os critérios atendidos e os não atendidos. No tópico de Correção serão as descritos os eventuais pontos a serem corrigidos e o tópico de Acompanhamento conterá um gráfico que descreverá essa análise observada.
+Após a checagem, faremos uma breve análise dos resultados, comparando os critérios atendidos e os não atendidos. O **tópico de Acompanhamento** conterá um gráfico que descreverá essa análise observada e no **tópico de Correção** serão as descritos os eventuais pontos a serem corrigidos.
 
 ## 5. Referências
 
