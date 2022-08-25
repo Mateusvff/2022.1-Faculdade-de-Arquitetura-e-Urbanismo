@@ -151,7 +151,7 @@ Fonte: autores</h6>
 Letícia Aires | Relato dos resultados da avaliação do protótipo de alta fidelidade | Laura Pinos | 04/09 | 05/09 | 05/09 |
 Caio César | Protótipo de alta fidelidade | Thalisson Alves | 30/08 | 05/09 | 05/09 |
 Thalisson Alves | O Planejamento da Avaliação do protótipo de alta fidelidade | Caio César | 30/08 | 05/09 | 05/09 |
-Mateus Vínicius | Criar questionário no planejamento da avaliação do protótipo de papel, realizar as atividades faltantes relacionadas ao protótipo de papel (teste piloto se houver, entrevistas) e adicionar ao documento. Realizar as atividades relacionadas ao protótipo de alta fidelidade (Teste Piloto, Entrevista) e adicionar ao documento | Matheus Costa | 04/09 | 05/09 | 05/09 |
+Mateus Vínicius | Criar questionário no planejamento da avaliação do protótipo de papel, realizar as atividades faltantes relacionadas ao protótipo de papel (teste piloto se houver, entrevistas) e adicionar ao documento. Realizar as atividades relacionadas ao protótipo de alta fidelidade (Teste Piloto, Entrevista) e adicionar ao documento | Matheus Costa | 27/08 | 05/09 | 05/09 |
 Matheus Costa | Relato dos resultados do Protótipo de Papel | Mateus Franco  | 28/08 | 05/09 | 05/09 |
 Laura Pinos | Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | Letícia Aires | 30/08 | 05/09 | 05/09 |
 <h6 align = "center">Tabela 8: atividades da Sprint 7<br>
