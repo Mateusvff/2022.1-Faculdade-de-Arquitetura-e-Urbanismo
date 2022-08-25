@@ -16,6 +16,7 @@
 02/08/2022 | 0.9 | Adição do cronograma de atividades da entrega 4 | Caio César | Matheus Costa
 09/08/2022 | 1.0 | Adição do cronograma de atividades da entrega 5 | Caio César | Thalisson Alves
 22/08/2022 | 1.1 | Adição do cronograma de atividades da entrega 6 | Caio César | Matheus Costa
+25/08/2022 | 1.2 | Adição do cronograma de atividades da entrega 7 | Caio César | Matheus Costa
 
 ## 1. Cronograma de atividades
 O objetivo deste documento é apresentar uma visualização rápida da divisão cronológica do semestre, conforme especificado no plano de ensino da disciplina. As tabelas de atividades presentes no tópico 4 listam as principais tarefas que foram realizadas durante uma Sprint.
@@ -61,7 +62,7 @@ Fonte: autores</h6>
 
 ## 4. Divisão de atividades 
 
-As tabelas de 2 a 7 abaixo indicam as atividades realizadas por cada integrante durante uma Sprint.
+As tabelas de 2 a 8 abaixo indicam as atividades realizadas por cada integrante durante uma Sprint.
 
 ### 4.1. Sprint 1 - Entrega da apresentação do projeto etapa 1 
 
@@ -142,3 +143,18 @@ Matheus Costa | - Análise de Tarefas<br>- Metas de usabilidade<br>- Planejament
 Laura Pinos | - Personas <br>- Storyboard <br>- Metodologias | Letícia Aires | 21/08 | 22/08 | 22/08 |
 <h6 align = "center">Tabela 7: atividades da Sprint 6<br>
 Fonte: autores</h6>
+
+### 4.6. Sprint 7 - Entrega da apresentação do projeto etapa 7
+
+**Autor** | **Atividade - Verificar os artefatos...** | **Revisor** | **Data Limite Atividade** | **Data Limite Revisão** | **Data Limite Gravação do Vídeo**
+--- | --- | --- | --- | --- | --- 
+Letícia Aires | Relato dos resultados da avaliação do protótipo de alta fidelidade | Laura Pinos | 04/09 | 05/09 | 05/09 |
+Caio César | Protótipo de alta fidelidade | Thalisson Alves | 30/08 | 05/09 | 05/09 |
+Thalisson Alves | O Planejamento da Avaliação do protótipo de alta fidelidade | Caio César | 30/08 | 05/09 | 05/09 |
+Mateus Vínicius | Criar questionário no planejamento da avaliação do protótipo de papel, realizar as atividades faltantes relacionadas ao protótipo de papel (teste piloto se houver, entrevistas) e adicionar ao documento. Realizar as atividades relacionadas ao protótipo de alta fidelidade (Teste Piloto, Entrevista) e adicionar ao documento | Matheus Costa | 04/09 | 05/09 | 05/09 |
+Matheus Costa | Relato dos resultados do Protótipo de Papel | Mateus Franco  | 04/09 | 05/09 | 05/09 |
+Laura Pinos | Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | Letícia Aires | 30/08 | 05/09 | 05/09 |
+<h6 align = "center">Tabela 8: atividades da Sprint 7<br>
+Fonte: autores</h6>
+
+Além disso todos integrantes serão responsáveis pelas correções dos próprios documentos verificados na verificação de artefatos. 
