@@ -15,6 +15,8 @@
 29/07/2022 | 0.8 | Adição e padronização de fontes nas imagens e tabelas | Thalisson Alves | Letícia Aires
 02/08/2022 | 0.9 | Adição do cronograma de atividades da entrega 4 | Caio César | Matheus Costa
 09/08/2022 | 1.0 | Adição do cronograma de atividades da entrega 5 | Caio César | Thalisson Alves
+22/08/2022 | 1.1 | Adição do cronograma de atividades da entrega 6 | Caio César | Matheus Costa
+25/08/2022 | 1.2 | Adição do cronograma de atividades da entrega 7 | Caio César | Matheus Costa
 
 ## 1. Cronograma de atividades
 O objetivo deste documento é apresentar uma visualização rápida da divisão cronológica do semestre, conforme especificado no plano de ensino da disciplina. As tabelas de atividades presentes no tópico 4 listam as principais tarefas que foram realizadas durante uma Sprint.
@@ -60,7 +62,7 @@ Fonte: autores</h6>
 
 ## 4. Divisão de atividades 
 
-As tabelas de 2 a 6 abaixo indicam as atividades realizadas por cada integrante durante uma Sprint.
+As tabelas de 2 a 8 abaixo indicam as atividades realizadas por cada integrante durante uma Sprint.
 
 ### 4.1. Sprint 1 - Entrega da apresentação do projeto etapa 1 
 
@@ -127,3 +129,32 @@ Matheus Costa | Relato dos resultados  da Análise de tarefas | Thalisson Alves 
 Laura Pinos | Planejamento do relato dos resultados da avaliação do Protótipo de Papel | Thalisson Alves | 16/08 | 17/08 | 17/08 |
 <h6 align = "center">Tabela 6: atividades da Sprint 5<br>
 Fonte: autores</h6>
+
+
+### 4.6. Sprint 6 - Entrega da apresentação do projeto etapa 6
+
+**Autor** | **Atividade - Verificar os artefatos...** | **Revisor** | **Data Limite Atividade** | **Data Limite Revisão** | **Data Limite Gravação do Vídeo**
+--- | --- | --- | --- | --- | --- 
+Letícia Aires | - Perfil do usuário <br>- Guia de estilo <br>- Planejamento do relato da avaliação do protótipo de papel  <br> | Laura Pinos | 21/08 | 22/08 | 22/08 |
+Caio César | - Processo de Design<br>- Planejamento do relato dos resultados da avaliação do Storyboard <br>- Aspectos Éticos <br> - Protótipo de papel | Thalisson Alves | 21/08 | 22/08 | 22/08 |
+Thalisson Alves | - Planejamento da avaliação da Análise de Tarefas <br>- Relatos dos resultados da avaliação do Storyboard <br>- Cronograma de  atividades<br>- Planejamento da Avaliação do Storyboard | Caio César | 21/08 | 22/08 | 22/08 |
+Mateus Vínicius | - Sites avaliados <br>- Site escolhido<br>- Princípios gerais do projeto<br>- Relato dos resultados da Análise de Tarefas <br> | Matheus Costa | 21/08 | 22/08 | 22/08 |
+Matheus Costa | - Análise de Tarefas<br>- Metas de usabilidade<br>- Planejamento do relato dos resultados da Análise de Tarefas<br> - Planejamento da Avaliação do Protótipo de Papel. | Mateus Franco  | 21/08 | 22/08 | 22/08 |
+Laura Pinos | - Personas <br>- Storyboard <br>- Metodologias | Letícia Aires | 21/08 | 22/08 | 22/08 |
+<h6 align = "center">Tabela 7: atividades da Sprint 6<br>
+Fonte: autores</h6>
+
+### 4.6. Sprint 7 - Entrega da apresentação do projeto etapa 7
+
+**Autor** | **Atividade - Verificar os artefatos...** | **Revisor** | **Data Limite Atividade** | **Data Limite Revisão** | **Data Limite Gravação do Vídeo**
+--- | --- | --- | --- | --- | --- 
+Letícia Aires | Relato dos resultados da avaliação do protótipo de alta fidelidade | Laura Pinos | 04/09 | 05/09 | 05/09 |
+Caio César | Protótipo de alta fidelidade | Thalisson Alves | 30/08 | 05/09 | 05/09 |
+Thalisson Alves | O Planejamento da Avaliação do protótipo de alta fidelidade | Caio César | 30/08 | 05/09 | 05/09 |
+Mateus Vínicius | Criar questionário no planejamento da avaliação do protótipo de papel, realizar as atividades faltantes relacionadas ao protótipo de papel (teste piloto se houver, entrevistas) e adicionar ao documento. Realizar as atividades relacionadas ao protótipo de alta fidelidade (Teste Piloto, Entrevista) e adicionar ao documento | Matheus Costa | 27/08 | 05/09 | 05/09 |
+Matheus Costa | Relato dos resultados do Protótipo de Papel | Mateus Franco  | 28/08 | 05/09 | 05/09 |
+Laura Pinos | Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | Letícia Aires | 30/08 | 05/09 | 05/09 |
+<h6 align = "center">Tabela 8: atividades da Sprint 7<br>
+Fonte: autores</h6>
+
+Além disso todos integrantes serão responsáveis pelas correções dos próprios documentos verificados na verificação de artefatos da sprint anterior. 
