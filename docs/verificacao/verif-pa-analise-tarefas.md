@@ -1,3 +1,4 @@
+# Verificação - Planej. Aval. Análise de Tarefas
 ***
 
 ### Histórico de Versões
@@ -24,7 +25,11 @@ Para a realização das verificações vamos utilizar um _checklist_ com algumas
 
 Após a verificação do artefato, ele será corrigido e com isso desenvolveremos uma nova versão da _checklist_ referente a segunda versão do artefato.
 
-## 3. Verificação
+## 3. Inspeção
+
+As perguntas foram elaboradas considerando os conteúdos aprendidos ao longo da disciplina, considerações feitas pelo professor e pelo monitor da disciplina.
+
+O checklist do artefato pode ser visualizado na Tabela 1 abaixo.
 
 ### 3.1. Checklist
 
@@ -40,6 +45,7 @@ ID | Questão | Inspeção
 8 | Possui referências? | ✅
 9 | Segue o padrão correspondente à análise abordada? | ✅
 
+<h6 align = "center">Tabela 1: checklist do planej. da aval. análise de tarefas<br>Fonte: Autores. </h6>
 
 ## 4. Acompanhamento
 ### 4.1. Porcentagem de sucesso da checklist
@@ -50,12 +56,15 @@ ID | Questão | Inspeção
 
 ### 4.2. Gráfico de acompanhamento
 
+A Figura 1 abaixo revela o gráfico gerado com os dados do acompanhamento.
+
 ![Gráfico](../assets/verif-pa-analise-tarefas.jpg)
-<h6 align = "center">Figura 1: gráfico de acertos vs defeitos <br>Fonte: Autores. </h6>
+
+<h6 align = "center">Figura 1: gráfico de acertos vs defeitos da verificação <br>Fonte: Autores. </h6>
 
 ## 5. Correção
 
-Neste documento não foram encontrados defeitos após a realização da inspeção, sendo assim não será necessário produzir uma segunda versão do artefato.
+Neste documento não foram encontrados defeitos após a realização da Inspeção, sendo assim não será necessário produzir uma segunda versão do artefato.
 
 ## 6. Referências
 

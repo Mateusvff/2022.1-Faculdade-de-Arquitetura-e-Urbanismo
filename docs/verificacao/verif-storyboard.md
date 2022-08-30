@@ -10,7 +10,7 @@
 
 ## 1. Introdução
 
-Neste documento estão contidos os resultados obtidos da verificação do artefato [StoryBoard ](../designAvalEDesenv/nivel1/storyboard/storyboard.md), seguindo os passos previstos no [planejamento](planejamento-geral.md).
+Neste documento estão contidos os resultados obtidos da verificação do artefato [StoryBoard](../designAvalEDesenv/nivel1/storyboard/storyboard.md), seguindo os passos previstos no [planejamento](planejamento-geral.md).
 
 * O artefato foi desenvolvido pela integrante Letícia Aires.
 
@@ -52,7 +52,11 @@ O checklist do artefato pode ser visualizado na Tabela 1 abaixo.
 
 ### 4.1. Gráfico de acompanhamento
 
+A Figura 1 abaixo revela o gráfico gerado com os dados do acompanhamento.
+
 ![image](https://user-images.githubusercontent.com/62102447/186055265-224e0ba2-702f-4192-9928-5ed49ac1727b.png)
+
+<h6 align = "center">Figura 1: gráfico do checklist da verificação do storyboard<br>Fonte: Autores. </h6>
 
 ## 5. Correção
 
