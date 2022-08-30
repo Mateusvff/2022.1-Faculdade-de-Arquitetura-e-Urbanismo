@@ -10,7 +10,7 @@
 
 ## 1. Introdução
 
-Neste documento estão contidos os resultados obtidos da verificação do artefato [Perfil do Usuário](../analise-de-requisitos/Perfil-do-usuario.md), seguindo os passos previstos no [planejamento](planejamento-geral.md).
+Neste documento estão contidos os resultados obtidos da verificação do artefato [Perfil do Usuário](../analise-de-requisitos/Perfil-de-usuario.md), seguindo os passos previstos no [planejamento](planejamento-geral.md).
 
 * O artefato foi desenvolvido pela integrante Laura Pinos.
 
