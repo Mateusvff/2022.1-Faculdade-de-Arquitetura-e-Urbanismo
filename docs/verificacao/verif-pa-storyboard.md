@@ -1,3 +1,4 @@
+# Verificação - Planejamento da avaliação do Storyboard
 ***
 
 ### Histórico de Versões
@@ -26,6 +27,10 @@ Após a verificação do artefato, ele será corrigido e com isso desenvolveremo
 
 ## 3. Verificação
 
+As perguntas foram elaboradas considerando os conteúdos aprendidos ao longo da disciplina, considerações feitas pelo professor e pelo monitor da disciplina.
+
+O checklist do artefato pode ser visualizado na Tabela 1 abaixo.
+
 ### 3.1. Checklist
 
 ID | Questão | Inspeção
@@ -41,6 +46,8 @@ ID | Questão | Inspeção
 9 | Foi apresentado o Termo de Consentimento? | ❌
 
 
+<h6 align = "center">Tabela 1: checklist do planej. da aval. do storyboard<br>Fonte: Autores. </h6>
+
 ## 4. Acompanhamento
 ### 4.1. Porcentagem de sucesso da checklist
 
@@ -50,8 +57,10 @@ ID | Questão | Inspeção
 
 ### 4.2. Gráfico de acompanhamento
 
+A Figura 1 abaixo revela o gráfico gerado com os dados do acompanhamento.
+
 ![Gráfico](../assets/verif-pa-storyboard.png)
-<h6 align = "center">Figura 1: gráfico de acertos vs defeitos <br>Fonte: Autores. </h6>
+<h6 align = "center">Figura 1: gráfico do checklist da verificação <br>Fonte: Autores. </h6>
 
 ## 5. Correção
 

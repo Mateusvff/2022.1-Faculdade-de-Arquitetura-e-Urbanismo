@@ -10,7 +10,7 @@
 
 ## 1. Introdução
 
-Neste documento estão contidos os resultados obtidos da verificação do artefato [Perfil do Usuário](../analise-de-requisitos/Perfil-do-usuario.md), seguindo os passos previstos no [planejamento](planejamento-geral.md).
+Neste documento estão contidos os resultados obtidos da verificação do artefato [Perfil do Usuário](../analise-de-requisitos/Perfil-de-usuario.md), seguindo os passos previstos no [planejamento](planejamento-geral.md).
 
 * O artefato foi desenvolvido pela integrante Laura Pinos.
 
@@ -56,11 +56,11 @@ O checklist do artefato pode ser visualizado na Tabela 1 abaixo.
 
 ### 4.1. Gráfico de acompanhamento
 
+A Figura 1 abaixo revela o gráfico gerado com os dados do acompanhamento.
+
 <img src="https://user-images.githubusercontent.com/72623771/186037001-b7dd8cf9-2eb6-4492-a2de-bc6c415cee6b.png" width=500px></img>
 
-<figcaption align='center'>Figura 1: Gráfico pizza para a verificação do Perfil do Usuário</figcaption>
-
-<figcaption>Fonte: Canva - Autoria própria</figcaption> 
+<h6 align = "center">Figura 1: Gráfico pizza para a verificação do Perfil do Usuário <br>Fonte: Autoria própria. </h6>
 
 ## 5. Correção
 
@@ -69,4 +69,4 @@ A fim de atingir os objetivos estabelecidos, deve-se elaborar novo formulário, 
 
 ## 6. Referências
 
-> [1] SERRANO, M.; SERRANO, M. Material de aula. **Requisitos - Aula 023 - Verificação e Validação**.
+> SERRANO, M.; SERRANO, M. Material de aula. **Requisitos - Aula 023 - Verificação e Validação**.

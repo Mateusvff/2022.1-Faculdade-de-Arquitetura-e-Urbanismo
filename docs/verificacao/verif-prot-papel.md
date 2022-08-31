@@ -54,7 +54,7 @@ O checklist do artefato pode ser visualizado na Tabela 1 abaixo.
 
 A Figura 1 abaixo revela o gráfico gerado com os dados do acompanhamento.
 
-![checklist Processo de Design](https://github.com/Interacao-Humano-Computador/2022.1-Faculdade-de-Arquitetura-e-Urbanismo/blob/verif-caio/docs/assets/100porcem.png?raw=true)
+![checklists (5)](https://user-images.githubusercontent.com/72279998/187324578-f8bdda14-be97-486a-8a14-02c3cca8ed3a.png)
 
 <h6 align = "center">Figura 1: gráfico do checklist do Protótipo de Papel <br>Fonte: Autores. </h6>
 
