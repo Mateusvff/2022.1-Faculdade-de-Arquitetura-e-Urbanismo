@@ -24,7 +24,7 @@ O site da Faculdade de Arquitetura e Urbanismo é funcional e possui diversas ut
 Abaixo temos o protótipo criado pela equipe. <a href="https://www.figma.com/proto/N6onvozGkZ1ejKygnJIHEX/Untitled?node-id=3%3A7&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=3%3A7"> Clicando aqui </a> poderá ver o protótipo interativo.
 </p>
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/proto/N6onvozGkZ1ejKygnJIHEX/Untitled?node-id=3%3A7&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=3%3A7" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FN6onvozGkZ1ejKygnJIHEX%2FUntitled%3Fnode-id%3D3%253A7%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26starting-point-node-id%3D3%253A7" allowfullscreen></iframe>
 
 ## 4. Conclusão
 
