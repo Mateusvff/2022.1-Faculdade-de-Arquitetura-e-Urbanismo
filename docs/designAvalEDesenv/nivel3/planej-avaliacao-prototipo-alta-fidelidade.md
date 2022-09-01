@@ -1,4 +1,3 @@
-# Planejamento da Avaliação do Protótipo de Alta Fidelidade
 ***
 
 ### Histórico de Versões
@@ -12,7 +11,7 @@
 
 ## 1. Introdução
 
-A avaliação do protótipo de alta fidelidade é uma parte fundamental para consolidar ideias e identificar problemas na interação e na interface que prejudiquem a experiência do usuário. Sendo assim, uma vez que o protótipo está consolidado é essencial realizar uma avaliação junto ao usuário para verificar se as decisões tomadas fazem sentido para o contexto da aplicação.
+A avaliação do protótipo de alta fidelidade é uma parte fundamental para consolidar ideias e identificar problemas na interação e na interface que prejudiquem a experiência do usuário. Sendo assim, uma vez que o protótipo está consolidado, é essencial realizar uma avaliação junto ao usuário para verificar se as decisões tomadas fazem sentido para o contexto da aplicação.
 
 ## 2. Objetivo
 
@@ -21,7 +20,7 @@ Este planejamento tem por objetivo definir todas as fazes que serão realizadas 
 - Facilidade de aprendizado: verificar o quão fácil é de um usuário novo utilizar o sistema.
 - Facilidade de recordação: verificar se a interface possui componentes que facilitam sua memorização.
 - Eficiência: verificar a precisão e velocidade que os usuários alcançam seus objetivos.
-- Eficacia: verificar se os usuários conseguem alcançar seus objetivos.
+- Eficácia: verificar se os usuários conseguem alcançar seus objetivos.
 - Tolerância a erros: verificar se o usuário pode se recuperar de erros com facilidade, sem sofrer danos de informações ou produtividade.
 
 ## 3. Escopo
