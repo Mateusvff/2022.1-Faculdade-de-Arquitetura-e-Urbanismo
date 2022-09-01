@@ -1,21 +1,20 @@
-# Prototipo de Alta Fidelidade
-
-## Histórico de versionamento
+***
+### Histórico de Versões
 
 | Data  | Versão | Descrição | Autor | Revisor |
 | --- | --- | --- | --- | --- |
-| 31/08 | 1.0 | Criação do documento | Caio César | Matheus Costa | 
+| 31/08/2022 | 1.0 | Criação do documento | Caio César | Matheus Costa | 
 
 ## 1. Introdução
 
 <p align="justify">
-A técnica de prototipação de alta fidelidade consiste em criar uma representação visual do produto de software, simulando as telas da aplicação na qual permite ao usuário visualizar algo que ainda não foi produzido. O protótipo de alta fidelidade se preocupa em se parecer ao máximo com o produto final, ou seja, simulando o produto pronto. Desta forma, possibilitando uma discussão mais aprofundados sobre decisões de design.
+A técnica de prototipação de alta fidelidade consiste em criar uma representação visual do produto de software, simulando as telas da aplicação na qual permite ao usuário visualizar algo que ainda não foi produzido. O protótipo de alta fidelidade se preocupa em se parecer ao máximo com o produto final, ou seja, simulando o produto pronto. Desta forma, possibilitando uma discussão mais aprofundada sobre decisões de design.
 </p>
 
 ## 2. Objetivo
 
 <p align="justify">
-O site da Faculdade de Arquitetura e Urbanismo é funcional e possui diversas utilidades, entretanto foi definido que o objetivo da criação do protótipo de alta fidelidade seria propor melhorias para o site que já está no ar. Portanto, ao invés de criar do zero um novo modelo foi aproveitado as telas já existentes e melhorias foram realizadas conforme os conhecimentos adquiridos durante a matéria e informações geradas nas entrevistas de protóripos anteriores.
+O site da Faculdade de Arquitetura e Urbanismo é funcional e possui diversas utilidades, entretanto, foi definido que o objetivo da criação do protótipo de alta fidelidade seria propor melhorias para o site que já está no ar. Portanto, ao invés de criar do zero um novo modelo, foram aproveitadas as telas já existentes e melhorias foram realizadas conforme os conhecimentos adquiridos ao longo da disciplina e informações geradas nas entrevistas de protótipos anteriores.
 </p>
 
 ## 3. Protótipo
@@ -28,10 +27,9 @@ Abaixo temos o protótipo criado pela equipe. <a href="https://www.figma.com/pro
 
 ## 4. Conclusão
 
-Com base no protótipo apresentado nesse documento, que contém diversas melhorias em relação ao atual site da Faculdade de Arquitetura e Urbanismo, será realizada uma avaliação conforme o documento de [planejamento de avaliação do protótipo de alta fidelidade](planej-avaliacao-prototipo-alta-fidelidade.md) para garantir que as alterações realizadas realmente refletiram em um produto de maior qualidade.
+Com base no protótipo apresentado nesse documento, que contém diversas melhorias em relação ao atual site da Faculdade de Arquitetura e Urbanismo, será realizada uma avaliação conforme o documento de [Planejamento da avaliação do protótipo de alta fidelidade](planej-avaliacao-prototipo-alta-fidelidade.md),  para garantir que as alterações realizadas realmente refletiram em um produto de maior qualidade.
 
 ## 5. Referências
 
-<p align="justify">
-PREECE, J.; ROGERS, Y; SHARP, H. Design de Interação: Além da interação homem-computador.
-</p>
+> PREECE, J.; ROGERS, Y; SHARP, H. Design de Interação: Além da interação homem-computador.
+
