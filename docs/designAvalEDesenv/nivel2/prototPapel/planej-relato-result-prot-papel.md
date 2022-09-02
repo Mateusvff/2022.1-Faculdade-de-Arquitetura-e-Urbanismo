@@ -4,12 +4,13 @@
 ### Histórico de Versões
 
 **Data** | **Versão** | **Descrição** | **Autor(es/as)** | **Revisor**
-:---: | :---: | :---: | :---:  | :---:
+:---: | :---: | :--- | :---:  | :---:
 17/08/2022 | 0.1 | Criação de Planejamento de relato do protótipo de papel | Laura Pinos | Letícia Aires
+02/09/2022 | 0.2 | Adição das ferramentas a serem utilizadas e correção da Introdução e Metodologias | Matheus Costa | Laura Pinos
 
 
 ## 1. Introdução
-O planejamento do protótipo consiste em entender como funcionará o protótipo e o resultado das entrevistas realizadas previamente com os estudantes da FAU e simulação da Persona.
+O Planejamento do Relato dos Resultados consiste definir algumas etapas que servirão de base para a estrutura do documento do Relato dos Resultados, que irá conter a descrição de como ocorreu o processo da avaliação do protótipo de papel.
 
 ## 2. Metodologia
 Serão realizadas entrevistas com estudantes da FAU, utilizando o protótipo elaborado pela equipe, baseado na interface do site. Com os resultados, analisaremos como será projetado o protótipo de alta fidelidade.
@@ -22,7 +23,7 @@ Para realização das entrevistas foi decidido que seriam utilizadas as seguinte
 - Microsoft Teams: gravação da entrevista
 - YouTube: disponibilização do vídeo
 
-## 4. Relato dos resultados
+## 4. Tópicos dos resultados
 
 De acordo com Barbosa e Silva (2010, p.320-321), o relato dos resultados de uma avaliação heurística geralmente contém:
 
