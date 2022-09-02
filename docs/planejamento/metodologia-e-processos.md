@@ -9,6 +9,7 @@
 16/07/2022 | 0.3 | Adição de legenda da tabela de ferramentas | Matheus Costa | Caio César 
 29/07/2022 | 0.4 | Adição de ferramenta | Letícia Aires | Caio César
 01/08/2022 | 0.5 | Atualização da tabela de ferramentas utilizadas | Matheus Costa | Letícia Aires
+02/09/2022 | 0.6 | Atualização da tabela de ferramentas utilizadas | Matheus Costa | Caio César
 
 ## 1. Introdução
 
@@ -93,6 +94,7 @@ A Tabela 1 abaixo mostra quais foram as ferramentas utilizadas pela equipe ao lo
 |<img src="https://user-images.githubusercontent.com/72279998/182247936-cec95cfa-0619-41f7-808f-21859692cc48.png" height= 60 width=60> | OBS Studio | Software para gravação de vídeos. |
 |<img src="https://user-images.githubusercontent.com/72279998/182248688-2afa7006-cf91-4afc-9836-faa29b105dd6.png" height= 60 width=60> | Clipchamp | Editor de vídeos. |
 |<img src="https://github.com/Interacao-Humano-Computador/2022.1-Faculdade-de-Arquitetura-e-Urbanismo/raw/development/docs/assets/figma-logo.png" height= 60 width=60> | Figma | Ferramenta para prototipagem. |
+|<img src="https://user-images.githubusercontent.com/72279998/188236391-72273e65-1e86-4d9b-9395-cf1165f57aeb.png" height= 90 width=90> | YouTube | Ferramenta para postagem de vídeos. |
 <h6 align = "center">Tabela 1: ferramentas utilizadas</h6>
 
 ## 5. Referências
