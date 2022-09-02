@@ -27,7 +27,7 @@ Maiores detalhes sobre as entrevistas e suas gravações podem ser visualizados 
 
 ## 3. Resultados
 
-Buscando seguir a [estrutura estabelecida](planej-relato-result-prot-papel.md#3-resultados) no Planejamento dos Relatos, serão descritos alguns tópicos com base nos resultados obtidos.
+Buscando seguir a estrutura estabelecida no devido tópico no [Planejamento dos Relatos](planej-relato-result-prot-papel.md), serão descritos alguns tópicos com base nos resultados obtidos.
 
 ### **- Objetivos e escopo**
 

@@ -23,7 +23,7 @@ Para realização das entrevistas foi decidido que seriam utilizadas as seguinte
 - Microsoft Teams: gravação da entrevista
 - YouTube: disponibilização do vídeo
 
-## 4. Tópicos dos resultados
+## 4. Estrutura dos resultados
 
 De acordo com Barbosa e Silva (2010, p.320-321), o relato dos resultados de uma avaliação heurística geralmente contém:
 
