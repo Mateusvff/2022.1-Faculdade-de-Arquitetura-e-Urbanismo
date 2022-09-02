@@ -27,4 +27,5 @@ De acordo com Barbosa e Silva (2010, p.320-321), o relato dos resultados de uma 
 * um planejamento para o reprojeto do sistema.
 
 ## 4. Referências
-> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação
+
+> BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**. 1ª Edição. Elsevier, 2010.
