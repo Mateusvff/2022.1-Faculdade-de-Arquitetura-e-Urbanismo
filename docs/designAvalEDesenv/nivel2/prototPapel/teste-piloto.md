@@ -12,7 +12,9 @@
 
 Barbosa e Silva (2010, p. 133) definem que um estudo-piloto é uma pequena prévia do estudo principal, com o objetivo de assegurar que o estudo é viável e permitirá coletar os dados desejados e realizar as análises planejadas.
 
-Diante disso, e do conteúdo aprendido nos estudos da disciplina, a equipe realizou um teste-piloto seguindo o formato que viria a ser implementado durante as entrevistas com as estudantes participantes desse processo
+Diante disso, e do conteúdo aprendido nos estudos da disciplina, a equipe realizou um teste-piloto seguindo o formato que viria a ser implementado durante as entrevistas com as estudantes participantes desse processo.
+
+Maiores detalhes sobre a realização das entrevistas podem ser encontrados no documento do [Relato dos Resultados do Protóipo de Papel](relato-result-prot-papel.md).
 
 ## 2. Teste-piloto
 
