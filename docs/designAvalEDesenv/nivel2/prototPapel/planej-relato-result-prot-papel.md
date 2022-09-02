@@ -12,7 +12,7 @@
 O planejamento do protótipo consiste em entender como funcionará o protótipo e o resultado das entrevistas realizadas previamente com os estudantes da FAU e simulação da Persona.
 
 ## 2. Metodologia
-Serão realizadas entrevistas com estudantes da FAU, utilizando o site da mesma. Com os resultados, analisaremos como será projetado o protótipo de papel e nos guiaremos por ele juntamente com o Storyboard.
+Serão realizadas entrevistas com estudantes da FAU, utilizando o protótipo elaborado pela equipe, baseado na interface do site. Com os resultados, analisaremos como será projetado o protótipo de alta fidelidade.
 
 ## 3. Ferramentas
 
@@ -22,7 +22,7 @@ Para realização das entrevistas foi decidido que seriam utilizadas as seguinte
 - Microsoft Teams: gravação da entrevista
 - YouTube: disponibilização do vídeo
 
-## 4. Resultados
+## 4. Relato dos resultados
 
 De acordo com Barbosa e Silva (2010, p.320-321), o relato dos resultados de uma avaliação heurística geralmente contém:
 
