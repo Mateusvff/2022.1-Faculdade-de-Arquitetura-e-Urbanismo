@@ -14,7 +14,15 @@ O planejamento do protótipo consiste em entender como funcionará o protótipo 
 ## 2. Metodologia
 Serão realizadas entrevistas com estudantes da FAU, utilizando o site da mesma. Com os resultados, analisaremos como será projetado o protótipo de papel e nos guiaremos por ele juntamente com o Storyboard.
 
-## 3. Resultados
+## 3. Ferramentas
+
+Para realização das entrevistas foi decidido que seriam utilizadas as seguintes ferramentas:
+
+- WhatsApp: comunicação com o entrevistado 
+- Microsoft Teams: gravação da entrevista
+- YouTube: disponibilização do vídeo
+
+## 4. Resultados
 
 De acordo com Barbosa e Silva (2010, p.320-321), o relato dos resultados de uma avaliação heurística geralmente contém:
 
@@ -26,6 +34,6 @@ De acordo com Barbosa e Silva (2010, p.320-321), o relato dos resultados de uma 
 * uma lista dos problemas encontrados;
 * um planejamento para o reprojeto do sistema.
 
-## 4. Referências
+## 5. Referências
 
 > BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**. 1ª Edição. Elsevier, 2010.
