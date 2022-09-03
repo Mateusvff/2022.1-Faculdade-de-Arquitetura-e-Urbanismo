@@ -103,6 +103,10 @@ Além disso o entrevistador deve convidar o participante a responder as seguinte
 4  | Você cometeu algum erro durante a execução das tarefas? | [sim] [não]
 5  | Você classificaria sua experiência com a interface de uma forma mais positiva ou negativa? | [positiva] [negativa]
 6  | Existe alguma melhoria que poderia ser aplicada na interface para melhorar a usabilidade? | (discursiva)
+7  | O protótipo de alta fidelidade reflete em um produto final que poderia ser utilizado pela Faculdade de Arquitetura e Urbanismo? | [sim] [não]
+8  | A interface do protótipo segue o padrão do atual site da Faculdade de Arquitetura e Urbanismo? | [sim] [não]
+9  | Quais são os pontos fortes e fracos do protótipo, na opinião dos usuários? | (discursiva)
+10 | Você se sentiu familiarizado com o design do protótipo? | [sim] [não]
 
 ## 8. Referências
 
