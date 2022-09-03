@@ -9,6 +9,7 @@
 29/08/2022 | 0.2 | Planejamento da Avaliação | Thalisson | Caio César
 31/08/2022 | 0.3 | Termo de consentimento | Thalisson | Caio César
 31/08/2022 | 0.4 | Coleta e interpretação de dados | Thalisson | Caio César
+03/09/2022 | 0.5 | Adição de novas perguntas | Thalisson | Caio César
 
 ## 1. Introdução
 
@@ -99,7 +100,7 @@ Além disso o entrevistador deve convidar o participante a responder as seguinte
 :---: | ---| --- | 
 1  | Você já havia acessado o site da Faculdade de Arquitetura e Urbanismo anteriormente? | [sim] [não] 
 2  | Você se sentiu confortável com a interface apresentada? | [sim] [não]
-3  | Em uma escala de 1 a 5, qual valor você daria para a dificuldade na execução da tarefa de `Consulta de fluxograma para o curso de graduação`, considerando que 1 significa muito difícil e 5, muito fácil? | <ul><li>1 - muito difícil</li><li>2 - difícil</li><li>3 - neutro</li><li>4 - fácil</li><li>5 - muito fácil</li></ul>
+3  | Em uma escala de 1 a 5, qual valor você daria para a dificuldade na execução da tarefa de **Consulta de fluxograma para o curso de graduação**, considerando que 1 significa muito difícil e 5, muito fácil? | <ul><li>1 - muito difícil</li><li>2 - difícil</li><li>3 - neutro</li><li>4 - fácil</li><li>5 - muito fácil</li></ul>
 4  | Você cometeu algum erro durante a execução das tarefas? | [sim] [não]
 5  | Você classificaria sua experiência com a interface de uma forma mais positiva ou negativa? | [positiva] [negativa]
 6  | Existe alguma melhoria que poderia ser aplicada na interface para melhorar a usabilidade? | (discursiva)
