@@ -7,6 +7,7 @@
 --- | --- | --- | --- | --- |
 04/08/2022 | 0.1 | Criação do Documento | Matheus Costa | Thalisson Alves
 07/08/2022 | 0.2 | Adição do conteúdo do documento | Thalisson Alves | Matheus Costa
+04/09/2022 | 0.3 | Incrementação do Relato e consolidação dos resultados | Thalisson Alves | Caio César
 
 ## 1. Introdução
 
