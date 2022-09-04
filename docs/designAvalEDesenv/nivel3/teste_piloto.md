@@ -21,7 +21,7 @@ O teste piloto foi realizado com a participação dos integrantes Mateus Viníci
 
 A gravação desse teste pode ser vista no vídeo abaixo: 
 
-<iframe width="560" height="315" src="https://youtu.be/isuiu8iN5nQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/isuiu8iN5nQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h6 align = "center">Vídeo: gravação do teste piloto para protótipo de alta fidelidade <br>Fonte: autores </h6>
 
