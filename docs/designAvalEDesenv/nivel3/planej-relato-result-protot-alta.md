@@ -9,7 +9,7 @@
 
 ## 1. Introdução
 
-O Planejamento do Relato dos Resultados consiste definir algumas etapas que servirão de base para a estrutura do documento do Relato dos Resultados, que irá conter a descrição de como ocorreu o processo da avaliação do protótipo de papel.
+O Planejamento do Relato dos Resultados consiste definir algumas etapas que servirão de base para a estrutura do documento do Relato dos Resultados, que irá conter a descrição de como ocorreu o processo da avaliação do [Protótipo de alta fidelidade](prototipo-alta-fidelid.md).
 
 ## 2. Metodologia
 
