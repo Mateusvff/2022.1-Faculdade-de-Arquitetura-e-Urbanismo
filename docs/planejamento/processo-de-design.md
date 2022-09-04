@@ -9,6 +9,7 @@
 03/07/2022 | 0.2 | Adição das informações referentes ao artefato | Thalisson | Matheus Costa
 16/07/2022 | 0.3 | Adição de legenda da figura do Ciclo de Mayhew | Matheus Costa | Caio César 
 29/07/2022 | 0.4 | Adição e padronização de fontes na figura | Thalisson Alves | Letícia Aires
+03/09/2022 | 0.5 | Adição da conclusão | Thalisson Alves | Caio César
 
 ## 1. Introdução
 O processo de design de IHC envolve as seguintes atividades: análise da situação atual (para identificar o problema), a síntese de uma intervenção e a avaliação dessa intervenção projetada ou já aplicada à situação atual. Cada processo de design detalha essas atividades de um jeito diferente, definindo como executar as atividades, quais artefatos cada uma consumirá e produzirá, a ordem de execução, quais atividades podem se repetir e por quais motivos.
@@ -34,5 +35,9 @@ A fase de **design, avaliação e desenvolvimento** tem por objetivo conceber um
 
 Na fase de **instalação**, o designer deve coletar opiniões dos usuários depois de algum tempo de uso, elas são úteis para melhorar o sistema nas próximas versões ou desenvolver novos sistemas não previstos.
 
-## 4. Referências
+## 4. Conclusão
+
+Devido às características apontadas acima sobre os diferentes processos de design, a equipe adotou o Ciclo de Vida de Mayhew, para que assim possamos buscar o melhor desenvolvimento e organização do projeto como um todo.
+
+## 5. Referências
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação
