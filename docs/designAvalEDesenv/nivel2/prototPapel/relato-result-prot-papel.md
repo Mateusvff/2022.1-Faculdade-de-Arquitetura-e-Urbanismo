@@ -81,7 +81,7 @@ Vale ressaltar também que a interface apresentada recebeu elogios quanto a sua 
 
 ### **- Problemas encontrados**
 
-O principal problema que pôde ser observado por meio das entrevistas, com relação ao site da FAU, é que o mesmo por vezes apresenta uma forma mais extensa e até mesmo complicada de conseguir realizar uma atividade simples na sua interface, indo de encontro com alguns dos fatores de usabilidade considerados por Nielsen (BARBOSA; SILVA; 2010, p.29), como de Eficiência e Eficácia.
+Daquilo que pôde ser analisado das entrevistas, não foram encontrados problemas maiores com o nosso protótipo.
 
 ### **- Planejamento para o reprojeto**
 
