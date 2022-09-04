@@ -83,7 +83,7 @@ O teste piloto visa responder as perguntas listadas abaixo:
 
 ### 6.4. Protótipo de alta fidelidade
 
-Abaixo temos o protótipo de alta fidelidade desenvolvido a partir das tarefas e dos _feedbacks_ coletados durante o [relato dos resultados do protótipo de papel](../nivel2/prototPapel/relato-result-prot-papel.md).
+Para acessar o protótipo de alta fidelidade desenvolvido para esta avaliação [clique aqui](./prototipo-alta-fidelid.md).
 
 ## 7. Coleta de dados e interpretação
 
