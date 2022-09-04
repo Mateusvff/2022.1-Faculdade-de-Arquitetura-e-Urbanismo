@@ -21,7 +21,7 @@ Diante do apresentado anteriormente, e buscando trazer um maior preparo ao grupo
 
 ### 2.1. Entrevistas
 
-Buscando a uma validação do artefato criado, foram realizadas duas entrevistas com duas estudantes do curso de Arquitetura e Urbanismo da UnB. O entrevistador foi o integrante Mateus Franco, que conduziu ambas as entrevistas de maneira semelhante, apresentando logo de início o [Termo de Consentimento](../../../analise-de-requisitos/aspectos-eticos.md#3-termo-de-consentimento) para as participantes e em seguida realizando uma simulação do uso do sistema e finalizando com uma sequência de perguntas, buscando saber a opinião das participantes sobre o uso do sistema utilizado, seguindo o previsto no [Planejmento da Avaliação](planej-avaliacao-prototipo-papel.md).
+Buscando a uma validação do artefato criado, foram realizadas duas entrevistas com duas estudantes do curso de Arquitetura e Urbanismo da UnB. O entrevistador foi o integrante Mateus Franco, que conduziu ambas as entrevistas de maneira semelhante, apresentando logo de início o [Termo de Consentimento](../../../analise-de-requisitos/aspectos-eticos.md#3-termo-de-consentimento) para as participantes e em seguida realizando uma simulação do uso do sistema e finalizando com uma sequência de perguntas, buscando saber a opinião das participantes sobre o uso do sistema utilizado, conforme o explicitado no tópico de Coleta de Dados do [Planejamento da Avaliação](planej-avaliacao-prototipo-papel.md).
 
 As entrevistas ocorreram no dia 29/08/2022, uma às 19h e outra às 21h, e o ambiente de realização/gravação das entrevistas foi o Microsoft Teams.
 

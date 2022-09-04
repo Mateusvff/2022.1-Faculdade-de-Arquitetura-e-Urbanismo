@@ -15,6 +15,10 @@ O Planejamento do Relato dos Resultados consiste definir algumas etapas que serv
 ## 2. Metodologia
 Serão realizadas entrevistas com estudantes da FAU, utilizando o protótipo elaborado pela equipe, baseado na interface do site. Com os resultados, analisaremos como será projetado o protótipo de alta fidelidade.
 
+Porém antes da realização das entrevistas, deverá ser realizado um teste-piloto, como forma de preparo e com o fim de evitar possíveis problemas durante a condução das entrevistas de fato.
+
+O documento do relato também deverá apresentar dados como datas e horários da realização das entrevistas.
+
 ## 3. Ferramentas
 
 Para realização das entrevistas foi decidido que seriam utilizadas as seguintes ferramentas:
@@ -34,6 +38,8 @@ De acordo com Barbosa e Silva (2010, p.320-321), o relato dos resultados de uma 
 * um relato da interpretação e análise dos dados;
 * uma lista dos problemas encontrados;
 * um planejamento para o reprojeto do sistema.
+
+Desta forma, o documento do relato deve conter uma descrição coerente dos tópicos apresentados acima, com base nos resultados das entrevistas.
 
 ## 5. Referências
 
