@@ -25,6 +25,8 @@ Os resultados de cada inspeção deverão ser consolidados através de um único
 - Uma lista dos problemas encontrados.
 - Um planejamento para o reprojeto do sistema.
 
+Após a produção deste relatório, os avaliadores deveram escrever uma conclusão listando todos os problemas identificados durante a avaliação, para que assim esses problemas possam ser resolvidos posteriormente.
+
 ## 3. Conclusão
 
 Seguindo os critérios estabelecidos anteriormente, em [**Relato e consolidação dos resultados**](#2-relato-e-consolidacao-dos-resultados), será possível interpretar, consolidar e documentar os resultados obtidos através da execução da avaliação dos *Storyboards*, permitindo assim um planejamento para a correção dos problemas encontrados.
