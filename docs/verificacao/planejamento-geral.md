@@ -51,7 +51,7 @@ Os artefatos verificados foram:
 - [Relato dos Resultados - Storyboard](../designAvalEDesenv/nivel1/storyboard/relato-da-avalia%C3%A7%C3%A3o-do-storyboard.md)
 - [Storyboard](../designAvalEDesenv/nivel1/storyboard/storyboard.md)
 - [Planejamento da Avaliação - Protótipo de Papel](../designAvalEDesenv/nivel2/prototPapel/planej-avaliacao-prototipo-papel.md)
-- [Planejamento dos Relatos - Protótipo de Papel](../designAvalEDesenv/nivel2/prototPapel/relato_papel.md)
+- [Planejamento dos Relatos - Protótipo de Papel](../designAvalEDesenv/nivel2/prototPapel/planej-relato-result-prot-papel.md)
 - [Protótipo de papel](../designAvalEDesenv/nivel2/prototPapel/planej-avaliacao-prototipo-papel.md)
 
 ## 3. Planejamento
