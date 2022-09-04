@@ -7,10 +7,11 @@
 --- | --- | --- | --- | --- |
 04/08/2022 | 0.1 | Criação do Documento | Matheus Costa | Thalisson Alves
 07/08/2022 | 0.2 | Adição do conteúdo do documento | Thalisson Alves | Matheus Costa
+04/09/2022 | 0.3 | Incrementação do Relato e consolidação dos resultados | Thalisson Alves | Caio César
 
 ## 1. Introdução
 
-Os resultados individuais devem ser consolidados e analisados em conjunto uma vez que for concluída a interpretação individual dos dados coletados das previsões dos avaliadores ou das observações das experiências de uso dos participantes. Nessa etapa é importante que os avaliadores busquem recorrências nos resultados de acordo com o método selecionado, para fazer uma distinção entre características representativas de um grupo e as idiossincrasias de participantes individuais. Normalmente os resultados de uma avaliação de Interação Humano-Computador indicam tendências de problemas, e não a certeza que eles irão ocorrer em algum momento.
+Os resultados individuais devem ser consolidados e analisados em conjunto uma vez que for concluída a interpretação individual dos dados coletados das previsões dos avaliadores ou das observações das experiências de uso dos participantes. Nessa etapa, é importante que os avaliadores busquem recorrências nos resultados de acordo com o método selecionado, para fazer uma distinção entre características representativas de um grupo e as idiossincrasias de participantes individuais. Normalmente os resultados de uma avaliação de Interação Humano-Computador indicam tendências de problemas, e não a certeza que eles irão ocorrer em algum momento.
 
 ## 2. Relato e consolidação dos resultados
 
@@ -24,6 +25,8 @@ Os resultados de cada inspeção deverão ser consolidados através de um único
 - Um relato da interpretação e análise dos dados.
 - Uma lista dos problemas encontrados.
 - Um planejamento para o reprojeto do sistema.
+
+Após a produção deste relatório, os avaliadores deverão escrever uma conclusão listando todos os problemas identificados durante a avaliação, para que assim esses problemas possam ser resolvidos posteriormente.
 
 ## 3. Conclusão
 
