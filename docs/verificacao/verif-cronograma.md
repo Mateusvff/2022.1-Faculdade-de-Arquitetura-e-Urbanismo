@@ -47,13 +47,13 @@ ID | Questão | Inspeção
 11 | Todas as tabelas de divisão de atividades possuem data limite para conclusão da revisão? | ✅
 12 | A atividade de gravação e edição de vídeo está prevista em todas as entregas? | ❌
 
-<h6 align = "center">Tabela 1: checklist do relato da avaliação do Storyboard<br>Fonte: Autores. </h6>
+<h6 align = "center">Tabela 1: checklist do Cronograma de atividades<br>Fonte: Autores. </h6>
 
 ## 4. Acompanhamento
 ### 4.1. Porcentagem de sucesso da checklist
 
-- 1 ERROS e 9 ACERTOS
-- 90% de acertos.
+- 1 ERROS e 11 ACERTOS
+- 91,7% de acertos.
 
 ### 4.2. Gráfico de acompanhamento
 
