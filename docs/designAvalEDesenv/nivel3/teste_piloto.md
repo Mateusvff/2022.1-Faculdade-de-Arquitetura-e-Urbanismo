@@ -23,8 +23,8 @@ O teste piloto foi realizado pelo entrevistador Mateus Vinícius e pelo entrevis
 
 Por meio da realização do teste piloto, observou-se a necessidade de manter determinados documentos em locais de fácil acesso, sendo esses:
 - Termo de Consentimento;
-- Protótipo de Alta Fidelidade;
 - Planejamento da Avaliação do Protótipo de Alta Fidelidade;
+- Protótipo de Alta Fidelidade;
 
 ## Bibliografia
 
