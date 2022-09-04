@@ -17,7 +17,7 @@ A avaliação do protótipo de alta fidelidade é uma parte fundamental para con
 
 ## 2. Objetivo
 
-Este planejamento tem por objetivo definir todas as fazes que serão realizadas durante a avaliação do protótipo de alta fidelidade, para que assim possamos identificar os defeitos do protótipo e corrigi-los. Além disso será observado os critérios de usabilidade listados a seguir:
+Este planejamento tem por objetivo definir todas as fases que serão realizadas durante a avaliação do protótipo de alta fidelidade, para que assim possamos identificar os defeitos do protótipo e corrigi-los. Além disso será observado os critérios de usabilidade listados a seguir:
 
 - Facilidade de aprendizado: verificar o quão fácil é de um usuário novo utilizar o sistema.
 - Facilidade de recordação: verificar se a interface possui componentes que facilitam sua memorização.
