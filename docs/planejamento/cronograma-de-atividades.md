@@ -157,4 +157,4 @@ Laura Pinos | Planejamento do relato dos resultados da avaliação do protótipo
 <h6 align = "center">Tabela 8: atividades da Sprint 7<br>
 Fonte: autores</h6>
 
-Além disso todos integrantes serão responsáveis pelas correções dos próprios documentos verificados na verificação de artefatos da sprint anterior. 
+Além disso todos integrantes serão responsáveis pelas correções dos próprios documentos verificados na verificação de artefatos da sprint anterior à esta. 
