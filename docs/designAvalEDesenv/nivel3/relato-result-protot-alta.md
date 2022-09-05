@@ -24,7 +24,7 @@ Nesse sentido, foram analisados critérios de usabilidade como:
 
 A metodologia adotada para esta avaliação será o método de investigação por **entrevistas**, no qual o entrevistador Mateus Vinícius ficou responsável pela  pela gravação e posterior coleta dos dados.
 
-Primeiramente, foi realizado um [teste piloto](teste_piloto.md) a fim de verificar possíveis falhas no planejamento da avaliação do relato de resultados do protótipo de alta fidelidade. Após tal confirmação, deu-se início em 03/09, através da plataforma Microsoft Teams, à entrevista com a graduanda de Arquitetura e Urbanismo, Brenda Chystine Rodrigues.
+Primeiramente, foi realizado um [teste piloto](teste_piloto.md) a fim de verificar possíveis falhas no planejamento da avaliação do relato de resultados do protótipo de alta fidelidade. Após tal confirmação, deu-se início, através da plataforma Microsoft Teams, à entrevista com a graduanda de Arquitetura e Urbanismo, Brenda Chystine Rodrigues no dia 03/09 às 17:30.
 
 Maiores detalhes sobre a entrevista podem ser vistos [aqui](entrevista.md).
 

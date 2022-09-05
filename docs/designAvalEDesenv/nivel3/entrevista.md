@@ -14,7 +14,7 @@ O presente documento tem como fito a apresentação do vídeo da entrevista cond
 O andamento da entrevista se deu pelo entrevistador Mateus Vinícius por meio da plataforma Microsoft Teams:
 
 ## 2. Entrevista
-A primeira entrevista foi realizada às 17:30 do dia 16/08/2022 e está registrada em formato de vídeo no youtube como não listado. O vídeo também pode ser visualizado abaixo:
+A primeira entrevista foi realizada às 17:30 do dia 03/09/2022 e está registrada em formato de vídeo no youtube como não listado. O vídeo também pode ser visualizado abaixo:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MaZvYUwsMpU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

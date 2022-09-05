@@ -4,8 +4,8 @@
 
 **Data** | **Versão** | **Descrição** | **Autor(es/as)** | **Revisor**
 --- | --- | --- | --- | ---
-31/08/2022 | 0.1 | Criação do documento e adição do documento | Laura Pinos | Matheus Costa
-04/09/2022 | 0.2 | Correções no documento | Matheus Costa | Laura Pinos
+31/08/2022 | 0.1 | Criação do documento e adição do conteúdo do documento | Laura Pinos | Matheus Costa
+04/09/2022 | 0.2 | Correções no documento e adições de hyperlinks | Matheus Costa | Laura Pinos
 
 ## 1. Introdução
 
@@ -15,17 +15,15 @@ O Planejamento do Relato dos Resultados consiste definir algumas etapas que serv
 
 O método escolhido para a realização dessa avaliação foi o de **entrevista**, cujo objetivo é coletar dados e levantar requisitos. Geralmente é guiado por um roteiro de perguntas, tópicos e tarefas que o entrevistador utiliza para extrair informações do entrevistado. No nosso caso, esse "roteiro" já estava previsto no documento do [Planejamento da avaliação](planej-avaliacao-prototipo-alta-fidelidade.md), no qual as perguntas aparecem dispostas no tópico de Coleta de Dados.
 
-Será realizado também um teste piloto, com o fim de buscar eliminar possíveis problemas que possam afetar a qualidade da realização das entrevistas e a integridade dos dados recebidos.
-
-Após a entrevista, a interpretação das informações recebidas será orientada pelo plano de avaliação e pelo método escolhido.  
+Será realizado também um teste piloto, com o fim de buscar eliminar possíveis problemas que possam afetar a qualidade da realização das entrevistas e a integridade dos dados recebidos. 
 
 ### 2.1. Informações extras
 
-O documento dos relatos deverá também apresentar informações como data de realição dos procedimentos, horários e indicar os participantes envolvidos em cada situação. 
+O documento dos relatos deverá também apresentar informações como data de realização dos procedimentos (entrevistas e teste-piloto), horários e indicar os participantes envolvidos em cada situação. 
 
 ## 3. Participantes
 
-O grupo deve identificar os participantes da entrevista e levar em consideração que o participante deve permanecer dentro dos [perfis de usuário](../../analise-de-requisitos/Perfil-de-usuario.md) definidos ao longo da disciplina. Uma vez encontrado o participante, deve haver uma descrição breve a seu respeito que esteja de acordo com os perfis estabelecidos.
+No relato dos resultados, o grupo deve identificar os participantes da entrevista e levar em consideração que o entrevistado deve possuir um perfil coerente com os [perfis de usuário](../../analise-de-requisitos/Perfil-de-usuario.md) definidos ao longo da disciplina. Uma vez encontrado o participante, deve haver uma descrição breve a seu respeito, para que suas características sejam verificáveis quanto à compatibilidade com os perfis estabelecidos.
 
 ## 4. Conclusão
 

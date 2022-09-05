@@ -19,7 +19,7 @@ O teste piloto tem como objetivo elucidar eventuais falhas que podem ser experie
 ## 3. Gravação do teste-piloto
 O teste piloto foi realizado com a participação dos integrantes Mateus Vinícius, como entrevistador, e Caio César como entrevistado. 
 
-A gravação desse teste pode ser vista no vídeo abaixo: 
+A gravação ocorreu no dia 03/09 por volta das 15:30 e pode ser vista no vídeo abaixo: 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/isuiu8iN5nQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
