@@ -9,6 +9,7 @@
 31/08/2022 | 0.3 | Termo de consentimento | Thalisson | Caio César
 31/08/2022 | 0.4 | Coleta e interpretação de dados | Thalisson | Caio César
 03/09/2022 | 0.5 | Adição de novas perguntas | Thalisson | Caio César
+04/09/2022 | 0.6 | Adição do planejamento prévio | Caio César | Thalisson
 
 ## 1. Introdução
 
@@ -108,6 +109,10 @@ Além disso o entrevistador deve convidar o participante a responder as seguinte
 9  | Quais são os pontos fortes e fracos do protótipo, na opinião dos usuários? | (discursiva)
 10 | Você se sentiu familiarizado com o design do protótipo? | [sim] [não]
 
-## 8. Referências
+## 8. Planejamento Prévio
+
+O teste piloto está planejado para o dia 03/09 com o integrante Caio César, às 15 horas. Será realizado por meio do teams, por meio da ferramenta que permite solicitar controle da tela o entrevistado poderá ter acesso ao figma pelo computador do entrevistador (Mateus Vinícius) sem ser necessário abrir no seu próprio computador. Assim as atividades serão realizadas pelo teams mesmo, acessando o figma, a tarefa será gravada utilizando a própria ferramenta do teams de gravar a reunião. A entrevista com um estudante da Faculdade de Arquitetura e Urbanismo será realizada no mesmo dia às 17 horas da mesma forma que será realizado o teste piloto.
+
+## 9. Referências
 
 > BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**. 1ª Edição. Elsevier, 2010.
