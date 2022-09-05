@@ -111,7 +111,7 @@ Além disso o entrevistador deve convidar o participante a responder as seguinte
 
 ## 8. Planejamento Prévio
 
-O teste piloto está planejado para o dia 03/09 com o integrante Caio César, às 15 horas. Será realizado por meio do teams, por meio da ferramenta que permite solicitar controle da tela o entrevistado poderá ter acesso ao figma pelo computador do entrevistador (Mateus Vinícius) sem ser necessário abrir no seu próprio computador. Assim as atividades serão realizadas pelo teams mesmo, acessando o figma, a tarefa será gravada utilizando a própria ferramenta do teams de gravar a reunião. A entrevista com um estudante da Faculdade de Arquitetura e Urbanismo será realizada no mesmo dia às 17 horas da mesma forma que será realizado o teste piloto.
+O teste piloto está planejado para o dia 03/09 com o integrante Caio César, às 15 horas. Será realizado por meio do teams, por meio da ferramenta que permite solicitar controle da tela o entrevistado poderá ter acesso ao figma pelo computador do entrevistador (Mateus Vinícius) sem ser necessário abrir no seu próprio computador. Assim as atividades serão realizadas pelo teams mesmo, acessando o figma, a tarefa será gravada utilizando a própria ferramenta do teams de gravar a reunião. A entrevista com um estudante da Faculdade de Arquitetura e Urbanismo (Brenda Chystine Rodrigues) será realizada no mesmo dia às 17 horas da mesma forma que será realizado o teste piloto.
 
 ## 9. Referências
 
