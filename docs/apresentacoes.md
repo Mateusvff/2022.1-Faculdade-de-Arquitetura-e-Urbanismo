@@ -65,7 +65,7 @@
 
 > Disponibilizado dia 22 de agosto de 2022
 
-## Apresentação 7 - : Relato dos resultados do Protótipo de Papel, o Planejamento da Avaliação do protótipo de alta fidelidade e o planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade
+## Apresentação 7 - Relato dos resultados do Protótipo de Papel, o Planejamento da Avaliação do protótipo de alta fidelidade e o planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ALwtbzdiLNM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
