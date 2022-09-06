@@ -7,10 +7,11 @@
 :---: | :---: | :--- | :---:  | :---:
 17/08/2022 | 0.1 | Criação de Planejamento de relato do protótipo de papel | Laura Pinos | Letícia Aires
 02/09/2022 | 0.2 | Adição das ferramentas a serem utilizadas e correção da Introdução e Metodologias | Matheus Costa | Laura Pinos
+05/09/2022 | 0.3 | Adição de hyperlink para o protótipo de papel | Matheus Costa | Thalisson
 
 
 ## 1. Introdução
-O Planejamento do Relato dos Resultados consiste definir algumas etapas que servirão de base para a estrutura do documento do Relato dos Resultados, que irá conter a descrição de como ocorreu o processo da avaliação do protótipo de papel.
+O Planejamento do Relato dos Resultados consiste definir algumas etapas que servirão de base para a estrutura do documento do Relato dos Resultados, que irá conter a descrição de como ocorreu o processo da avaliação do [protótipo de papel](prototipo-de-papel.md).
 
 ## 2. Metodologia
 Serão realizadas entrevistas com estudantes da FAU, utilizando o protótipo elaborado pela equipe, baseado na interface do site. Com os resultados, analisaremos como será projetado o protótipo de alta fidelidade.

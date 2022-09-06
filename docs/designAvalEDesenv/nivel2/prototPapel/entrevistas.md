@@ -7,10 +7,11 @@
 --- | --- | --- | --- | --- |
 01/09/2022 | 0.1 | Criação do Documento | Matheus Costa | Mateus Franco
 02/09/2022 | 0.2 | Disponibilização dos vídeos e conteúdo do documento | Matheus Costa | Mateus Franco
+05/09/2022 | 0.3 | Correção/adição dos hyperlinks para o protótipo de papel | Matheus Costa | Mateus Franco
 
 ## 1. Introdução
 
-Neste documento estão as gravações das entrevistas realizadas com o fim de validar o Protótipo de Papel desenvolvido pelo grupo.
+Neste documento estão as gravações das entrevistas realizadas com o fim de validar o [Protótipo de Papel](prototipo-de-papel.md) desenvolvido pelo grupo.
 
 Maiores detalhes sobre os resultados obtidos por meio dessas entrevistas se encontram no documento do [relato dos resultados](relato-result-prot-papel.md).
 

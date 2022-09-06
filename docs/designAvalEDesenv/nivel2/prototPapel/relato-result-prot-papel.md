@@ -6,10 +6,11 @@
 --- | --- | --- | --- | --- |
 01/09/2022 | 0.1 | Criação do Documento | Matheus Costa | Mateus Franco
 01/09/2022 | 0.2 | Adição do corpo do texto | Matheus Costa | Mateus Franco
+05/09/2022 | 0.3 | Adição dos hyperlinks para o protótipo de papel | Matheus Costa | Mateus Franco
 
 ## 1. Introdução
 
-Este documento visa trazer um relato da condução das entrevistas realizadas pelo grupo com duas estudantes do curso de Arquitetura e Urbanismo da UnB, com o foco em validar o artefato do Protótipo de papel criado. Este documento buscou seguir a estrutura apresentada no [Planejamento do Relato dos Resultados](planej-relato-result-prot-papel.md) para descrever os resultados obtidos por meio da metodologia escolhida.
+Este documento visa trazer um relato da condução das entrevistas realizadas pelo grupo com duas estudantes do curso de Arquitetura e Urbanismo da UnB, com o foco em validar o artefato do [Protótipo de Papel](prototipo-de-papel.md) criado. Este documento buscou seguir a estrutura apresentada no [Planejamento do Relato dos Resultados](planej-relato-result-prot-papel.md) para descrever os resultados obtidos por meio da metodologia escolhida.
 
 ## 2. Metodologia
 
@@ -33,7 +34,7 @@ Buscando seguir a estrutura estabelecida no devido tópico no [Planejamento dos 
 
 ### **- Objetivos e escopo**
 
-As entrevistas tinham como objetivo validar o Protótipo de Papel desenvolvido pelo grupo. Com isso, o protótipo focou em implementar uma sequência de ações que abrangem os contextos das realizações das atividades descritas no documento de [Análise de Tarefas](../../../analise-de-requisitos/analise-de-tarefas.md#4-tarefas), sendo este o seu escopo.
+As entrevistas tinham como objetivo validar o [Protótipo de Papel](prototipo-de-papel.md) desenvolvido pelo grupo. Com isso, o protótipo focou em implementar uma sequência de ações que abrangem os contextos das realizações das atividades descritas no documento de [Análise de Tarefas](../../../analise-de-requisitos/analise-de-tarefas.md#4-tarefas), sendo este o seu escopo.
 
 ### **- Método de avaliação**
 
