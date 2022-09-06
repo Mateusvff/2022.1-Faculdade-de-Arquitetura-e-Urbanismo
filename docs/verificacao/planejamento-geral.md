@@ -6,6 +6,7 @@
 --- | --- | --- | --- | --- |
 22/08/2022 | 0.1 | Criação do Documento | Matheus Costa | Caio César
 22/08/2022 | 0.2 | Adição do corpo do texto | Matheus Costa | Caio César
+05/09/2022 | 0.3 | Correção do hyperlink para o protótipo de papel | Matheus Costa | Thalisson
 
 ## 1. Introdução
 
@@ -52,7 +53,7 @@ Os artefatos verificados foram:
 - [Storyboard](../designAvalEDesenv/nivel1/storyboard/storyboard.md)
 - [Planejamento da Avaliação - Protótipo de Papel](../designAvalEDesenv/nivel2/prototPapel/planej-avaliacao-prototipo-papel.md)
 - [Planejamento dos Relatos - Protótipo de Papel](../designAvalEDesenv/nivel2/prototPapel/planej-relato-result-prot-papel.md)
-- [Protótipo de papel](../designAvalEDesenv/nivel2/prototPapel/planej-avaliacao-prototipo-papel.md)
+- [Protótipo de papel](../designAvalEDesenv/nivel2/prototPapel/prototipo-de-papel.md)
 
 ## 3. Planejamento
 

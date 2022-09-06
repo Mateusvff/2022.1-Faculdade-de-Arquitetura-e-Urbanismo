@@ -17,7 +17,7 @@ Simular o uso em papel é um modo rápido e barato de identificar problemas de u
 
 ## 2. Finalidade do planejamento
 
-A principal finalidade deste documento é especificar como será feito a Avaliação do Protótipo em Papel, a fim de auxiliar os avaliadores em como serão feitas as atividades de: 
+A principal finalidade deste documento é especificar como será feito a Avaliação do [Protótipo de Papel](prototipo-de-papel.md), a fim de auxiliar os avaliadores em como serão feitas as atividades de: 
 
 * Preparação
 
@@ -41,7 +41,7 @@ Relato dos resultados | Relatar os problemas encontrados
 
 Os avaliadores deverão preparar as telas do sistema no formato em papel, em geral desenhadas à mão livre e sem a preocupação com detalhes de interface que não sejam relevantes para a avaliação, a fim de representar os elementos principais da interface com os quais os usuários vão interagir durante a simulação da interação.
 
-Foram definidas as atividades as quais serão realizadas pelos participantes durante a Avaliação do Protótipo em Papel, as quais serão:
+Foram definidas as atividades as quais serão realizadas pelos participantes durante a Avaliação do [Protótipo de Papel](prototipo-de-papel.md), as quais serão:
 
 1. Consulta de fluxograma do curso de graduação;
 
@@ -78,7 +78,7 @@ A coleta de dados deve ser realizada por, pelo menos, dois avaliadores:
 
 O responsável por simular o sistema busca compreender as ações do usuário sobre o protótipo apresentado e modificar a interface conforme o comportamento planejado para o sistema, sem, no entanto, fornecer explicações ou orientações para o usuário.
 
-No início da sessão, ele apresentará o protótipo em papel e explicará como estão representados os elementos de
+No início da sessão, ele apresentará o protótipo de papel e explicará como estão representados os elementos de
 interface e como os participantes podem interagir com eles.
 
 Durante a simulação da interação, o observador deve ficar atento a diversos aspectos:
@@ -113,25 +113,6 @@ Nesta etapa iremos analisar o protótipo e as anotações obtidas durante a cole
 
 Ao final da avaliação, na etapa de Relato dos Resultados, será criado um documento comunicando aos interessados como foi realizado processo desde a coleta de dados até a consolidação dos resultados. Neste documento será relatado o objetivo da avaliação, o número de entrevistados e como eles se saíram realizando as tarefas propostas e uma lista contendo problemas de usabilidade que foram corrigidos ou não.
 
-
-### 3.5. Protótipo de papel
-
-Esses são os protótipos de papel que definimos a partir das tarefas, visando avaliar o design e a usabilidade do site. Nele temos 6 telas, que estão descritas a seguir:
-
-- Tela inicial, que apresenta as principais notícias e informações pertinentes a seus usuários.
-- Tela de graduação, que lista algumas funcionalidades/informações pertinentes aos graduandos.
-- Tela de apresentação do fluxograma, para validar a usabilidade do sistema junto aos usuários.
-- Tela de pós-graduação, que lista algumas funcionalidades/informações pertinentes aos pós-graduandos.
-- Tela de listagem dos calendários acadêmicos da pós-graduação.
-- Tela de apresentação do calendário de matrícula em disciplina, para validar a usabilidade do sistema.
-
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F0c6zFSFHGjJqircoxlnQi5%2FProt%25C3%25B3tipo-de-papel%3Fnode-id%3D1%253A145%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26starting-point-node-id%3D1%253A145" allowfullscreen></iframe>
-
-<center>
-<figcaption>
-    Para acessar o protótipo acima, acesse este <a href='https://www.figma.com/file/0c6zFSFHGjJqircoxlnQi5/Prot%C3%B3tipo-de-papel?node-id=0%3A1' target='_blank'>link</a>
-</figcaption>
-</center>
 
 ## 4. Referências
 

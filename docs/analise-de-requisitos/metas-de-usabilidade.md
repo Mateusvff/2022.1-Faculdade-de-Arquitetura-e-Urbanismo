@@ -62,6 +62,6 @@ O sítio não fornece suportes os quais auxiliam os usuários durante a realiza�
 
 > BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**. 1ª Edição. Elsevier, 2010.
 
-> PREECE, Jennifer; ROGERS, Yvone; SHARP, Helen. Design de Interação: Além da Interação homemcomputador. Editora Bookman, São Paulo: 2005. 
+> PREECE, Jennifer; ROGERS, Yvone; SHARP, Helen. **Design de Interação**: Além da Interação homem-computador. Editora Bookman, São Paulo: 2005.
 
 > Diana Fournier. As 6 metas de Usabilidade. MEDIUM, 2016. Disponível em: https://medium.com/vivareal-ux-chapter/as-6-metas-de-usabilidade-9491442fd56a. Acesso em: 27 de set. de 2020.
