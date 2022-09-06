@@ -52,7 +52,11 @@ O checklist do artefato pode ser visualizado na Tabela 1 abaixo.
 
 ### 4.1. Gráfico de acompanhamento
 
+A Figura 1 abaixo revela o gráfico gerado com os dados do acompanhamento.
+
 ![image](https://user-images.githubusercontent.com/62102447/186055896-4e52c15b-f27a-4f34-833e-9daae95c2c3c.png)
+
+<h6 align = "center">Figura 1: gráfico do checklist de Personas <br>Fonte: Autores. </h6>
 
 ## 5. Correção
 

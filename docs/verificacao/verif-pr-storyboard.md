@@ -54,7 +54,8 @@ O checklist do artefato pode ser visualizado na Tabela 1 abaixo.
 
 A Figura 1 abaixo revela o gráfico gerado com os dados do acompanhamento.
 
-![checklist Processo de Design](https://github.com/Interacao-Humano-Computador/2022.1-Faculdade-de-Arquitetura-e-Urbanismo/blob/verif-caio/docs/assets/Captura%20de%20tela%202022-08-22%20224349.png?raw=true)
+![checklists planej. relato storyboard](https://user-images.githubusercontent.com/72279998/187323627-33dd52d2-63f0-4847-bf9e-5ae4a37f9d3f.png)
+
 
 <h6 align = "center">Figura 1: gráfico do checklist do Planejamento do relato dos resultados da avaliação do Storyboard <br>Fonte: Autores. </h6>
 

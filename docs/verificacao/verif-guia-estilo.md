@@ -49,20 +49,20 @@ O checklist do artefato pode ser visualizado na Tabela 1 abaixo.
 ## 4. Acompanhamento
 
 - 1 ERRO e 6 ACERTOS
-- 83,3% de acerto.
+- 83,4% de acerto.
 
 ### 4.1. Gráfico de acompanhamento
 
+A Figura 1 abaixo revela o gráfico gerado com os dados do acompanhamento.
+
 <img src="https://user-images.githubusercontent.com/72623771/186043126-8ad2c9e6-1286-4f4c-9d52-c1cd3a247a0b.png" width=500px></img>
 
-<figcaption align='center'>Figura 1: Gráfico pizza para a verificação do Guia de Estilo</figcaption>
-
-<figcaption>Fonte: Canva - Autoria própria</figcaption> 
+<h6 align = "center">Figura 1: Gráfico pizza para a verificação do Guia de Estilo <br>Fonte: Autoria própria. </h6>
 
 ## 5. Correção
 
-Por meio da condução da inspeção, observa-se que 83,3% dos itens da checklist foram satisfeitos.  Nesse sentido, os itens que não satisfizeram os critérios estabelecidos, receberão as tratativas necessárias para que se adequem aos padrãoes estabelecidos.
+Por meio da condução da inspeção, observa-se que 83,4% dos itens da checklist foram satisfeitos.  Nesse sentido, os itens que não satisfizeram os critérios estabelecidos, receberão as tratativas necessárias para que se adequem aos padrãoes estabelecidos.
 
 ## 6. Referências
 
-> [1] SERRANO, M.; SERRANO, M. Material de aula. **Requisitos - Aula 023 - Verificação e Validação**.
+> SERRANO, M.; SERRANO, M. Material de aula. **Requisitos - Aula 023 - Verificação e Validação**.

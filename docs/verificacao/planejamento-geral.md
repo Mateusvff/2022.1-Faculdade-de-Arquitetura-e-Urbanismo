@@ -6,6 +6,7 @@
 --- | --- | --- | --- | --- |
 22/08/2022 | 0.1 | Criação do Documento | Matheus Costa | Caio César
 22/08/2022 | 0.2 | Adição do corpo do texto | Matheus Costa | Caio César
+05/09/2022 | 0.3 | Correção do hyperlink para o protótipo de papel | Matheus Costa | Thalisson
 
 ## 1. Introdução
 
@@ -45,14 +46,14 @@ Os artefatos verificados foram:
 - [Guia de estilo](../analise-de-requisitos/guia-de-estilo.md)
 - [Planejamento da Avaliação - Análise de Tarefas](../designAvalEDesenv/nivel1/analiseTarefas/planejamento-analise-tarefas.md)
 - [Planejamento dos Relatos - Análise de Tarefas](../designAvalEDesenv/nivel1/analiseTarefas/planej-relato-result-analise-tarefas.md)
-- [Relato Resultados Análise de Tarefas](../designAvalEDesenv/nivel1/analiseTarefas/relato-result-analise-tarefas.md)
+- [Relato dos Resultados - Análise de Tarefas](../designAvalEDesenv/nivel1/analiseTarefas/relato-result-analise-tarefas.md)
 - [Planejamento da Avaliação - Storyboard](../designAvalEDesenv/nivel1/storyboard/planejamento-da-avaliacao-do-storyboard.md)
 - [Planejamento dos Relatos - Storyboard](../designAvalEDesenv/nivel1/storyboard/planej-relato-result-storyboard.md)
-- [Relato Resultados Storyboard](../designAvalEDesenv/nivel1/storyboard/relato-da-avalia%C3%A7%C3%A3o-do-storyboard.md)
+- [Relato dos Resultados - Storyboard](../designAvalEDesenv/nivel1/storyboard/relato-da-avalia%C3%A7%C3%A3o-do-storyboard.md)
 - [Storyboard](../designAvalEDesenv/nivel1/storyboard/storyboard.md)
 - [Planejamento da Avaliação - Protótipo de Papel](../designAvalEDesenv/nivel2/prototPapel/planej-avaliacao-prototipo-papel.md)
-- [Planejamento dos Relatos - Protótipo de Papel](../designAvalEDesenv/nivel2/prototPapel/relato_papel.md)
-- [Protótipo de papel](../designAvalEDesenv/nivel2/prototPapel/planej-avaliacao-prototipo-papel.md)
+- [Planejamento dos Relatos - Protótipo de Papel](../designAvalEDesenv/nivel2/prototPapel/planej-relato-result-prot-papel.md)
+- [Protótipo de papel](../designAvalEDesenv/nivel2/prototPapel/prototipo-de-papel.md)
 
 ## 3. Planejamento
 

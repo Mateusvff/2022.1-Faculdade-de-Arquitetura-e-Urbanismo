@@ -5,11 +5,12 @@
 
 **Data** | **Versão** | **Descrição** | **Autor(es/as)** | **Revisor** |
 --- | --- | --- | --- | --- |
-22/08/2022 | 0.1 | Criação do Documento e Desenvolvimento | Caio César | Laura Pinos 
+22/08/2022 | 0.1 | Criação do Documento e Desenvolvimento | Caio César | Laura Pinos
+05/09/2022 | 0.2 | Correção do hyperlink para o protótipo de papel | Matheus Costa | Caio César
 
 ## 1. Introdução
 
-Neste documento estão contidos os resultados obtidos da verificação do artefato [Protótipo de Papel](../designAvalEDesenv/nivel2/prototPapel/planej-avaliacao-prototipo-papel.md), seguindo os passos previstos no [planejamento](planejamento-geral.md).
+Neste documento estão contidos os resultados obtidos da verificação do artefato [Protótipo de Papel](../designAvalEDesenv/nivel2/prototPapel/prototipo-de-papel.md), seguindo os passos previstos no [planejamento](planejamento-geral.md).
 
 * O artefato foi desenvolvido pelo integrante Thalisson Alves.
 
@@ -54,7 +55,7 @@ O checklist do artefato pode ser visualizado na Tabela 1 abaixo.
 
 A Figura 1 abaixo revela o gráfico gerado com os dados do acompanhamento.
 
-![checklist Processo de Design](https://github.com/Interacao-Humano-Computador/2022.1-Faculdade-de-Arquitetura-e-Urbanismo/blob/verif-caio/docs/assets/100porcem.png?raw=true)
+![checklists (5)](https://user-images.githubusercontent.com/72279998/187324578-f8bdda14-be97-486a-8a14-02c3cca8ed3a.png)
 
 <h6 align = "center">Figura 1: gráfico do checklist do Protótipo de Papel <br>Fonte: Autores. </h6>
 

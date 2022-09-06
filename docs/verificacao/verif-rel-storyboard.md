@@ -1,3 +1,4 @@
+# Verificação - Relato dos resultados da avaliação do Storyboard
 ***
 
 ### Histórico de Versões
@@ -55,8 +56,11 @@ ID | Questão | Inspeção
 
 ### 4.2. Gráfico de acompanhamento
 
+A Figura 1 abaixo revela o gráfico gerado com os dados do acompanhamento.
+
 ![Gráfico](../assets/verif-rel-storyboard.png)
-<h6 align = "center">Figura 1: gráfico de acertos vs defeitos <br>Fonte: Autores. </h6>
+
+<h6 align = "center">Figura 1: gráfico do checklist da verificação do relato<br>Fonte: Autores. </h6>
 
 ## 5. Correção
 
