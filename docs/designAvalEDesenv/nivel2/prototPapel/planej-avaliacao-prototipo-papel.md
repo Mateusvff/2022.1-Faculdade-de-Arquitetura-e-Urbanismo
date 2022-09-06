@@ -114,25 +114,6 @@ Nesta etapa iremos analisar o protótipo e as anotações obtidas durante a cole
 Ao final da avaliação, na etapa de Relato dos Resultados, será criado um documento comunicando aos interessados como foi realizado processo desde a coleta de dados até a consolidação dos resultados. Neste documento será relatado o objetivo da avaliação, o número de entrevistados e como eles se saíram realizando as tarefas propostas e uma lista contendo problemas de usabilidade que foram corrigidos ou não.
 
 
-### 3.5. Protótipo de papel
-
-Esses são os protótipos de papel que definimos a partir das tarefas, visando avaliar o design e a usabilidade do site. Nele temos 6 telas, que estão descritas a seguir:
-
-- Tela inicial, que apresenta as principais notícias e informações pertinentes a seus usuários.
-- Tela de graduação, que lista algumas funcionalidades/informações pertinentes aos graduandos.
-- Tela de apresentação do fluxograma, para validar a usabilidade do sistema junto aos usuários.
-- Tela de pós-graduação, que lista algumas funcionalidades/informações pertinentes aos pós-graduandos.
-- Tela de listagem dos calendários acadêmicos da pós-graduação.
-- Tela de apresentação do calendário de matrícula em disciplina, para validar a usabilidade do sistema.
-
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F0c6zFSFHGjJqircoxlnQi5%2FProt%25C3%25B3tipo-de-papel%3Fnode-id%3D1%253A145%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26starting-point-node-id%3D1%253A145" allowfullscreen></iframe>
-
-<center>
-<figcaption>
-    Para acessar o protótipo acima, acesse este <a href='https://www.figma.com/file/0c6zFSFHGjJqircoxlnQi5/Prot%C3%B3tipo-de-papel?node-id=0%3A1' target='_blank'>link</a>
-</figcaption>
-</center>
-
 ## 4. Referências
 
 > BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**. 1ª Edição. Elsevier, 2010.
