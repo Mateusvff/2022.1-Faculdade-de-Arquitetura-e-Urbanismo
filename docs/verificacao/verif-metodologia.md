@@ -10,7 +10,7 @@
 
 ## 1. Introdução
 
-Neste documento estão contidos os resultados obtidos da verificação do artefato [Plano de Metodologia e Processos ]( ../docs/planejamento/metodologia-e-processos.md), seguindo os passos previstos no [planejamento](planejamento-geral.md).
+Neste documento estão contidos os resultados obtidos da verificação do artefato [Plano de Metodologia e Processos](../planejamento/metodologia-e-processos.md), seguindo os passos previstos no [planejamento](planejamento-geral.md).
 
 * O artefato foi desenvolvido pelo integrante Mateus Franco.
 
@@ -58,7 +58,7 @@ O checklist do artefato pode ser visualizado na Tabela 1 abaixo.
 
 Durante a verificação deste artefato, foi observado que a taxa de acerto está mais alta, influenciando de maneira positiva na qualidade do artefato.
 
-As correções principais dizem respeito a um melhor detalhamento do artefato, o que contribuirá não só com uma descrição melhor do seu conteúdo, mas também com o conteúdo do artefato que se baseia nesse planejamento, a saber, o documento do [Plano de Metodologia e Processos ]( ../docs/planejamento/metodologia-e-processos.md).
+As correções principais dizem respeito a um melhor detalhamento do artefato, o que contribuirá não só com uma descrição melhor do seu conteúdo, mas também com o conteúdo do artefato que se baseia nesse planejamento, a saber, o documento do [Plano de Metodologia e Processos](../planejamento/metodologia-e-processos.md).
 
 ## 6. Referências
 
