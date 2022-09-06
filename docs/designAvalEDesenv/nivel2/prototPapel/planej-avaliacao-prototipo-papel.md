@@ -17,7 +17,7 @@ Simular o uso em papel é um modo rápido e barato de identificar problemas de u
 
 ## 2. Finalidade do planejamento
 
-A principal finalidade deste documento é especificar como será feito a Avaliação do Protótipo em Papel, a fim de auxiliar os avaliadores em como serão feitas as atividades de: 
+A principal finalidade deste documento é especificar como será feito a Avaliação do [Protótipo de Papel](prototipo-de-papel.md), a fim de auxiliar os avaliadores em como serão feitas as atividades de: 
 
 * Preparação
 
@@ -41,7 +41,7 @@ Relato dos resultados | Relatar os problemas encontrados
 
 Os avaliadores deverão preparar as telas do sistema no formato em papel, em geral desenhadas à mão livre e sem a preocupação com detalhes de interface que não sejam relevantes para a avaliação, a fim de representar os elementos principais da interface com os quais os usuários vão interagir durante a simulação da interação.
 
-Foram definidas as atividades as quais serão realizadas pelos participantes durante a Avaliação do Protótipo em Papel, as quais serão:
+Foram definidas as atividades as quais serão realizadas pelos participantes durante a Avaliação do [Protótipo de Papel](prototipo-de-papel.md), as quais serão:
 
 1. Consulta de fluxograma do curso de graduação;
 
@@ -78,7 +78,7 @@ A coleta de dados deve ser realizada por, pelo menos, dois avaliadores:
 
 O responsável por simular o sistema busca compreender as ações do usuário sobre o protótipo apresentado e modificar a interface conforme o comportamento planejado para o sistema, sem, no entanto, fornecer explicações ou orientações para o usuário.
 
-No início da sessão, ele apresentará o protótipo em papel e explicará como estão representados os elementos de
+No início da sessão, ele apresentará o protótipo de papel e explicará como estão representados os elementos de
 interface e como os participantes podem interagir com eles.
 
 Durante a simulação da interação, o observador deve ficar atento a diversos aspectos:
